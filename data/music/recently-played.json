@@ -1,5 +1,104 @@
 [
   {
+    "name": "Jeene Mein Aye Maza",
+    "artist": "Ankur Tewari",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27399241710b1b1b590b79d444e",
+    "spotifyUrl": "https://open.spotify.com/track/1cmy7DaAycbmz8Ts484aSL",
+    "album": "Gully Boy (Original Motion Picture Soundtrack)",
+    "durationMs": 199344,
+    "playedAt": "2026-10-01T08:44:11.923Z"
+  },
+  {
+    "name": "Apna Time Aayega",
+    "artist": "DIVINE",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27399241710b1b1b590b79d444e",
+    "spotifyUrl": "https://open.spotify.com/track/5FLgOuLoVwwUUF7IL36Lux",
+    "album": "Gully Boy (Original Motion Picture Soundtrack)",
+    "durationMs": 140463,
+    "playedAt": "2026-10-01T08:40:52.522Z"
+  },
+  {
+    "name": "Apna Time Aayega",
+    "artist": "DIVINE",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27399241710b1b1b590b79d444e",
+    "spotifyUrl": "https://open.spotify.com/track/5FLgOuLoVwwUUF7IL36Lux",
+    "album": "Gully Boy (Original Motion Picture Soundtrack)",
+    "durationMs": 140463,
+    "playedAt": "2026-10-01T08:38:23.502Z"
+  },
+  {
+    "name": "Apna Time Aayega",
+    "artist": "DIVINE",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27399241710b1b1b590b79d444e",
+    "spotifyUrl": "https://open.spotify.com/track/5FLgOuLoVwwUUF7IL36Lux",
+    "album": "Gully Boy (Original Motion Picture Soundtrack)",
+    "durationMs": 140463,
+    "playedAt": "2026-10-01T08:35:50.199Z"
+  },
+  {
+    "name": "Doori",
+    "artist": "Rishi Rich",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27399241710b1b1b590b79d444e",
+    "spotifyUrl": "https://open.spotify.com/track/4u7rd3IoqnI7myYiui23ik",
+    "album": "Gully Boy (Original Motion Picture Soundtrack)",
+    "durationMs": 135319,
+    "playedAt": "2026-10-01T08:31:54.395Z"
+  },
+  {
+    "name": "Doori Poem",
+    "artist": "Rishi Rich",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27399241710b1b1b590b79d444e",
+    "spotifyUrl": "https://open.spotify.com/track/4ZzjHGnHgvHVBQfKJQkFkl",
+    "album": "Gully Boy (Original Motion Picture Soundtrack)",
+    "durationMs": 65696,
+    "playedAt": "2026-10-01T08:29:39.011Z"
+  },
+  {
+    "name": "Mere Gully Mein",
+    "artist": "Ranveer Singh",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27399241710b1b1b590b79d444e",
+    "spotifyUrl": "https://open.spotify.com/track/3kKC2rGzrad7QjLJnTUPjF",
+    "album": "Gully Boy (Original Motion Picture Soundtrack)",
+    "durationMs": 185000,
+    "playedAt": "2026-10-01T08:28:33.309Z"
+  },
+  {
+    "name": "Yaar Naa Miley (From \"Kick\")",
+    "artist": "Yo Yo Honey Singh",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2734ba2466aa6c47a2a87afd079",
+    "spotifyUrl": "https://open.spotify.com/track/0qzuXwxORXTwSsBU2aJGj5",
+    "album": "Yo Yo Honey Singh Is Back",
+    "durationMs": 243206,
+    "playedAt": "2026-10-01T08:23:52.662Z"
+  },
+  {
+    "name": "Beat Pe Booty",
+    "artist": "Kanika Kapoor",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738808ea1ba2cfba519e797a14",
+    "spotifyUrl": "https://open.spotify.com/track/5VLMyFu09zEFv45NLladEF",
+    "album": "A Flying Jatt (Original Motion Picture Soundtrack)",
+    "durationMs": 197576,
+    "playedAt": "2026-10-01T08:19:48.97Z"
+  },
+  {
+    "name": "She Move It Like",
+    "artist": "Badshah",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2737b8d8ca1a8e14506c8f35233",
+    "spotifyUrl": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd",
+    "album": "ONE (Original Never Ends)",
+    "durationMs": 181764,
+    "playedAt": "2026-10-01T08:16:30.878Z"
+  },
+  {
+    "name": "Sooraj Dooba Hain",
+    "artist": "Amaal Mallik",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273f6371011af4c82fb31d54820",
+    "spotifyUrl": "https://open.spotify.com/track/48pyUxg9RYuwie5M9R7qRn",
+    "album": "Roy",
+    "durationMs": 264854,
+    "playedAt": "2026-10-01T08:13:28.607Z"
+  },
+  {
     "name": "Disco Disco",
     "artist": "Sachin-Jigar",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273b91af7f193643ba849e6211a",
@@ -349,104 +448,5 @@
     "album": "No.6 Collaborations Project",
     "durationMs": 204466,
     "playedAt": "2026-10-01T05:35:20.014Z"
-  },
-  {
-    "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
-    "artist": "Pritam",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2733186471e5280d90457a7edd0",
-    "spotifyUrl": "https://open.spotify.com/track/7iekl4P95GuphG8x8a3cNT",
-    "album": "Rocky Aur Rani Kii Prem Kahaani",
-    "durationMs": 213611,
-    "playedAt": "2026-10-01T05:31:55.05Z"
-  },
-  {
-    "name": "Tareefan - DJ Notorious Remix",
-    "artist": "Badshah",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27366ccf0cab8bd89c0fd69c314",
-    "spotifyUrl": "https://open.spotify.com/track/7DZZNj8TVbajv6YdgtwDaR",
-    "album": "Veere Di Wedding (Original Motion Picture Soundtrack)",
-    "durationMs": 228284,
-    "playedAt": "2026-10-01T05:28:20.939Z"
-  },
-  {
-    "name": "Nashe Si Chadh Gayi",
-    "artist": "Vishal-Shekhar",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273f5dc36d5000145375a41c3b8",
-    "spotifyUrl": "https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO",
-    "album": "Befikre",
-    "durationMs": 237875,
-    "playedAt": "2026-10-01T05:24:10.519Z"
-  },
-  {
-    "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-    "artist": "Raghav",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a9bdccd7e1b16eb656050b2b",
-    "spotifyUrl": "https://open.spotify.com/track/6IR6mzRO60hnMjNoq8rCPE",
-    "album": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-    "durationMs": 153083,
-    "playedAt": "2026-10-01T05:20:12.176Z"
-  },
-  {
-    "name": "Symmetry",
-    "artist": "Ed Sheeran",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273b07c28bb3192bdfb585fb438",
-    "spotifyUrl": "https://open.spotify.com/track/1Xk4qOVBo2N4lA8RWJabjM",
-    "album": "Play",
-    "durationMs": 168979,
-    "playedAt": "2026-10-01T05:17:38.618Z"
-  },
-  {
-    "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
-    "artist": "Aditya Rikhari",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273edf2fb20566c733442f6ee52",
-    "spotifyUrl": "https://open.spotify.com/track/1PALLCSlHwAI4upY3sMg8u",
-    "album": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
-    "durationMs": 212108,
-    "playedAt": "2026-10-01T05:14:49.151Z"
-  },
-  {
-    "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
-    "artist": "Pritam",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2733186471e5280d90457a7edd0",
-    "spotifyUrl": "https://open.spotify.com/track/2q9lPN7CT92W1Ry77j2acn",
-    "album": "Rocky Aur Rani Kii Prem Kahaani",
-    "durationMs": 246988,
-    "playedAt": "2026-10-01T05:11:16.565Z"
-  },
-  {
-    "name": "Sapphire (feat. Arijit Singh) - Remix",
-    "artist": "Ed Sheeran",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2733f14d005a195b4dbba7d7b48",
-    "spotifyUrl": "https://open.spotify.com/track/65dt1vedDHPOCCPS3mVhtN",
-    "album": "Sapphire (feat. Arijit Singh)",
-    "durationMs": 180648,
-    "playedAt": "2026-10-01T05:07:09.081Z"
-  },
-  {
-    "name": "bad thing (bunny hop)",
-    "artist": "Ariana Grande",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "spotifyUrl": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-    "album": "petal",
-    "durationMs": 208024,
-    "playedAt": "2026-10-01T04:47:07.4Z"
-  },
-  {
-    "name": "Photograph",
-    "artist": "Ed Sheeran",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d08209944468440145f01524",
-    "spotifyUrl": "https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy",
-    "album": "x (Wembley Edition)",
-    "durationMs": 258986,
-    "playedAt": "2026-10-01T04:43:38.857Z"
-  },
-  {
-    "name": "S&M",
-    "artist": "Rihanna",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
-    "spotifyUrl": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D",
-    "album": "Loud",
-    "durationMs": 243600,
-    "playedAt": "2026-10-01T04:39:19.354Z"
   }
 ]

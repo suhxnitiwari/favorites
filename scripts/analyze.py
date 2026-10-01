@@ -33,6 +33,13 @@ Sonu Kakkar|Sumonto Mukherjee|Tanishk Bagchi|Tanvi Shah|The Doorbeen|Tulsi Kumar
 Vishal Dadlani|Vishal Mishra|Vishal-Shekhar|Yo Yo Honey Singh|thiarajxtt""".replace("\n", "").split("|"))
 
 
+# Desi titles outside "The Desi Edit" shelf
+DESI_TITLES = ["Yeh Jawaani", "Jab We Met", "Tu Jhoothi", "Rocky Aur", "Student of the Year",
+               "Zakir", "Amit Tandon", "Kapil", "Hasan Minhaj", "Ladies Up"]
+# One-season shows the site lists with a single year
+SINGLE_SEASON = {"Mind the Malhotras", "Dil Dosti Dilemma", "Call Me Bae", "56 Days"}
+
+
 def is_desi(t):
     return any(a in DESI for a in t["artists"])
 
@@ -101,9 +108,7 @@ def watch_and_read():
     authors = Counter(i["meta"] for s in read["shelves"] for i in s["items"])
     speakers = Counter(t["speaker"].split(",")[0] for t in talks["talks"])
     desi = next(s for s in watch["shelves"] if "Desi" in s["title"])["items"]
-    desi_words = ["Yeh Jawaani", "Jab We Met", "Tu Jhoothi", "Rocky Aur", "Student of the Year",
-                  "Zakir", "Amit Tandon", "Kapil", "Hasan Minhaj", "Ladies Up"]
-    desi_count = len(desi) + sum(any(w in i["title"] for w in desi_words) for i in titles if i not in desi)
+    desi_count = len(desi) + sum(any(w in i["title"] for w in DESI_TITLES) for i in titles if i not in desi)
     return {
         "watch_count": len(titles),
         "watch_decades": dict(sorted(Counter(f"{y // 10 * 10}s" for y in years).items())),
@@ -116,6 +121,47 @@ def watch_and_read():
         "talks_by_topic": dict(Counter(t["topic"] for t in talks["talks"])),
         "repeat_speakers": [s for s, c in speakers.items() if c > 1],
     }
+
+
+def visuals():
+    """Chart-ready data for the visuals on index.html."""
+    lab = load("music/music-lab.json")
+    group = lambda t: "ariana" if "Ariana Grande" in t["artists"] else "desi" if is_desi(t) else "other"
+    songs = {term: [{"rank": n, "track": t["name"], "artist": ", ".join(t["artists"][:2]), "art": t["albumArt"],
+                     "year": year(t["releaseDate"]), "minutes": round(t["durationMs"] / 60000, 2),
+                     "url": t["url"], "group": group(t)}
+                    for n, t in enumerate(ts, 1)] for term, ts in lab["topTracks"].items()}
+
+    names = {term: [a["name"] for a in lab["topArtists"][term]] for term in TERMS}
+    photo = {a["name"]: a["image"] for term in TERMS for a in lab["topArtists"][term]}
+    tracked = []
+    for term in ("long_term", "medium_term", "short_term"):
+        tracked += [a for a in names[term][:10] if a not in tracked]
+    bump = [{"name": a, "image": photo[a],
+             "ranks": {term: (names[term].index(a) + 1 if a in names[term] else None) for term in TERMS}}
+            for a in tracked]
+
+    recent = []
+    for r in lab["recent"]:
+        played = datetime.fromisoformat(re.sub(r"\.\d+", "", r["playedAt"]).replace("Z", "+00:00")).astimezone(CENTRAL)
+        t = r["track"]
+        recent.append({"played": played.strftime("%Y-%m-%dT%H:%M"), "track": t["name"], "artist": t["artists"][0],
+                       "art": t["albumArt"], "minutes": round(t["durationMs"] / 60000, 2), "group": group(t)})
+
+    timeline = []
+    for s in load("watch.json")["shelves"]:
+        for i in s["items"]:
+            yrs = [int(y) for y in re.findall(r"\d{4}", i["meta"] or "")]
+            if not yrs:
+                continue  # stand-up specials have no year on the site
+            ongoing = bool(re.search(r"\d{4}–$", i["meta"]))
+            film = len(yrs) == 1 and not ongoing and i["title"] not in SINGLE_SEASON
+            desi = s["title"] == "The Desi Edit" or any(w in i["title"] for w in DESI_TITLES)
+            timeline.append({"title": i["title"], "shelf": s["title"], "image": i["image"], "desi": desi,
+                             "start": yrs[0], "end": datetime.now().year if ongoing else yrs[-1],
+                             "kind": "film" if film else "series", "ongoing": ongoing})
+    timeline.sort(key=lambda x: (x["start"], x["end"]))
+    return {"songs": songs, "bump": bump, "recent": recent, "watch_timeline": timeline}
 
 
 def exports():
@@ -221,7 +267,8 @@ def markdown(i):
 
 
 def main():
-    insights = {"generated": datetime.now().strftime("%Y-%m-%d"), "music": music(), "shelves": watch_and_read()}
+    insights = {"generated": datetime.now().strftime("%Y-%m-%d"), "music": music(), "shelves": watch_and_read(),
+                "visuals": visuals()}
     with open(os.path.join(ROOT, "data", "insights.json"), "w") as f:
         json.dump(insights, f, indent=2, ensure_ascii=False); f.write("\n")
     open(os.path.join(ROOT, "INSIGHTS.md"), "w").write(markdown(insights))

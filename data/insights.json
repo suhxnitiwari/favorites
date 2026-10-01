@@ -212,5 +212,2296 @@
       "Elizabeth Gilbert",
       "Tim Brown"
     ]
+  },
+  "visuals": {
+    "songs": {
+      "short_term": [
+        {
+          "rank": 1,
+          "track": "warning signs (interlude)",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 1.29,
+          "url": "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6",
+          "group": "ariana"
+        },
+        {
+          "rank": 2,
+          "track": "Sapphire (feat. Arijit Singh) - Remix",
+          "artist": "Ed Sheeran, Arijit Singh",
+          "art": "https://i.scdn.co/image/ab67616d0000b2737f86f3a0572c58220e834b6a",
+          "year": 2025,
+          "minutes": 3.01,
+          "url": "https://open.spotify.com/track/2f9mI9NbGhBpHWIAVcgNOs",
+          "group": "desi"
+        },
+        {
+          "rank": 3,
+          "track": "Prada",
+          "artist": "The Doorbeen, Shreya Sharma",
+          "art": "https://i.scdn.co/image/ab67616d0000b273c5177ca80f9e0e1ea52a86d5",
+          "year": 2026,
+          "minutes": 3.09,
+          "url": "https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2",
+          "group": "desi"
+        },
+        {
+          "rank": 4,
+          "track": "Dancing On My Own",
+          "artist": "Robyn",
+          "art": "https://i.scdn.co/image/ab67616d0000b2734689597708c1b0b3dcb9ecaf",
+          "year": 2010,
+          "minutes": 4.76,
+          "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t",
+          "group": "other"
+        },
+        {
+          "rank": 5,
+          "track": "like i do",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 2.79,
+          "url": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU",
+          "group": "ariana"
+        },
+        {
+          "rank": 6,
+          "track": "kiss me",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.66,
+          "url": "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw",
+          "group": "ariana"
+        },
+        {
+          "rank": 7,
+          "track": "big feelings",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 2.89,
+          "url": "https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4",
+          "group": "ariana"
+        },
+        {
+          "rank": 8,
+          "track": "bad thing (bunny hop)",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.47,
+          "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+          "group": "ariana"
+        },
+        {
+          "rank": 9,
+          "track": "never get over me",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.81,
+          "url": "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY",
+          "group": "ariana"
+        },
+        {
+          "rank": 10,
+          "track": "oh well",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.27,
+          "url": "https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx",
+          "group": "ariana"
+        },
+        {
+          "rank": 11,
+          "track": "nowhere, nobody",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 2.87,
+          "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
+          "group": "ariana"
+        },
+        {
+          "rank": 12,
+          "track": "Hills",
+          "artist": "AP Dhillon",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738471bff5344bd04f60ac834a",
+          "year": 2022,
+          "minutes": 2.67,
+          "url": "https://open.spotify.com/track/6SPLYHHBN0dKGaoD2Jcccs",
+          "group": "desi"
+        },
+        {
+          "rank": 13,
+          "track": "freak",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.33,
+          "url": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K",
+          "group": "ariana"
+        },
+        {
+          "rank": 14,
+          "track": "hate that i made you love me",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.3,
+          "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB",
+          "group": "ariana"
+        },
+        {
+          "rank": 15,
+          "track": "Who Says",
+          "artist": "Selena Gomez & The Scene",
+          "art": "https://i.scdn.co/image/ab67616d0000b2731c8193de8d62b2ffa49a09db",
+          "year": 2011,
+          "minutes": 3.26,
+          "url": "https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI",
+          "group": "other"
+        },
+        {
+          "rank": 16,
+          "track": "petal",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.07,
+          "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e",
+          "group": "ariana"
+        },
+        {
+          "rank": 17,
+          "track": "stay",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 2.47,
+          "url": "https://open.spotify.com/track/0QltPqkR4dnhbINyBOU5SY",
+          "group": "ariana"
+        },
+        {
+          "rank": 18,
+          "track": "Hands To Myself",
+          "artist": "Selena Gomez",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736bc7473df6c9d1fd90972e84",
+          "year": 2015,
+          "minutes": 3.34,
+          "url": "https://open.spotify.com/track/3CJvmtWw2bJsudbAC5uCQk",
+          "group": "other"
+        },
+        {
+          "rank": 19,
+          "track": "the cure",
+          "artist": "Olivia Rodrigo",
+          "art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+          "year": 2026,
+          "minutes": 4.95,
+          "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+          "group": "other"
+        },
+        {
+          "rank": 20,
+          "track": "Good Luck, Babe!",
+          "artist": "Chappell Roan",
+          "art": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+          "year": 2024,
+          "minutes": 3.64,
+          "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu",
+          "group": "other"
+        },
+        {
+          "rank": 21,
+          "track": "Con Calma - Remix",
+          "artist": "Daddy Yankee, Katy Perry",
+          "art": "https://i.scdn.co/image/ab67616d0000b273f85899e6f6a05d767cc0f0a0",
+          "year": 2019,
+          "minutes": 3.02,
+          "url": "https://open.spotify.com/track/4au7FRcgZzChASRYu279xH",
+          "group": "other"
+        },
+        {
+          "rank": 22,
+          "track": "Break Free",
+          "artist": "Ariana Grande, Zedd",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.58,
+          "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4",
+          "group": "ariana"
+        },
+        {
+          "rank": 23,
+          "track": "Be My Baby",
+          "artist": "Ariana Grande, Cashmere Cat",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.62,
+          "url": "https://open.spotify.com/track/0fonaf88IEDQM309zmU80L",
+          "group": "ariana"
+        },
+        {
+          "rank": 24,
+          "track": "Problem",
+          "artist": "Ariana Grande, Iggy Azalea",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.23,
+          "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP",
+          "group": "ariana"
+        },
+        {
+          "rank": 25,
+          "track": "Dil Hi Toh Hai - From \"The Sky Is Pink\"",
+          "artist": "Pritam, Arijit Singh",
+          "art": "https://i.scdn.co/image/ab67616d0000b27343cddcba56b445a39bcd36bc",
+          "year": 2023,
+          "minutes": 4.67,
+          "url": "https://open.spotify.com/track/52Bp8AebdOqaZAb7UqAgiL",
+          "group": "desi"
+        },
+        {
+          "rank": 26,
+          "track": "7 rings",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "year": 2019,
+          "minutes": 2.98,
+          "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF",
+          "group": "ariana"
+        },
+        {
+          "rank": 27,
+          "track": "Best Mistake",
+          "artist": "Ariana Grande, Big Sean",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.9,
+          "url": "https://open.spotify.com/track/70yhaHLp9STtzI2Kzba6Tr",
+          "group": "ariana"
+        },
+        {
+          "rank": 28,
+          "track": "One Last Time",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.29,
+          "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd",
+          "group": "ariana"
+        },
+        {
+          "rank": 29,
+          "track": "Break Your Heart Right Back",
+          "artist": "Ariana Grande, Childish Gambino",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 4.22,
+          "url": "https://open.spotify.com/track/0HGcQDbRen8luCnwH53sNl",
+          "group": "ariana"
+        },
+        {
+          "rank": 30,
+          "track": "Love Me Harder",
+          "artist": "Ariana Grande, The Weeknd",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.94,
+          "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn",
+          "group": "ariana"
+        },
+        {
+          "rank": 31,
+          "track": "Arz Kiya Hai | Coke Studio Bharat",
+          "artist": "Anuv Jain",
+          "art": "https://i.scdn.co/image/ab67616d0000b27325fa2d19b2363a9520a34409",
+          "year": 2025,
+          "minutes": 4.91,
+          "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1",
+          "group": "desi"
+        },
+        {
+          "rank": 32,
+          "track": "Intro",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 1.33,
+          "url": "https://open.spotify.com/track/0qMNPhpRzbghJy6G3SgRag",
+          "group": "ariana"
+        },
+        {
+          "rank": 33,
+          "track": "Run Down The City - Monica",
+          "artist": "Shashwat Sachdev, Reble",
+          "art": "https://i.scdn.co/image/ab67616d0000b2737838ccbef3fb712228e23fc5",
+          "year": 2025,
+          "minutes": 2.35,
+          "url": "https://open.spotify.com/track/5NK3IhIeIXQmOKK5EiSRra",
+          "group": "desi"
+        },
+        {
+          "rank": 34,
+          "track": "what’s wrong with me",
+          "artist": "Olivia Rodrigo, Robert Smith",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+          "year": 2026,
+          "minutes": 3.75,
+          "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv",
+          "group": "other"
+        },
+        {
+          "rank": 35,
+          "track": "Treacherous",
+          "artist": "Taylor Swift",
+          "art": "https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3",
+          "year": 2012,
+          "minutes": 4.01,
+          "url": "https://open.spotify.com/track/0XfOV7qY3834QpFVwOb6CC",
+          "group": "other"
+        },
+        {
+          "rank": 36,
+          "track": "drop dead",
+          "artist": "Olivia Rodrigo",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+          "year": 2026,
+          "minutes": 3.75,
+          "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD",
+          "group": "other"
+        },
+        {
+          "rank": 37,
+          "track": "Why Try",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.53,
+          "url": "https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW",
+          "group": "ariana"
+        },
+        {
+          "rank": 38,
+          "track": "Just A Little Bit Of Your Heart",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.88,
+          "url": "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz",
+          "group": "ariana"
+        },
+        {
+          "rank": 39,
+          "track": "Hands On Me",
+          "artist": "Ariana Grande, A$AP Ferg",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.2,
+          "url": "https://open.spotify.com/track/1rNop31kdDmSj3Ds6xhIeS",
+          "group": "ariana"
+        },
+        {
+          "rank": 40,
+          "track": "Bed (feat. Ariana Grande)",
+          "artist": "Nicki Minaj, Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4",
+          "year": 2018,
+          "minutes": 3.16,
+          "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv",
+          "group": "ariana"
+        },
+        {
+          "rank": 41,
+          "track": "My Everything",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 2.81,
+          "url": "https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs",
+          "group": "ariana"
+        },
+        {
+          "rank": 42,
+          "track": "Confident - Single Version",
+          "artist": "Justin Bieber, Chance the Rapper",
+          "art": "https://i.scdn.co/image/ab67616d0000b27386b35d0bfa6bbceed7541a3d",
+          "year": 2013,
+          "minutes": 4.14,
+          "url": "https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud",
+          "group": "other"
+        },
+        {
+          "rank": 43,
+          "track": "my way",
+          "artist": "Olivia Rodrigo",
+          "art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+          "year": 2026,
+          "minutes": 3.01,
+          "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf",
+          "group": "other"
+        },
+        {
+          "rank": 44,
+          "track": "Jutti Meri - Live",
+          "artist": "Neha Bhasin",
+          "art": "https://i.scdn.co/image/ab67616d0000b273804b512044f86883254964f4",
+          "year": 2020,
+          "minutes": 3.47,
+          "url": "https://open.spotify.com/track/6v4OWxDDulyvjWfRXPjA8Y",
+          "group": "desi"
+        },
+        {
+          "rank": 45,
+          "track": "I Knew You Were Trouble.",
+          "artist": "Taylor Swift",
+          "art": "https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5",
+          "year": 2012,
+          "minutes": 3.63,
+          "url": "https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj",
+          "group": "other"
+        },
+        {
+          "rank": 46,
+          "track": "Wo Noor",
+          "artist": "AP Dhillon",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738471bff5344bd04f60ac834a",
+          "year": 2022,
+          "minutes": 3.32,
+          "url": "https://open.spotify.com/track/32FVH23yFXr8Z0sfjRw4It",
+          "group": "desi"
+        },
+        {
+          "rank": 47,
+          "track": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
+          "artist": "Sachin-Jigar, Rashmeet Kaur",
+          "art": "https://i.scdn.co/image/ab67616d0000b2734a613b1d85b1708afd289752",
+          "year": 2021,
+          "minutes": 2.73,
+          "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt",
+          "group": "desi"
+        },
+        {
+          "rank": 48,
+          "track": "stupid song",
+          "artist": "Olivia Rodrigo",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+          "year": 2026,
+          "minutes": 3.49,
+          "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
+          "group": "other"
+        },
+        {
+          "rank": 49,
+          "track": "Dress",
+          "artist": "Taylor Swift",
+          "art": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+          "year": 2017,
+          "minutes": 3.84,
+          "url": "https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv",
+          "group": "other"
+        },
+        {
+          "rank": 50,
+          "track": "Bang Bang",
+          "artist": "Jessie J, Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273930f686fe89425c7b6bf9a7d",
+          "year": 2014,
+          "minutes": 3.32,
+          "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN",
+          "group": "ariana"
+        }
+      ],
+      "medium_term": [
+        {
+          "rank": 1,
+          "track": "stupid song",
+          "artist": "Olivia Rodrigo",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+          "year": 2026,
+          "minutes": 3.49,
+          "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
+          "group": "other"
+        },
+        {
+          "rank": 2,
+          "track": "drop dead",
+          "artist": "Olivia Rodrigo",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+          "year": 2026,
+          "minutes": 3.75,
+          "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD",
+          "group": "other"
+        },
+        {
+          "rank": 3,
+          "track": "like i do",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 2.79,
+          "url": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU",
+          "group": "ariana"
+        },
+        {
+          "rank": 4,
+          "track": "Babydoll",
+          "artist": "Dominic Fike",
+          "art": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+          "year": 2018,
+          "minutes": 1.63,
+          "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+          "group": "other"
+        },
+        {
+          "rank": 5,
+          "track": "warning signs (interlude)",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 1.29,
+          "url": "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6",
+          "group": "ariana"
+        },
+        {
+          "rank": 6,
+          "track": "7 rings",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "year": 2019,
+          "minutes": 2.98,
+          "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF",
+          "group": "ariana"
+        },
+        {
+          "rank": 7,
+          "track": "Thinking Bout You",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5",
+          "year": 2016,
+          "minutes": 3.34,
+          "url": "https://open.spotify.com/track/1UujO43qVZnWObydH4MLT5",
+          "group": "ariana"
+        },
+        {
+          "rank": 8,
+          "track": "the cure",
+          "artist": "Olivia Rodrigo",
+          "art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+          "year": 2026,
+          "minutes": 4.95,
+          "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+          "group": "other"
+        },
+        {
+          "rank": 9,
+          "track": "bad thing (bunny hop)",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.47,
+          "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+          "group": "ariana"
+        },
+        {
+          "rank": 10,
+          "track": "Break Free",
+          "artist": "Ariana Grande, Zedd",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.58,
+          "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4",
+          "group": "ariana"
+        },
+        {
+          "rank": 11,
+          "track": "Work Bitch",
+          "artist": "Britney Spears",
+          "art": "https://i.scdn.co/image/ab67616d0000b2733c9f7b8faf039c7607d12255",
+          "year": 2013,
+          "minutes": 4.13,
+          "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1",
+          "group": "other"
+        },
+        {
+          "rank": 12,
+          "track": "NOBODY'S GIRL",
+          "artist": "Tate McRae",
+          "art": "https://i.scdn.co/image/ab67616d0000b273177ea3a7cc03eeb677eebdc4",
+          "year": 2025,
+          "minutes": 2.8,
+          "url": "https://open.spotify.com/track/3B2ZpJeewPvhAkjXtTkdtJ",
+          "group": "other"
+        },
+        {
+          "rank": 13,
+          "track": "positions",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 2.87,
+          "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0",
+          "group": "ariana"
+        },
+        {
+          "rank": 14,
+          "track": "my way",
+          "artist": "Olivia Rodrigo",
+          "art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+          "year": 2026,
+          "minutes": 3.01,
+          "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf",
+          "group": "other"
+        },
+        {
+          "rank": 15,
+          "track": "bloodline",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "year": 2019,
+          "minutes": 3.61,
+          "url": "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX",
+          "group": "ariana"
+        },
+        {
+          "rank": 16,
+          "track": "kiss me",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.66,
+          "url": "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw",
+          "group": "ariana"
+        },
+        {
+          "rank": 17,
+          "track": "Prada",
+          "artist": "The Doorbeen, Shreya Sharma",
+          "art": "https://i.scdn.co/image/ab67616d0000b273c5177ca80f9e0e1ea52a86d5",
+          "year": 2026,
+          "minutes": 3.09,
+          "url": "https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2",
+          "group": "desi"
+        },
+        {
+          "rank": 18,
+          "track": "GIRLS",
+          "artist": "The Kid LAROI",
+          "art": "https://i.scdn.co/image/ab67616d0000b2739454d875c64ae0376b4b59bb",
+          "year": 2024,
+          "minutes": 2.55,
+          "url": "https://open.spotify.com/track/6WhwHYd38f4ZB2CefpDgLo",
+          "group": "other"
+        },
+        {
+          "rank": 19,
+          "track": "Into You",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5",
+          "year": 2016,
+          "minutes": 4.07,
+          "url": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe",
+          "group": "ariana"
+        },
+        {
+          "rank": 20,
+          "track": "big feelings",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 2.89,
+          "url": "https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4",
+          "group": "ariana"
+        },
+        {
+          "rank": 21,
+          "track": "bad idea",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6",
+          "year": 2018,
+          "minutes": 4.45,
+          "url": "https://open.spotify.com/track/7EQpvVujgytLVY8vKiDHAg",
+          "group": "ariana"
+        },
+        {
+          "rank": 22,
+          "track": "Sapphire (feat. Arijit Singh) - Remix",
+          "artist": "Ed Sheeran, Arijit Singh",
+          "art": "https://i.scdn.co/image/ab67616d0000b2737f86f3a0572c58220e834b6a",
+          "year": 2025,
+          "minutes": 3.01,
+          "url": "https://open.spotify.com/track/2f9mI9NbGhBpHWIAVcgNOs",
+          "group": "desi"
+        },
+        {
+          "rank": 23,
+          "track": "never get over me",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.81,
+          "url": "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY",
+          "group": "ariana"
+        },
+        {
+          "rank": 24,
+          "track": "nowhere, nobody",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 2.87,
+          "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
+          "group": "ariana"
+        },
+        {
+          "rank": 25,
+          "track": "Siren sounds (bonus)",
+          "artist": "Tate McRae",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736c691022744f42565f6b546e",
+          "year": 2025,
+          "minutes": 3.06,
+          "url": "https://open.spotify.com/track/6A18pcBX8QZGwI8EkR7aIP",
+          "group": "other"
+        },
+        {
+          "rank": 26,
+          "track": "Dancing On My Own",
+          "artist": "Robyn",
+          "art": "https://i.scdn.co/image/ab67616d0000b2734689597708c1b0b3dcb9ecaf",
+          "year": 2010,
+          "minutes": 4.76,
+          "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t",
+          "group": "other"
+        },
+        {
+          "rank": 27,
+          "track": "Earrings",
+          "artist": "Malcolm Todd",
+          "art": "https://i.scdn.co/image/ab67616d0000b2732c1f34ecc1929fb59908aad1",
+          "year": 2024,
+          "minutes": 2.52,
+          "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
+          "group": "other"
+        },
+        {
+          "rank": 28,
+          "track": "ghostin",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6",
+          "year": 2018,
+          "minutes": 4.52,
+          "url": "https://open.spotify.com/track/4lD7gHKF1e8Y9stQuVezZB",
+          "group": "ariana"
+        },
+        {
+          "rank": 29,
+          "track": "Kiss It Better",
+          "artist": "Rihanna",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+          "year": 2016,
+          "minutes": 4.22,
+          "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS",
+          "group": "other"
+        },
+        {
+          "rank": 30,
+          "track": "just like magic",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 2.5,
+          "url": "https://open.spotify.com/track/7Dx9Z6Aon1qPS2N0rHSWTe",
+          "group": "ariana"
+        },
+        {
+          "rank": 31,
+          "track": "what’s wrong with me",
+          "artist": "Olivia Rodrigo, Robert Smith",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+          "year": 2026,
+          "minutes": 3.75,
+          "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv",
+          "group": "other"
+        },
+        {
+          "rank": 32,
+          "track": "Dil Nu",
+          "artist": "AP Dhillon, Shinda Kahlon",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738471bff5344bd04f60ac834a",
+          "year": 2022,
+          "minutes": 3.89,
+          "url": "https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm",
+          "group": "desi"
+        },
+        {
+          "rank": 33,
+          "track": "nasty",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 3.35,
+          "url": "https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO",
+          "group": "ariana"
+        },
+        {
+          "rank": 34,
+          "track": "Why Try",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.53,
+          "url": "https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW",
+          "group": "ariana"
+        },
+        {
+          "rank": 35,
+          "track": "Just A Little Bit Of Your Heart",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.88,
+          "url": "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz",
+          "group": "ariana"
+        },
+        {
+          "rank": 36,
+          "track": "in my head",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "year": 2019,
+          "minutes": 3.72,
+          "url": "https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw",
+          "group": "ariana"
+        },
+        {
+          "rank": 37,
+          "track": "freak",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.33,
+          "url": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K",
+          "group": "ariana"
+        },
+        {
+          "rank": 38,
+          "track": "west side",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 2.2,
+          "url": "https://open.spotify.com/track/1whfVLMKWqAX3uk97VXsNN",
+          "group": "ariana"
+        },
+        {
+          "rank": 39,
+          "track": "past life",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9",
+          "year": 2025,
+          "minutes": 3.6,
+          "url": "https://open.spotify.com/track/2MIpkAQVJqQIDf9k4YWoHR",
+          "group": "ariana"
+        },
+        {
+          "rank": 40,
+          "track": "pov",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 3.36,
+          "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33",
+          "group": "ariana"
+        },
+        {
+          "rank": 41,
+          "track": "hate that i made you love me",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.3,
+          "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB",
+          "group": "ariana"
+        },
+        {
+          "rank": 42,
+          "track": "34+35",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 2.9,
+          "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF",
+          "group": "ariana"
+        },
+        {
+          "rank": 43,
+          "track": "petal",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.07,
+          "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e",
+          "group": "ariana"
+        },
+        {
+          "rank": 44,
+          "track": "oh well",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 3.27,
+          "url": "https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx",
+          "group": "ariana"
+        },
+        {
+          "rank": 45,
+          "track": "Touch It",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5",
+          "year": 2016,
+          "minutes": 4.33,
+          "url": "https://open.spotify.com/track/6WikCGNUbXFmXoLre7vjeW",
+          "group": "ariana"
+        },
+        {
+          "rank": 46,
+          "track": "motive (with Doja Cat)",
+          "artist": "Ariana Grande, Doja Cat",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 2.8,
+          "url": "https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT",
+          "group": "ariana"
+        },
+        {
+          "rank": 47,
+          "track": "Bed (feat. Ariana Grande)",
+          "artist": "Nicki Minaj, Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4",
+          "year": 2018,
+          "minutes": 3.16,
+          "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv",
+          "group": "ariana"
+        },
+        {
+          "rank": 48,
+          "track": "Hills",
+          "artist": "AP Dhillon",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738471bff5344bd04f60ac834a",
+          "year": 2022,
+          "minutes": 2.67,
+          "url": "https://open.spotify.com/track/6SPLYHHBN0dKGaoD2Jcccs",
+          "group": "desi"
+        },
+        {
+          "rank": 49,
+          "track": "Hands To Myself",
+          "artist": "Selena Gomez",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736bc7473df6c9d1fd90972e84",
+          "year": 2015,
+          "minutes": 3.34,
+          "url": "https://open.spotify.com/track/3CJvmtWw2bJsudbAC5uCQk",
+          "group": "other"
+        },
+        {
+          "rank": 50,
+          "track": "goodnight n go",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+          "year": 2018,
+          "minutes": 3.16,
+          "url": "https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln",
+          "group": "ariana"
+        }
+      ],
+      "long_term": [
+        {
+          "rank": 1,
+          "track": "Run Down The City - Monica",
+          "artist": "Shashwat Sachdev, Reble",
+          "art": "https://i.scdn.co/image/ab67616d0000b2730b787e18e693e344202486bf",
+          "year": 2025,
+          "minutes": 2.35,
+          "url": "https://open.spotify.com/track/7dU0cwMHeo1ECqxSsjoh5j",
+          "group": "desi"
+        },
+        {
+          "rank": 2,
+          "track": "Thinking Bout You",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065",
+          "year": 2016,
+          "minutes": 3.34,
+          "url": "https://open.spotify.com/track/28tmK8wkE9y1UHdBKLd0nA",
+          "group": "ariana"
+        },
+        {
+          "rank": 3,
+          "track": "eternal sunshine",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+          "year": 2024,
+          "minutes": 3.5,
+          "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ",
+          "group": "ariana"
+        },
+        {
+          "rank": 4,
+          "track": "like JENNIE",
+          "artist": "JENNIE",
+          "art": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
+          "year": 2025,
+          "minutes": 2.06,
+          "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1",
+          "group": "other"
+        },
+        {
+          "rank": 5,
+          "track": "we can't be friends (wait for your love)",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+          "year": 2024,
+          "minutes": 3.81,
+          "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4",
+          "group": "ariana"
+        },
+        {
+          "rank": 6,
+          "track": "everytime",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+          "year": 2018,
+          "minutes": 2.87,
+          "url": "https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0",
+          "group": "ariana"
+        },
+        {
+          "rank": 7,
+          "track": "One Last Time",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "year": 2014,
+          "minutes": 3.29,
+          "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd",
+          "group": "ariana"
+        },
+        {
+          "rank": 8,
+          "track": "bloodline",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "year": 2019,
+          "minutes": 3.61,
+          "url": "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX",
+          "group": "ariana"
+        },
+        {
+          "rank": 9,
+          "track": "positions",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 2.87,
+          "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0",
+          "group": "ariana"
+        },
+        {
+          "rank": 10,
+          "track": "bad idea",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6",
+          "year": 2018,
+          "minutes": 4.45,
+          "url": "https://open.spotify.com/track/7EQpvVujgytLVY8vKiDHAg",
+          "group": "ariana"
+        },
+        {
+          "rank": 11,
+          "track": "stupid song",
+          "artist": "Olivia Rodrigo",
+          "art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+          "year": 2026,
+          "minutes": 3.49,
+          "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4",
+          "group": "other"
+        },
+        {
+          "rank": 12,
+          "track": "in my head",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "year": 2019,
+          "minutes": 3.72,
+          "url": "https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw",
+          "group": "ariana"
+        },
+        {
+          "rank": 13,
+          "track": "7 rings",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "year": 2019,
+          "minutes": 2.98,
+          "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF",
+          "group": "ariana"
+        },
+        {
+          "rank": 14,
+          "track": "nasty",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 3.35,
+          "url": "https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO",
+          "group": "ariana"
+        },
+        {
+          "rank": 15,
+          "track": "like i do",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 2.79,
+          "url": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU",
+          "group": "ariana"
+        },
+        {
+          "rank": 16,
+          "track": "Kinni Kinni",
+          "artist": "Diljit Dosanjh, thiarajxtt",
+          "art": "https://i.scdn.co/image/ab67616d0000b273cb2f9520171129a3df7a241a",
+          "year": 2023,
+          "minutes": 3.56,
+          "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi",
+          "group": "desi"
+        },
+        {
+          "rank": 17,
+          "track": "drop dead",
+          "artist": "Olivia Rodrigo",
+          "art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+          "year": 2026,
+          "minutes": 3.75,
+          "url": "https://open.spotify.com/track/0yO9QD2Ga7eUzqnNYsSSPo",
+          "group": "other"
+        },
+        {
+          "rank": 18,
+          "track": "obvious",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 2.45,
+          "url": "https://open.spotify.com/track/0q85C1JiECyYIQthz1posA",
+          "group": "ariana"
+        },
+        {
+          "rank": 19,
+          "track": "Wolves",
+          "artist": "Selena Gomez, Marshmello",
+          "art": "https://i.scdn.co/image/ab67616d0000b273307910d4242c0d6b1fedf955",
+          "year": 2017,
+          "minutes": 3.3,
+          "url": "https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU",
+          "group": "other"
+        },
+        {
+          "rank": 20,
+          "track": "west side",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 2.2,
+          "url": "https://open.spotify.com/track/1whfVLMKWqAX3uk97VXsNN",
+          "group": "ariana"
+        },
+        {
+          "rank": 21,
+          "track": "goodnight n go",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+          "year": 2018,
+          "minutes": 3.16,
+          "url": "https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln",
+          "group": "ariana"
+        },
+        {
+          "rank": 22,
+          "track": "That’s So True",
+          "artist": "Gracie Abrams",
+          "art": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+          "year": 2024,
+          "minutes": 2.77,
+          "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
+          "group": "other"
+        },
+        {
+          "rank": 23,
+          "track": "Moonlight",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065",
+          "year": 2016,
+          "minutes": 3.37,
+          "url": "https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e",
+          "group": "ariana"
+        },
+        {
+          "rank": 24,
+          "track": "São Paulo (feat. Anitta)",
+          "artist": "The Weeknd, Anitta",
+          "art": "https://i.scdn.co/image/ab67616d0000b273de79f330bc297af3fae736da",
+          "year": 2025,
+          "minutes": 5.03,
+          "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC",
+          "group": "other"
+        },
+        {
+          "rank": 25,
+          "track": "pov",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 3.36,
+          "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33",
+          "group": "ariana"
+        },
+        {
+          "rank": 26,
+          "track": "Knew Better / Forever Boy",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065",
+          "year": 2016,
+          "minutes": 4.99,
+          "url": "https://open.spotify.com/track/1ywoy5kdf2LsG2019ClGjm",
+          "group": "ariana"
+        },
+        {
+          "rank": 27,
+          "track": "Babydoll",
+          "artist": "Dominic Fike",
+          "art": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+          "year": 2018,
+          "minutes": 1.63,
+          "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+          "group": "other"
+        },
+        {
+          "rank": 28,
+          "track": "Touch It",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065",
+          "year": 2016,
+          "minutes": 4.33,
+          "url": "https://open.spotify.com/track/7rlKlsYacU3PFLGD7ca1HL",
+          "group": "ariana"
+        },
+        {
+          "rank": 29,
+          "track": "Hate Me (with Juice WRLD)",
+          "artist": "Ellie Goulding, Juice WRLD",
+          "art": "https://i.scdn.co/image/ab67616d0000b273dc854e032e8588d5e75eebc6",
+          "year": 2019,
+          "minutes": 3.1,
+          "url": "https://open.spotify.com/track/6kls8cSlUyHW2BUOkDJIZE",
+          "group": "other"
+        },
+        {
+          "rank": 30,
+          "track": "run for the hills",
+          "artist": "Tate McRae",
+          "art": "https://i.scdn.co/image/ab67616d0000b273c4258b134ff5756932f9c46f",
+          "year": 2023,
+          "minutes": 2.4,
+          "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu",
+          "group": "other"
+        },
+        {
+          "rank": 31,
+          "track": "Kiss It Better",
+          "artist": "Rihanna",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+          "year": 2016,
+          "minutes": 4.22,
+          "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS",
+          "group": "other"
+        },
+        {
+          "rank": 32,
+          "track": "needy",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "year": 2019,
+          "minutes": 2.86,
+          "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ",
+          "group": "ariana"
+        },
+        {
+          "rank": 33,
+          "track": "God is a woman",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+          "year": 2018,
+          "minutes": 3.29,
+          "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C",
+          "group": "ariana"
+        },
+        {
+          "rank": 34,
+          "track": "Good Luck, Babe!",
+          "artist": "Chappell Roan",
+          "art": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+          "year": 2024,
+          "minutes": 3.64,
+          "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu",
+          "group": "other"
+        },
+        {
+          "rank": 35,
+          "track": "Needed Me",
+          "artist": "Rihanna",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+          "year": 2016,
+          "minutes": 3.19,
+          "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3",
+          "group": "other"
+        },
+        {
+          "rank": 36,
+          "track": "warning signs (interlude)",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "year": 2026,
+          "minutes": 1.29,
+          "url": "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6",
+          "group": "ariana"
+        },
+        {
+          "rank": 37,
+          "track": "NOBODY'S GIRL",
+          "artist": "Tate McRae",
+          "art": "https://i.scdn.co/image/ab67616d0000b273c40dccc1952bb5ed96986869",
+          "year": 2025,
+          "minutes": 2.8,
+          "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2",
+          "group": "other"
+        },
+        {
+          "rank": 38,
+          "track": "imagine",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "year": 2019,
+          "minutes": 3.54,
+          "url": "https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow",
+          "group": "ariana"
+        },
+        {
+          "rank": 39,
+          "track": "Yellow",
+          "artist": "Coldplay",
+          "art": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+          "year": 2000,
+          "minutes": 4.45,
+          "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
+          "group": "other"
+        },
+        {
+          "rank": 40,
+          "track": "boyfriend (with Social House)",
+          "artist": "Ariana Grande, Social House",
+          "art": "https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f",
+          "year": 2019,
+          "minutes": 3.1,
+          "url": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t",
+          "group": "ariana"
+        },
+        {
+          "rank": 41,
+          "track": "better off",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+          "year": 2018,
+          "minutes": 2.86,
+          "url": "https://open.spotify.com/track/3NbTQ8ZbHU6MSEVUFAVCJ9",
+          "group": "ariana"
+        },
+        {
+          "rank": 42,
+          "track": "Shararat (From \"Dhurandhar\")",
+          "artist": "Shashwat Sachdev, Madhubanti Bagchi",
+          "art": "https://i.scdn.co/image/ab67616d0000b2730d4983835036172fddd93936",
+          "year": 2025,
+          "minutes": 3.73,
+          "url": "https://open.spotify.com/track/0uvnGQnVe313EXePbRnZEH",
+          "group": "desi"
+        },
+        {
+          "rank": 43,
+          "track": "safety net (feat. Ty Dolla $ign)",
+          "artist": "Ariana Grande, Ty Dolla $ign",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 3.47,
+          "url": "https://open.spotify.com/track/14gkWVFMwdxBMyqBw1wmIg",
+          "group": "ariana"
+        },
+        {
+          "rank": 44,
+          "track": "Sadqay",
+          "artist": "Aashir Wajahat, NAYEL",
+          "art": "https://i.scdn.co/image/ab67616d0000b273518e98ce0ef69f7ce0781157",
+          "year": 2024,
+          "minutes": 2.57,
+          "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s",
+          "group": "desi"
+        },
+        {
+          "rank": 45,
+          "track": "I Love You, I'm Sorry",
+          "artist": "Gracie Abrams",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+          "year": 2024,
+          "minutes": 2.62,
+          "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy",
+          "group": "other"
+        },
+        {
+          "rank": 46,
+          "track": "ghostin",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "year": 2019,
+          "minutes": 4.52,
+          "url": "https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC",
+          "group": "ariana"
+        },
+        {
+          "rank": 47,
+          "track": "Beauty And A Beat",
+          "artist": "Justin Bieber, Nicki Minaj",
+          "art": "https://i.scdn.co/image/ab67616d0000b2736c20c4638a558132ba95bc39",
+          "year": 2012,
+          "minutes": 3.8,
+          "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk",
+          "group": "other"
+        },
+        {
+          "rank": 48,
+          "track": "34+35",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "year": 2020,
+          "minutes": 2.9,
+          "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF",
+          "group": "ariana"
+        },
+        {
+          "rank": 49,
+          "track": "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
+          "artist": "Ariana Grande, Doja Cat",
+          "art": "https://i.scdn.co/image/ab67616d0000b27343d04ae192008a5113862faf",
+          "year": 2021,
+          "minutes": 3.04,
+          "url": "https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR",
+          "group": "ariana"
+        },
+        {
+          "rank": 50,
+          "track": "One Last Time - Instrumental",
+          "artist": "Ariana Grande",
+          "art": "https://i.scdn.co/image/ab67616d0000b2739db9c19b2485517da3bbdf60",
+          "year": 2014,
+          "minutes": 3.31,
+          "url": "https://open.spotify.com/track/4VlyINESDLEOklzN6JCQtE",
+          "group": "ariana"
+        }
+      ]
+    },
+    "bump": [
+      {
+        "name": "Ariana Grande",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+        "ranks": {
+          "short_term": 1,
+          "medium_term": 1,
+          "long_term": 1
+        }
+      },
+      {
+        "name": "Taylor Swift",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
+        "ranks": {
+          "short_term": 2,
+          "medium_term": 3,
+          "long_term": 2
+        }
+      },
+      {
+        "name": "Olivia Rodrigo",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+        "ranks": {
+          "short_term": 3,
+          "medium_term": 2,
+          "long_term": 3
+        }
+      },
+      {
+        "name": "Tate McRae",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
+        "ranks": {
+          "short_term": 34,
+          "medium_term": 4,
+          "long_term": 4
+        }
+      },
+      {
+        "name": "Sabrina Carpenter",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
+        "ranks": {
+          "short_term": 22,
+          "medium_term": 8,
+          "long_term": 5
+        }
+      },
+      {
+        "name": "Rihanna",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
+        "ranks": {
+          "short_term": 11,
+          "medium_term": 5,
+          "long_term": 6
+        }
+      },
+      {
+        "name": "The Weeknd",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+        "ranks": {
+          "short_term": null,
+          "medium_term": 15,
+          "long_term": 7
+        }
+      },
+      {
+        "name": "Justin Bieber",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
+        "ranks": {
+          "short_term": 30,
+          "medium_term": 7,
+          "long_term": 8
+        }
+      },
+      {
+        "name": "Pritam",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcb6926f44f620555ba444fca",
+        "ranks": {
+          "short_term": 10,
+          "medium_term": 19,
+          "long_term": 9
+        }
+      },
+      {
+        "name": "Selena Gomez",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb815e520e3ce7fe210046ba66",
+        "ranks": {
+          "short_term": 9,
+          "medium_term": 10,
+          "long_term": 10
+        }
+      },
+      {
+        "name": "AP Dhillon",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebfb505b37709fa86cfd8f55b3",
+        "ranks": {
+          "short_term": 4,
+          "medium_term": 6,
+          "long_term": 18
+        }
+      },
+      {
+        "name": "Shashwat Sachdev",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb54f120e72388f1c5c3aa3edd",
+        "ranks": {
+          "short_term": 5,
+          "medium_term": 9,
+          "long_term": 14
+        }
+      },
+      {
+        "name": "Ed Sheeran",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec",
+        "ranks": {
+          "short_term": 6,
+          "medium_term": 16,
+          "long_term": 24
+        }
+      },
+      {
+        "name": "Katy Perry",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
+        "ranks": {
+          "short_term": 7,
+          "medium_term": 13,
+          "long_term": 13
+        }
+      },
+      {
+        "name": "Ellie Goulding",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb5c461001b3489a0a523f63ee",
+        "ranks": {
+          "short_term": 8,
+          "medium_term": 17,
+          "long_term": 25
+        }
+      }
+    ],
+    "recent": [
+      {
+        "played": "2026-10-01T03:09",
+        "track": "Disco Disco",
+        "artist": "Sachin-Jigar",
+        "art": "https://i.scdn.co/image/ab67616d0000b273b91af7f193643ba849e6211a",
+        "minutes": 2.78,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T03:06",
+        "track": "Dhat Teri Ki",
+        "artist": "Vishal-Shekhar",
+        "art": "https://i.scdn.co/image/ab67616d0000b2734fa33110e7aa38e228fc050d",
+        "minutes": 4.12,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T03:02",
+        "track": "Urvashi",
+        "artist": "Yo Yo Honey Singh",
+        "art": "https://i.scdn.co/image/ab67616d0000b273b7f69196f71d4e059f5d49c1",
+        "minutes": 3.59,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:58",
+        "track": "Besabriyaan (From \"M.S.Dhoni - The Untold Story\")",
+        "artist": "Armaan Malik",
+        "art": "https://i.scdn.co/image/ab67616d0000b2735b64b60fed926172156419c8",
+        "minutes": 4.26,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:54",
+        "track": "Mercy",
+        "artist": "Badshah",
+        "art": "https://i.scdn.co/image/ab67616d0000b2737b8d8ca1a8e14506c8f35233",
+        "minutes": 2.71,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:51",
+        "track": "Cham Cham",
+        "artist": "Meet Bros.",
+        "art": "https://i.scdn.co/image/ab67616d0000b273442cc5719771ff2ca62f437f",
+        "minutes": 4.36,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:47",
+        "track": "Gulabi",
+        "artist": "Sachin-Jigar",
+        "art": "https://i.scdn.co/image/ab67616d0000b273b142294d7adcc8e4f599fe87",
+        "minutes": 3.84,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:43",
+        "track": "Chogada (From \"Loveyatri\")",
+        "artist": "Darshan Raval",
+        "art": "https://i.scdn.co/image/ab67616d0000b2732e15fbd6a10bc9d5994e3abf",
+        "minutes": 4.16,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:39",
+        "track": "Dil Chori (From \"Sonu Ke Titu Ki Sweety\")",
+        "artist": "Yo Yo Honey Singh",
+        "art": "https://i.scdn.co/image/ab67616d0000b273ed9be8a7a5a45c7a0b7d6cac",
+        "minutes": 3.78,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:35",
+        "track": "Pappu Can't Dance",
+        "artist": "Benny Dayal",
+        "art": "https://i.scdn.co/image/ab67616d0000b273abf91851997179d195afab5f",
+        "minutes": 4.42,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:30",
+        "track": "Jugnu",
+        "artist": "Badshah",
+        "art": "https://i.scdn.co/image/ab67616d0000b273efe374ffabeb543840dee228",
+        "minutes": 3.84,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:23",
+        "track": "Caller Tune",
+        "artist": "Neeti Mohan",
+        "art": "https://i.scdn.co/image/ab67616d0000b2739f51d5de5d7a52c40bc309de",
+        "minutes": 4.55,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:19",
+        "track": "Hookah Bar",
+        "artist": "Himesh Reshammiya",
+        "art": "https://i.scdn.co/image/ab67616d0000b27333f89bc08b2d9cda09a857a1",
+        "minutes": 4.24,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:15",
+        "track": "Party All Night (From \"Boss\")",
+        "artist": "Yo Yo Honey Singh",
+        "art": "https://i.scdn.co/image/ab67616d0000b2734ba2466aa6c47a2a87afd079",
+        "minutes": 4.71,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:10",
+        "track": "Naah",
+        "artist": "Harrdy Sandhu",
+        "art": "https://i.scdn.co/image/ab67616d0000b273ff161df8394754388c7da24a",
+        "minutes": 3.17,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:07",
+        "track": "Abhi Toh Party Shuru Hui Hai (From \"Khoobsurat\")",
+        "artist": "Badshah",
+        "art": "https://i.scdn.co/image/ab67616d0000b273f3c5eadfb522b51aca89e2c9",
+        "minutes": 3.0,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:04",
+        "track": "Apna Time Aayega",
+        "artist": "DIVINE",
+        "art": "https://i.scdn.co/image/ab67616d0000b27399241710b1b1b590b79d444e",
+        "minutes": 2.34,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T02:01",
+        "track": "Hold On, We're Going Home",
+        "artist": "Drake",
+        "art": "https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8",
+        "minutes": 3.8,
+        "group": "other"
+      },
+      {
+        "played": "2026-10-01T01:57",
+        "track": "Ahí",
+        "artist": "KAROL G",
+        "art": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
+        "minutes": 2.94,
+        "group": "other"
+      },
+      {
+        "played": "2026-10-01T01:54",
+        "track": "National Treasures",
+        "artist": "Drake",
+        "art": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+        "minutes": 3.35,
+        "group": "other"
+      },
+      {
+        "played": "2026-10-01T01:51",
+        "track": "God's Plan",
+        "artist": "Drake",
+        "art": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+        "minutes": 3.32,
+        "group": "other"
+      },
+      {
+        "played": "2026-10-01T01:47",
+        "track": "God's Plan",
+        "artist": "Drake",
+        "art": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+        "minutes": 3.32,
+        "group": "other"
+      },
+      {
+        "played": "2026-10-01T01:43",
+        "track": "Tu Mera Koi Na Hoke Bhi Kuch Laage",
+        "artist": "Sachin-Jigar",
+        "art": "https://i.scdn.co/image/ab67616d0000b273b4d6ded405c29ef12f71055d",
+        "minutes": 1.55,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T01:42",
+        "track": "I Don't Care",
+        "artist": "Ed Sheeran",
+        "art": "https://i.scdn.co/image/ab67616d0000b27362407726ee053c7d89aeff9a",
+        "minutes": 3.67,
+        "group": "other"
+      },
+      {
+        "played": "2026-10-01T01:38",
+        "track": "Buddhu Sa Mann",
+        "artist": "Amaal Mallik",
+        "art": "https://i.scdn.co/image/ab67616d0000b27377e7c5b87bef7ab4e629f2f8",
+        "minutes": 3.45,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T01:35",
+        "track": "Arz Kiya Hai | Coke Studio Bharat",
+        "artist": "Anuv Jain",
+        "art": "https://i.scdn.co/image/ab67616d0000b27325fa2d19b2363a9520a34409",
+        "minutes": 4.91,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T01:30",
+        "track": "Tera Yaar Hoon Main - Remix(Remix By Dj Chetas,Dj Nyk)",
+        "artist": "Arijit Singh",
+        "art": "https://i.scdn.co/image/ab67616d0000b273e46b0cee0efeab8666a46de7",
+        "minutes": 3.76,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T01:26",
+        "track": "Tere Pyaar Mein",
+        "artist": "Pritam",
+        "art": "https://i.scdn.co/image/ab67616d0000b273fdd4cc7defb987b4c3aa2d9e",
+        "minutes": 4.43,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T01:21",
+        "track": "Sundari Ke Pyar Mein - From \"Param Sundari\"",
+        "artist": "Sachin-Jigar",
+        "art": "https://i.scdn.co/image/ab67616d0000b27309d9beab39abbcf16a94b9fe",
+        "minutes": 4.09,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T01:17",
+        "track": "Desi Wine (From \"Thank You For Coming\")",
+        "artist": "QARAN",
+        "art": "https://i.scdn.co/image/ab67616d0000b273c5b5a2eace8a46ea56c7f37e",
+        "minutes": 2.85,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T01:14",
+        "track": "Pehla Nasha 2.0",
+        "artist": "Amaal Mallik",
+        "art": "https://i.scdn.co/image/ab67616d0000b27339ca1d541621e6bb67964d05",
+        "minutes": 4.13,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T01:10",
+        "track": "Ghungroo (From \"War\")",
+        "artist": "Vishal-Shekhar",
+        "art": "https://i.scdn.co/image/ab67616d0000b273825ae4fbebb64fd9f4fd7de1",
+        "minutes": 5.05,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T01:05",
+        "track": "Sooiyan",
+        "artist": "Amit Trivedi",
+        "art": "https://i.scdn.co/image/ab67616d0000b2738c4fc63bb376d0d3d2b45391",
+        "minutes": 4.02,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T01:01",
+        "track": "Kesariya",
+        "artist": "Pritam",
+        "art": "https://i.scdn.co/image/ab67616d0000b2736b2599d5038cdc91aecd774e",
+        "minutes": 4.47,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T00:56",
+        "track": "Sahiba",
+        "artist": "Aditya Rikhari",
+        "art": "https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7",
+        "minutes": 3.17,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T00:53",
+        "track": "Tenu Sang Rakhna",
+        "artist": "Achint",
+        "art": "https://i.scdn.co/image/ab67616d0000b273e461b9dfdf50466bc608a280",
+        "minutes": 4.16,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T00:49",
+        "track": "London Thumakda (From \"Queen\")",
+        "artist": "Labh Janjua",
+        "art": "https://i.scdn.co/image/ab67616d0000b2739d7bddae364c6d11491625c2",
+        "minutes": 3.84,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T00:40",
+        "track": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+        "artist": "Mohammad Faiz",
+        "art": "https://i.scdn.co/image/ab67616d0000b2739c5e3a8b63998aa730bb0fbf",
+        "minutes": 4.69,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T00:35",
+        "track": "South of the Border (feat. Camila Cabello & Cardi B)",
+        "artist": "Ed Sheeran",
+        "art": "https://i.scdn.co/image/ab67616d0000b273f528fc2d5d8b26e4e3413715",
+        "minutes": 3.41,
+        "group": "other"
+      },
+      {
+        "played": "2026-10-01T00:31",
+        "track": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "artist": "Pritam",
+        "art": "https://i.scdn.co/image/ab67616d0000b2733186471e5280d90457a7edd0",
+        "minutes": 3.56,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T00:28",
+        "track": "Tareefan - DJ Notorious Remix",
+        "artist": "Badshah",
+        "art": "https://i.scdn.co/image/ab67616d0000b27366ccf0cab8bd89c0fd69c314",
+        "minutes": 3.8,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T00:24",
+        "track": "Nashe Si Chadh Gayi",
+        "artist": "Vishal-Shekhar",
+        "art": "https://i.scdn.co/image/ab67616d0000b273f5dc36d5000145375a41c3b8",
+        "minutes": 3.96,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T00:20",
+        "track": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "artist": "Raghav",
+        "art": "https://i.scdn.co/image/ab67616d0000b273a9bdccd7e1b16eb656050b2b",
+        "minutes": 2.55,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T00:17",
+        "track": "Symmetry",
+        "artist": "Ed Sheeran",
+        "art": "https://i.scdn.co/image/ab67616d0000b273b07c28bb3192bdfb585fb438",
+        "minutes": 2.82,
+        "group": "other"
+      },
+      {
+        "played": "2026-10-01T00:14",
+        "track": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
+        "artist": "Aditya Rikhari",
+        "art": "https://i.scdn.co/image/ab67616d0000b273edf2fb20566c733442f6ee52",
+        "minutes": 3.54,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T00:11",
+        "track": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "artist": "Pritam",
+        "art": "https://i.scdn.co/image/ab67616d0000b2733186471e5280d90457a7edd0",
+        "minutes": 4.12,
+        "group": "desi"
+      },
+      {
+        "played": "2026-10-01T00:07",
+        "track": "Sapphire (feat. Arijit Singh) - Remix",
+        "artist": "Ed Sheeran",
+        "art": "https://i.scdn.co/image/ab67616d0000b2733f14d005a195b4dbba7d7b48",
+        "minutes": 3.01,
+        "group": "desi"
+      },
+      {
+        "played": "2026-09-30T23:47",
+        "track": "bad thing (bunny hop)",
+        "artist": "Ariana Grande",
+        "art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "minutes": 3.47,
+        "group": "ariana"
+      },
+      {
+        "played": "2026-09-30T23:43",
+        "track": "Photograph",
+        "artist": "Ed Sheeran",
+        "art": "https://i.scdn.co/image/ab67616d0000b273d08209944468440145f01524",
+        "minutes": 4.32,
+        "group": "other"
+      },
+      {
+        "played": "2026-09-30T23:39",
+        "track": "S&M",
+        "artist": "Rihanna",
+        "art": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
+        "minutes": 4.06,
+        "group": "other"
+      }
+    ],
+    "watch_timeline": [
+      {
+        "title": "Friends",
+        "shelf": "Shows I Rewatch on Repeat",
+        "image": "images/posters/friends.jpg",
+        "desi": false,
+        "start": 1994,
+        "end": 2004,
+        "kind": "series",
+        "ongoing": false
+      },
+      {
+        "title": "Gilmore Girls",
+        "shelf": "Watched It, Loved It, Moved On",
+        "image": "images/posters/gilmore-girls.jpg",
+        "desi": false,
+        "start": 2000,
+        "end": 2007,
+        "kind": "series",
+        "ongoing": false
+      },
+      {
+        "title": "How to Lose a Guy in 10 Days",
+        "shelf": "Romance Movies That I'm In Love With",
+        "image": "images/posters/how-to-lose-a-guy-in-10-days.jpg",
+        "desi": false,
+        "start": 2003,
+        "end": 2003,
+        "kind": "film",
+        "ongoing": false
+      },
+      {
+        "title": "Desperate Housewives",
+        "shelf": "Shows I Rewatch on Repeat",
+        "image": "images/posters/desperate-housewives.jpg",
+        "desi": false,
+        "start": 2004,
+        "end": 2012,
+        "kind": "series",
+        "ongoing": false
+      },
+      {
+        "title": "Jab We Met",
+        "shelf": "Romance Movies That I'm In Love With",
+        "image": "images/posters/jab-we-met.jpg",
+        "desi": true,
+        "start": 2007,
+        "end": 2007,
+        "kind": "film",
+        "ongoing": false
+      },
+      {
+        "title": "Gossip Girl",
+        "shelf": "Shows I Rewatch on Repeat",
+        "image": "images/posters/gossip-girl.jpg",
+        "desi": false,
+        "start": 2007,
+        "end": 2012,
+        "kind": "series",
+        "ongoing": false
+      },
+      {
+        "title": "Modern Family",
+        "shelf": "Shows I Rewatch on Repeat",
+        "image": "images/posters/modern-family.jpg",
+        "desi": false,
+        "start": 2009,
+        "end": 2020,
+        "kind": "series",
+        "ongoing": false
+      },
+      {
+        "title": "Student of the Year",
+        "shelf": "Romance Movies That I'm In Love With",
+        "image": "images/posters/student-of-the-year.jpg",
+        "desi": true,
+        "start": 2012,
+        "end": 2012,
+        "kind": "film",
+        "ongoing": false
+      },
+      {
+        "title": "Yeh Jawaani Hai Deewani",
+        "shelf": "Romance Movies That I'm In Love With",
+        "image": "images/posters/yeh-jawaani-hai-deewani.jpg",
+        "desi": true,
+        "start": 2013,
+        "end": 2013,
+        "kind": "film",
+        "ongoing": false
+      },
+      {
+        "title": "Jane the Virgin",
+        "shelf": "Shows I Rewatch on Repeat",
+        "image": "images/posters/jane-the-virgin.jpg",
+        "desi": false,
+        "start": 2014,
+        "end": 2019,
+        "kind": "series",
+        "ongoing": false
+      },
+      {
+        "title": "Mind the Malhotras",
+        "shelf": "The Desi Edit",
+        "image": "images/posters/mind-the-malhotras.jpg",
+        "desi": true,
+        "start": 2019,
+        "end": 2019,
+        "kind": "series",
+        "ongoing": false
+      },
+      {
+        "title": "Masaba Masaba",
+        "shelf": "The Desi Edit",
+        "image": "images/posters/masaba-masaba.jpg",
+        "desi": true,
+        "start": 2020,
+        "end": 2022,
+        "kind": "series",
+        "ongoing": false
+      },
+      {
+        "title": "Mismatched",
+        "shelf": "The Desi Edit",
+        "image": "images/posters/mismatched.jpg",
+        "desi": true,
+        "start": 2020,
+        "end": 2026,
+        "kind": "series",
+        "ongoing": true
+      },
+      {
+        "title": "Bridgerton",
+        "shelf": "Watched It, Loved It, Moved On",
+        "image": "images/posters/bridgerton.jpg",
+        "desi": false,
+        "start": 2020,
+        "end": 2026,
+        "kind": "series",
+        "ongoing": true
+      },
+      {
+        "title": "Ginny & Georgia",
+        "shelf": "Watched It, Loved It, Moved On",
+        "image": "images/posters/ginny-and-georgia.jpg",
+        "desi": false,
+        "start": 2021,
+        "end": 2026,
+        "kind": "series",
+        "ongoing": true
+      },
+      {
+        "title": "Tu Jhoothi Main Makkaar",
+        "shelf": "Romance Movies That I'm In Love With",
+        "image": "images/posters/tu-jhoothi-main-makkaar.jpg",
+        "desi": true,
+        "start": 2023,
+        "end": 2023,
+        "kind": "film",
+        "ongoing": false
+      },
+      {
+        "title": "Rocky Aur Rani Kii Prem Kahaani",
+        "shelf": "Romance Movies That I'm In Love With",
+        "image": "images/posters/rocky-aur-rani-kii-prem-kahaani.jpg",
+        "desi": true,
+        "start": 2023,
+        "end": 2023,
+        "kind": "film",
+        "ongoing": false
+      },
+      {
+        "title": "Dil Dosti Dilemma",
+        "shelf": "The Desi Edit",
+        "image": "images/posters/dil-dosti-dilemma.jpg",
+        "desi": true,
+        "start": 2024,
+        "end": 2024,
+        "kind": "series",
+        "ongoing": false
+      },
+      {
+        "title": "Call Me Bae",
+        "shelf": "The Desi Edit",
+        "image": "images/posters/call-me-bae.jpg",
+        "desi": true,
+        "start": 2024,
+        "end": 2024,
+        "kind": "series",
+        "ongoing": false
+      },
+      {
+        "title": "The Great Indian Kapil Show",
+        "shelf": "Comedy That Never Misses",
+        "image": "images/posters/great-indian-kapil-show.jpg",
+        "desi": true,
+        "start": 2024,
+        "end": 2026,
+        "kind": "series",
+        "ongoing": true
+      },
+      {
+        "title": "Voicemails for Isabelle",
+        "shelf": "Romance Movies That I'm In Love With",
+        "image": "images/posters/voicemails-for-isabelle.jpg",
+        "desi": false,
+        "start": 2026,
+        "end": 2026,
+        "kind": "film",
+        "ongoing": false
+      },
+      {
+        "title": "Don't Be Shy",
+        "shelf": "The Desi Edit",
+        "image": "images/posters/dont-be-shy.jpg",
+        "desi": true,
+        "start": 2026,
+        "end": 2026,
+        "kind": "film",
+        "ongoing": false
+      },
+      {
+        "title": "56 Days",
+        "shelf": "Watched It, Loved It, Moved On",
+        "image": "images/posters/56-days.jpg",
+        "desi": false,
+        "start": 2026,
+        "end": 2026,
+        "kind": "series",
+        "ongoing": false
+      },
+      {
+        "title": "Off Campus",
+        "shelf": "Watched It, Loved It, Moved On",
+        "image": "images/posters/off-campus.jpg",
+        "desi": false,
+        "start": 2026,
+        "end": 2026,
+        "kind": "series",
+        "ongoing": true
+      }
+    ]
   }
 }

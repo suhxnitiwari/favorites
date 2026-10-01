@@ -12,6 +12,7 @@ My [favorites page](https://suhanitiwari.com/home/favorites) shows what I love. 
 - **[INSIGHTS.md](INSIGHTS.md)**: the numbers written out. Ride-or-die artists, who's climbing my charts, how my taste shifts between the last 4 weeks, 6 months and all time, my peak listening hour, and patterns across shows, books and talks
 - **[exports/](exports)**: everything as spreadsheets
 - **One searchable list** of every show, movie, book, TED talk and top song
+- **Charts:** an album-art wall of my top 50 (tint it to see how much is Ariana), a square-per-song grid of each top 50, an artist rank race across 4 weeks / 6 months / all time, release years as stacked dots, one night of listening laid out as album covers, and every show & movie on a timeline
 
 A few things the data says: **60%** of my all-time top 50 songs feature Ariana Grande, **57%** of my favorite shows & movies are desi, and I apparently do my best listening at **1 AM**.
 

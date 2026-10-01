@@ -9,13 +9,16 @@
   :root {
     --bg:#FAF1EF; --card:#FFFFFF; --ink:#1E100A; --ink2:#5b4038; --muted:#8a6c64; --line:#EBD5D0;
     --accent:#B4536A; --bar:#B4536A; --soft:#F5E5E1; --hero:#2a1418; --hero-ink:#FAF1EF;
+    --ari:#B4536A; --desi:#2a78d6; --oth:#d3c4bf; --grid:#efe2de;
   }
   @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
     --bg:#1a1211; --card:#251a18; --ink:#f6e9e5; --ink2:#dcc4bd; --muted:#b0948c; --line:#3a2a27;
-    --accent:#E58EA3; --bar:#CC6680; --soft:#2d201e; --hero:#33191f; --hero-ink:#f6e9e5; } }
+    --accent:#E58EA3; --bar:#CC6680; --soft:#2d201e; --hero:#33191f; --hero-ink:#f6e9e5;
+    --ari:#CC6680; --desi:#3987e5; --oth:#4f403c; --grid:#2f2321; } }
   :root[data-theme="dark"] {
     --bg:#1a1211; --card:#251a18; --ink:#f6e9e5; --ink2:#dcc4bd; --muted:#b0948c; --line:#3a2a27;
-    --accent:#E58EA3; --bar:#CC6680; --soft:#2d201e; --hero:#33191f; --hero-ink:#f6e9e5; }
+    --accent:#E58EA3; --bar:#CC6680; --soft:#2d201e; --hero:#33191f; --hero-ink:#f6e9e5;
+    --ari:#CC6680; --desi:#3987e5; --oth:#4f403c; --grid:#2f2321; }
   * { box-sizing:border-box; margin:0; padding:0; }
   body { background:var(--bg); color:var(--ink); font:16px/1.55 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
   a { color:var(--accent); }
@@ -111,6 +114,51 @@
 
   footer { margin:72px 0 48px; padding-top:24px; border-top:1px solid var(--line); color:var(--muted); font-size:.88rem; }
   .theme-toggle { position:fixed; right:16px; bottom:16px; z-index:10; font:inherit; font-size:.85rem; cursor:pointer; border:1px solid var(--line); background:var(--card); color:var(--ink); padding:8px 12px; border-radius:999px; }
+  /* shared legend */
+  .legend { display:flex; flex-wrap:wrap; gap:14px; font-size:.85rem; color:var(--ink2); margin:0 0 14px; }
+  .legend span { display:inline-flex; align-items:center; gap:6px; }
+  .legend i { width:12px; height:12px; border-radius:3px; display:inline-block; }
+  .g-ariana { --c:var(--ari); } .g-desi { --c:var(--desi); } .g-other { --c:var(--oth); }
+  .seg { display:inline-flex; border:1px solid var(--line); border-radius:999px; padding:3px; gap:2px; background:var(--card); }
+  .seg button { font:inherit; font-size:.85rem; border:0; background:transparent; color:var(--ink2); padding:6px 12px; border-radius:999px; cursor:pointer; }
+  .seg button[aria-pressed="true"] { background:var(--ink); color:var(--bg); }
+  .viz-head { display:flex; justify-content:space-between; align-items:flex-start; gap:12px; flex-wrap:wrap; margin-bottom:14px; }
+
+  /* album wall */
+  .wall { display:grid; grid-template-columns:repeat(10,1fr); gap:4px; }
+  .wall a { position:relative; display:block; aspect-ratio:1; border-radius:6px; overflow:hidden; background:var(--soft); }
+  .wall img { width:100%; height:100%; object-fit:cover; display:block; transition:transform .2s, filter .2s; }
+  .wall a::after { content:""; position:absolute; inset:0; box-shadow:inset 0 0 0 0 var(--c); transition:box-shadow .2s; }
+  .wall.tint a::after { box-shadow:inset 0 0 0 4px var(--c); }
+  .wall.tint a.g-other img { filter:grayscale(1) opacity(.45); }
+  .wall a:hover img { transform:scale(1.06); }
+  .wall .rk { position:absolute; left:4px; top:3px; font-size:.65rem; font-weight:700; color:#fff; text-shadow:0 1px 3px rgba(0,0,0,.8); }
+  @media (max-width:640px) { .wall { grid-template-columns:repeat(5,1fr); } }
+
+  /* waffles */
+  .waffles { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:22px; }
+  .waffle { display:grid; grid-template-columns:repeat(10,1fr); gap:3px; margin:8px 0 6px; }
+  .waffle i { aspect-ratio:1; border-radius:3px; background:var(--c); display:block; }
+  .waffle i:hover { outline:2px solid var(--ink); outline-offset:1px; }
+  .wcount { font-size:.85rem; color:var(--ink2); }
+  .wcount b { font-variant-numeric:tabular-nums; }
+
+  /* svg charts */
+  svg.viz { width:100%; height:auto; display:block; overflow:visible; }
+  svg.viz text { fill:var(--ink2); font-size:11px; font-family:inherit; }
+  svg.viz .muted { fill:var(--muted); }
+  svg.viz .gridl { stroke:var(--grid); stroke-width:1; }
+  .bump path { fill:none; stroke:var(--oth); stroke-width:2; transition:stroke .15s, opacity .15s; }
+  .bump g.on path { stroke:var(--ari); stroke-width:3; }
+  .bump circle { fill:var(--oth); stroke:var(--card); stroke-width:2; }
+  .bump g.on circle { fill:var(--ari); }
+  .bump g.on text { fill:var(--ink); font-weight:700; }
+  .bump.hovering g:not(.on) { opacity:.35; }
+  .bump g { cursor:pointer; }
+  .night image { clip-path:circle(50%); }
+  .night circle.ring { fill:none; stroke-width:2.5; }
+  .gantt rect.bar { rx:4; }
+  .gantt .row:hover rect.hit { fill:var(--soft); }
 </style>
 </head>
 <body>
@@ -123,11 +171,24 @@
   </div>
 </header>
 <nav class="jump" aria-label="Sections"><div class="wrap">
-  <a href="#mood">Mood picker</a><a href="#music">Music, decoded</a><a href="#screen">Screen & shelf</a>
+  <a href="#wall">The wall</a><a href="#mood">Mood picker</a><a href="#music">Music, decoded</a><a href="#screen">Screen & shelf</a><a href="#timeline">Timeline</a>
   <a href="#type">The pattern</a><a href="#everything">Everything</a><a href="#data">Data</a>
 </div></nav>
 
 <main class="wrap">
+  <section id="wall-sec">
+    <div class="viz-head" id="wall">
+      <div><h2>The wall</h2><p class="sub" style="margin-bottom:0">My top 50 songs as album art. Tint it to see who's taking up the space.</p></div>
+      <div style="display:flex;gap:8px;flex-wrap:wrap">
+        <div class="seg" id="wall-term" role="group" aria-label="Time window">
+          <button type="button" data-t="short_term">4 weeks</button><button type="button" data-t="medium_term">6 months</button><button type="button" data-t="long_term" aria-pressed="true">All time</button></div>
+        <div class="seg" role="group" aria-label="Tint"><button type="button" id="tint" aria-pressed="false">Tint by artist</button></div>
+      </div>
+    </div>
+    <div class="legend" id="wall-legend" hidden></div>
+    <div class="wall" id="wall-grid"></div>
+  </section>
+
   <section id="mood">
     <h2>What are we in the mood for?</h2>
     <p class="sub">Pick a mood and I'll hand you one of my favorites for it. Every mood comes from how I describe these on my website.</p>
@@ -145,6 +206,18 @@
         <div class="clock" id="clock" role="img"></div><div class="axis"><span>12 AM</span><span>6 AM</span><span>12 PM</span><span>6 PM</span><span>11 PM</span></div></div>
       <div class="card"><h3>Most-credited artists</h3><p class="note" style="margin:0 0 12px">Tracks in my all-time top 50 each artist appears on.</p><div class="bars" id="credits"></div></div>
     </div>
+    <div class="card" style="margin-top:16px"><h3>Who's in my top 50</h3>
+      <p class="note" style="margin:0 0 12px">Each square is one song in my top 50 for that window.</p>
+      <div class="legend legend-groups"></div><div class="waffles" id="waffles"></div></div>
+    <div class="card" style="margin-top:16px"><div class="viz-head"><div><h3>The artist race</h3>
+      <p class="note" style="margin:0">Top-artist rank across time. Hover (or tap) a line to follow someone.</p></div></div>
+      <svg class="viz bump" id="bump" role="img" aria-label="Artist rank across all time, 6 months and 4 weeks"></svg></div>
+    <div class="card" style="margin-top:16px"><h3>When were my favorite songs released?</h3>
+      <p class="note" style="margin:0 0 12px">Every top-50 song, stacked by release year.</p>
+      <div class="legend legend-groups"></div><svg class="viz" id="years" role="img" aria-label="Release years of top songs by time window"></svg></div>
+    <div class="card" style="margin-top:16px"><h3>One night of listening</h3>
+      <p class="note" style="margin:0 0 12px" id="night-note"></p>
+      <div class="legend legend-groups"></div><svg class="viz night" id="night" role="img" aria-label="Recent plays over time"></svg></div>
     <div class="card" style="margin-top:16px"><h3>How my taste shifts over time</h3><p class="note" style="margin:0 0 12px">Each column is my top 50 tracks for that window.</p>
       <div class="scroll"><table id="terms"></table></div></div>
     <div class="grid2" style="margin-top:16px">
@@ -162,6 +235,14 @@
       <div class="card" id="shelf-facts"></div>
       <div class="card"><h3>Bookshelf split</h3><p class="note" style="margin:0 0 12px">How things work vs. how people work vs. how I want to live.</p><div class="bars" id="books"></div></div>
     </div>
+  </section>
+
+  <section id="timeline">
+    <h2>Everything I watch, on a timeline</h2>
+    <p class="sub" id="gantt-sub"></p>
+    <div class="card"><div class="legend"><span><i style="background:var(--desi)"></i>Desi</span><span><i style="background:var(--ari)"></i>Everything else</span>
+      <span>▬ series &nbsp; ● movie &nbsp; ▸ still running</span></div>
+      <div class="scroll"><svg class="viz gantt" id="gantt" role="img" aria-label="Shows and movies by the years they ran"></svg></div></div>
   </section>
 
   <section id="type">
@@ -308,6 +389,166 @@ const cols = (el, labels, obj, unit) => {
   $('extremes').innerHTML = `<h3>Extremes</h3>${song('Oldest favorite', m.oldest_song)}${song('Longest', m.longest_song)}${song('Shortest', m.shortest_song)}`;
   $('age-note').textContent = `My favorite songs are ${m.avg_song_age_years} years old on average.`;
   cols('decades', 'decade-labels', m.decades_all_time, 'songs');
+
+  // ---- new visuals ----
+  const V = ins.visuals;
+  const GROUP = { ariana: 'Ariana Grande', desi: 'Desi', other: 'Everyone else' };
+  const legendHTML = `<span class="g-ariana"><i style="background:var(--c)"></i>Ariana Grande</span><span class="g-desi"><i style="background:var(--c)"></i>Desi</span><span class="g-other"><i style="background:var(--c)"></i>Everyone else</span>`;
+  document.querySelectorAll('.legend-groups').forEach(el => el.innerHTML = legendHTML);
+  $('wall-legend').innerHTML = legendHTML;
+  const NS = 'http://www.w3.org/2000/svg';
+  const W = el => Math.max(320, $(el).parentElement.clientWidth - 2);
+
+  // album wall
+  let wallTerm = 'long_term';
+  const drawWall = () => {
+    $('wall-grid').innerHTML = V.songs[wallTerm].map(t => `<a class="g-${t.group}" href="${esc(t.url)}" target="_blank" rel="noopener"
+      data-tip="#${t.rank} ${esc(t.track)} · ${esc(t.artist)}"><img loading="lazy" src="${esc(t.art)}" alt="${esc(t.track)}"><span class="rk">${t.rank}</span></a>`).join('');
+  };
+  $('wall-term').onclick = e => {
+    const b = e.target.closest('button'); if (!b) return;
+    wallTerm = b.dataset.t;
+    $('wall-term').querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x === b));
+    drawWall();
+  };
+  $('tint').onclick = () => {
+    const on = $('tint').getAttribute('aria-pressed') !== 'true';
+    $('tint').setAttribute('aria-pressed', on);
+    $('wall-grid').classList.toggle('tint', on);
+    $('wall-legend').hidden = !on;
+  };
+  drawWall();
+
+  // waffles: one per window, grouped Ariana → Desi → everyone else
+  const order = { ariana: 0, desi: 1, other: 2 };
+  $('waffles').innerHTML = ['long_term', 'medium_term', 'short_term'].map(term => {
+    const songs = [...V.songs[term]].sort((a, b) => order[a.group] - order[b.group] || a.rank - b.rank);
+    const n = g => songs.filter(x => x.group === g).length;
+    return `<div><p class="t" style="margin:0">${esc(T[term].label)}</p>
+      <div class="waffle">${songs.map(x => `<i class="g-${x.group}" data-tip="#${x.rank} ${esc(x.track)} · ${esc(x.artist)}"></i>`).join('')}</div>
+      <p class="wcount"><b>${n('ariana')}</b> Ariana · <b>${n('desi')}</b> Desi · <b>${n('other')}</b> other</p></div>`;
+  }).join('');
+
+  // bump chart
+  const drawBump = () => {
+    const svg = $('bump'), w = W('bump'), h = 440, cut = 20;
+    const left = Math.min(150, w * .3), right = w - Math.min(150, w * .3), top = 16, bottom = h - 30;
+    const terms = ['long_term', 'medium_term', 'short_term'], xs = terms.map((_, i) => left + i * (right - left) / 2);
+    const y = r => top + ((r == null || r > cut ? cut + 1 : r) - 1) * (bottom - top) / cut;
+    let out = terms.map((t, i) => `<line class="gridl" x1="${xs[i]}" x2="${xs[i]}" y1="${top - 6}" y2="${bottom + 6}"/>
+      <text x="${xs[i]}" y="${h - 6}" text-anchor="middle" class="muted">${w < 560 ? ['all time', '6 mo', '4 wks'][i] : esc(T[t].label)}</text>`).join('');
+    out += `<line class="gridl" x1="${xs[0]}" x2="${xs[2]}" y1="${y(cut + 0.5)}" y2="${y(cut + 0.5)}" stroke-dasharray="3 4"/>
+      <text x="${xs[0] - 10}" y="${y(cut + 1) + 4}" text-anchor="end" class="muted">below #20</text>`;
+    out += V.bump.map((a, i) => {
+      const pts = terms.map((t, j) => [xs[j], y(a.ranks[t])]);
+      const d = pts.map((p, j) => j ? `C${(pts[j - 1][0] + p[0]) / 2},${pts[j - 1][1]} ${(pts[j - 1][0] + p[0]) / 2},${p[1]} ${p[0]},${p[1]}` : `M${p[0]},${p[1]}`).join(' ');
+      const tipTxt = `${a.name}: ` + terms.map(t => `${T[t].label} #${a.ranks[t] ?? '50+'}`).join(' · ');
+      const lab = (r, x, anchor) => r != null && r <= cut ? `<text x="${x}" y="${y(r) + 4}" text-anchor="${anchor}">${esc(a.name)} <tspan class="muted">${r}</tspan></text>` : '';
+      return `<g data-i="${i}" class="${i === 0 ? 'on' : ''}" data-tip="${esc(tipTxt)}"><path d="${d}" style="stroke-width:12;stroke:transparent"/><path d="${d}"/>
+        ${pts.map(p => `<circle cx="${p[0]}" cy="${p[1]}" r="5"/>`).join('')}
+        ${lab(a.ranks.long_term, xs[0] - 10, 'end')}${lab(a.ranks.short_term, xs[2] + 10, 'start')}</g>`;
+    }).join('');
+    svg.setAttribute('viewBox', `0 0 ${w} ${h}`);
+    svg.innerHTML = out;
+  };
+  $('bump').addEventListener('pointerover', e => {
+    const g = e.target.closest('g[data-i]'); if (!g) return;
+    $('bump').classList.add('hovering');
+    $('bump').querySelectorAll('g[data-i]').forEach(x => x.classList.toggle('on', x === g));
+  });
+  $('bump').addEventListener('pointerleave', () => {
+    $('bump').classList.remove('hovering');
+    $('bump').querySelectorAll('g[data-i]').forEach(x => x.classList.toggle('on', x.dataset.i === '0'));
+  });
+
+  // release-year dots: one row per window, songs stacked per year
+  const drawYears = () => {
+    const svg = $('years'), w = W('years'), r = w < 560 ? 3.2 : 4.5, gap = r * 2 + 1.5;
+    const terms = ['short_term', 'medium_term', 'long_term'];
+    const all = terms.flatMap(t => V.songs[t].map(s => s.year));
+    const y0 = Math.min(...all), y1 = Math.max(...all), left = 92, right = w - 10;
+    const x = yr => left + (yr - y0) * (right - left) / (y1 - y0);
+    let yCursor = 10, out = '';
+    terms.forEach(t => {
+      const byYear = {};
+      V.songs[t].forEach(s => (byYear[s.year] ||= []).push(s));
+      const tallest = Math.max(...Object.values(byYear).map(v => v.length));
+      const base = yCursor + tallest * gap;
+      out += `<text x="0" y="${base}" class="muted">${esc(T[t].label)}</text><line class="gridl" x1="${left}" x2="${right}" y1="${base + r + 2}" y2="${base + r + 2}"/>`;
+      Object.entries(byYear).forEach(([yr, list]) => list.sort((a, b) => order[a.group] - order[b.group]).forEach((s, k) =>
+        out += `<circle class="g-${s.group}" style="fill:var(--c)" cx="${x(+yr)}" cy="${base - k * gap}" r="${r}" data-tip="${esc(s.track)} · ${esc(s.artist)} (${yr})"/>`));
+      yCursor = base + r + 22;
+    });
+    for (let yr = Math.ceil(y0 / 5) * 5; yr <= y1; yr += 5)
+      out += `<text x="${x(yr)}" y="${yCursor}" text-anchor="middle" class="muted">${yr}</text>`;
+    svg.setAttribute('viewBox', `0 0 ${w} ${yCursor + 6}`);
+    svg.innerHTML = out;
+  };
+
+  // one night of listening: album art placed on a time axis
+  const drawNight = () => {
+    const svg = $('night'), w = W('night'), plays = [...V.recent].reverse();
+    const ts = plays.map(p => new Date(p.played + ':00').getTime());
+    const t0 = Math.min(...ts), t1 = Math.max(...ts), left = 20, right = w - 20, size = w < 560 ? 26 : 34;
+    const x = t => left + (t - t0) * (right - left) / (t1 - t0 || 1);
+    const lanes = [], laneOf = [];
+    plays.forEach((p, i) => {   // drop each cover into the first lane it doesn't overlap
+      let lane = lanes.findIndex(end => x(ts[i]) - end > size + 2);
+      if (lane < 0) { lane = lanes.length; lanes.push(0); }
+      lanes[lane] = x(ts[i]); laneOf.push(lane);
+    });
+    const h = lanes.length * (size + 6) + 40, axisY = h - 24;
+    const fmt = t => new Date(t).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' });
+    let out = `<line class="gridl" x1="${left}" x2="${right}" y1="${axisY}" y2="${axisY}"/>`;
+    const n = w < 560 ? 2 : 4;
+    for (let k = 0; k <= n; k++) { const t = t0 + k * (t1 - t0) / n;
+      out += `<text x="${x(t)}" y="${h - 6}" text-anchor="${k === 0 ? 'start' : k === n ? 'end' : 'middle'}" class="muted">${fmt(t)}</text>`; }
+    plays.forEach((p, i) => {
+      const cx = x(ts[i]), cy = axisY - 8 - size / 2 - laneOf[i] * (size + 6);
+      out += `<g data-tip="${esc(fmt(ts[i]))} · ${esc(p.track)} · ${esc(p.artist)}">
+        <image href="${esc(p.art)}" x="${cx - size / 2}" y="${cy - size / 2}" width="${size}" height="${size}"/>
+        <circle class="ring g-${p.group}" style="stroke:var(--c)" cx="${cx}" cy="${cy}" r="${size / 2}"/></g>`;
+    });
+    svg.setAttribute('viewBox', `0 0 ${w} ${h}`);
+    svg.innerHTML = out;
+    const hrs = ((t1 - t0) / 36e5).toFixed(1);
+    $('night-note').textContent = `My last ${plays.length} plays, from ${fmt(t0)} to ${fmt(t1)} (${hrs} hours), Austin time. Ring color shows who's singing.`;
+  };
+
+  // watch gantt
+  const drawGantt = () => {
+    const svg = $('gantt'), rows = V.watch_timeline, w = Math.max(560, W('gantt'));
+    const rowH = 24, left = Math.min(220, w * .36), right = w - 16, top = 6;
+    const y0 = Math.floor(Math.min(...rows.map(r => r.start)) / 5) * 5, y1 = new Date().getFullYear() + 1;
+    const x = yr => left + (yr - y0) * (right - left) / (y1 - y0);
+    const h = top + rows.length * rowH + 26;
+    let out = '';
+    for (let yr = y0; yr <= y1; yr += 5)
+      out += `<line class="gridl" x1="${x(yr)}" x2="${x(yr)}" y1="${top}" y2="${h - 22}"/><text x="${x(yr)}" y="${h - 6}" text-anchor="middle" class="muted">${yr}</text>`;
+    rows.forEach((r, i) => {
+      const cy = top + i * rowH + rowH / 2, c = r.desi ? 'var(--desi)' : 'var(--ari)';
+      const span = r.start === r.end ? `${r.start}` : `${r.start}–${r.ongoing ? 'now' : r.end}`;
+      out += `<g class="row" data-tip="${esc(r.title)} · ${r.kind === 'film' ? 'movie' : 'series'}, ${span}">
+        <rect class="hit" x="0" y="${cy - rowH / 2}" width="${w}" height="${rowH}" fill="transparent" rx="4"/>
+        <text x="${left - 10}" y="${cy + 4}" text-anchor="end">${esc(r.title.length > 30 ? r.title.slice(0, 29) + '…' : r.title)}</text>`;
+      if (r.kind === 'film') out += `<circle cx="${x(r.start + .5)}" cy="${cy}" r="6" fill="${c}"/>`;
+      else {
+        const x1 = x(r.start), x2 = x(r.end + 1) - 1;
+        out += `<rect class="bar" x="${x1}" y="${cy - 6}" width="${Math.max(8, x2 - x1)}" height="12" fill="${c}"/>`;
+        if (r.ongoing) out += `<path d="M${x2 + 3},${cy - 6} l7,6 l-7,6 z" fill="${c}"/>`;
+      }
+      out += '</g>';
+    });
+    svg.setAttribute('viewBox', `0 0 ${w} ${h}`);
+    svg.style.minWidth = '560px';
+    svg.innerHTML = out;
+    const span = new Date().getFullYear() - rows[0].start;
+    $('gantt-sub').textContent = `${rows.length} shows and movies spanning ${span} years, from ${rows[0].title} (${rows[0].start}) to this year. Stand-up specials are left off because they don't list a year.`;
+  };
+
+  const drawAll = () => { drawBump(); drawYears(); drawNight(); drawGantt(); };
+  drawAll();
+  let rt; addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(drawAll, 150); });
 
   // screen & shelf
   cols('wdecades', 'wdecade-labels', s.watch_decades, 'titles');
