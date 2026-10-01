@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Suhani's Favorites</title>
+<style>
+  :root { --bg:#FAF1EF; --card:#fff; --ink:#1E100A; --muted:#7a5d55; --accent:#B4536A; --line:#EBD5D0; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#1a1211; --card:#251a18; --ink:#f6e9e5; --muted:#c3a49c; --accent:#e58ea3; --line:#3a2a27; } }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--bg); color:var(--ink); font:16px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
+  main { max-width:1100px; margin:0 auto; padding:48px 16px 80px; }
+  header h1 { font-size:clamp(2.2rem,6vw,3.4rem); letter-spacing:-.02em; }
+  header p { color:var(--muted); margin-top:6px; }
+  nav { display:flex; gap:8px; margin:24px 0 8px; flex-wrap:wrap; }
+  nav a { color:var(--accent); text-decoration:none; border:1px solid var(--line); border-radius:999px; padding:6px 14px; }
+  section { margin-top:56px; }
+  h2 { font-size:1.8rem; }
+  .claim { margin:10px 0 24px; max-width:720px; color:var(--muted); }
+  .claim strong { display:block; color:var(--ink); font-size:1.15rem; }
+  h3 { margin:28px 0 4px; font-size:1.15rem; }
+  .theme { color:var(--accent); font-size:.8rem; text-transform:uppercase; letter-spacing:.08em; margin-top:28px; }
+  .theme + h3 { margin-top:2px; }
+  .cap { color:var(--muted); font-size:.92rem; margin-bottom:10px; }
+  .rail { display:grid; grid-auto-flow:column; grid-auto-columns:132px; gap:14px; overflow-x:auto; padding:8px 0 14px; }
+  .rail.wide { grid-auto-columns:220px; }
+  .item img { width:100%; aspect-ratio:2/3; object-fit:cover; border-radius:10px; background:var(--line); display:block; }
+  .wide .item img { aspect-ratio:16/9; }
+  .item a { color:inherit; text-decoration:none; }
+  .t { font-weight:600; font-size:.9rem; margin-top:6px; line-height:1.3; }
+  .m { color:var(--muted); font-size:.8rem; }
+  .tag { color:var(--accent); font-size:.72rem; text-transform:uppercase; letter-spacing:.06em; margin-top:6px; }
+  .list { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:10px; margin-top:12px; }
+  .row { display:flex; gap:10px; align-items:center; background:var(--card); border:1px solid var(--line); border-radius:10px; padding:8px; }
+  .row img { width:48px; height:48px; border-radius:6px; object-fit:cover; flex:none; }
+  .row.artist img { border-radius:50%; }
+  .row a { color:inherit; text-decoration:none; }
+  .bar { height:10px; background:var(--accent); border-radius:5px; }
+  .genres { max-width:560px; display:grid; gap:10px; margin-top:12px; }
+  .types { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:14px; margin-top:16px; }
+  .types div { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:18px; }
+  footer { margin-top:64px; color:var(--muted); font-size:.85rem; }
+  footer a { color:var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Favorites</h1>
+    <p>Things I love enough to put on the internet. Data from <a href="https://suhanitiwari.com/home/favorites" style="color:var(--accent)">suhanitiwari.com</a>.</p>
+    <nav><a href="#listen">Listen</a><a href="#watch">Watch</a><a href="#inspiration">Inspiration</a><a href="#read">Read</a><a href="#type">My type</a></nav>
+  </header>
+  <section id="listen"></section>
+  <section id="watch"></section>
+  <section id="inspiration"></section>
+  <section id="read"></section>
+  <section id="type"></section>
+  <footer>Rebuilt from <code>data/*.json</code>. Refresh with <code>python3 scripts/scrape.py</code>. · <a href="https://github.com/suhxnitiwari/favorites">Source</a></footer>
+</main>
+<script>
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const get = p => fetch(p).then(r => r.json());
+const claim = c => c ? `<p class="claim"><strong>${esc(c.headline)}</strong>${esc(c.body)}</p>` : '';
+const shelf = s => `${s.theme ? `<p class="theme">${esc(s.theme)}</p>` : ''}<h3>${esc(s.title)}</h3>
+  ${s.caption ? `<p class="cap">${esc(s.caption)}</p>` : ''}
+  <div class="rail">${s.items.map(i => `<div class="item">${i.image ? `<img loading="lazy" src="${esc(i.image)}" alt="">` : ''}
+  <p class="t">${esc(i.title)}</p><p class="m">${esc(i.meta)}</p></div>`).join('')}</div>`;
+const row = (img, title, sub, url, cls = '') => `<div class="row ${cls}"><img loading="lazy" src="${esc(img)}" alt="">
+  <div><a href="${esc(url)}" target="_blank" rel="noopener"><p class="t" style="margin:0">${esc(title)}</p></a><p class="m">${esc(sub)}</p></div></div>`;
+
+(async () => {
+  const [listen, tracks, artists, genres, watch, talks, read, type] = await Promise.all([
+    'data/listen.json', 'data/music/top-tracks.json', 'data/music/top-artists.json', 'data/music/top-genres.json',
+    'data/watch.json', 'data/inspiration.json', 'data/read.json', 'data/my-type.json'].map(get));
+
+  document.getElementById('listen').innerHTML = `<h2>Listen</h2>${claim(listen.claim)}
+    <h3>Top genres</h3><div class="genres">${genres.map(g => `<div><p class="t">${esc(g.name)} <span class="m">${g.percent}%</span></p>
+      <div class="bar" style="width:${Math.min(100, g.percent * 2.5)}%"></div><p class="m">${esc(g.artists.slice(0, 5).join(', '))}</p></div>`).join('')}</div>
+    <h3>Top artists</h3><div class="list">${artists.map(a => row(a.image, `${a.position}. ${a.name}`, '', a.spotifyUrl, 'artist')).join('')}</div>
+    <h3>Top tracks</h3><div class="list">${tracks.slice(0, 24).map(t => row(t.albumArt, `${t.position}. ${t.name}`, t.artist, t.spotifyUrl)).join('')}</div>`;
+
+  document.getElementById('watch').innerHTML = `<h2>Watch</h2>${claim(watch.claim)}${watch.shelves.map(shelf).join('')}`;
+
+  document.getElementById('inspiration').innerHTML = `<h2>Inspiration</h2><p class="claim">${esc(talks.tagline)}</p>
+    ${Object.entries(talks.why_i_watch).map(([topic, why]) => `<p class="theme">${esc(topic)}</p><p class="cap">${esc(why)}</p>
+    <div class="rail wide">${talks.talks.filter(t => t.topic === topic).map(t => `<div class="item"><a href="${esc(t.youtube)}" target="_blank" rel="noopener">
+      <img loading="lazy" src="${esc(t.image)}" alt=""><p class="t">${esc(t.title)}</p><p class="m">${esc(t.speaker)}</p></a></div>`).join('')}</div>`).join('')}`;
+
+  document.getElementById('read').innerHTML = `<h2>Read</h2>${claim(read.claim)}${read.shelves.map(shelf).join('')}`;
+
+  document.getElementById('type').innerHTML = `<h2>${esc(type.headline)}</h2><p class="claim">${esc(type.subhead)}</p>
+    <div class="types">${type.themes.map(t => `<div><h3 style="margin:0">${esc(t.name)}</h3><p class="tag">${esc(t.from)}</p><p style="margin-top:8px">${esc(t.why)}</p></div>`).join('')}</div>`;
+})();
+</script>
+</body>
+</html>

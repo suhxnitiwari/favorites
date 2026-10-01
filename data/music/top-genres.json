@@ -1,0 +1,51 @@
+[
+  {
+    "name": "pop",
+    "percent": 30.2,
+    "artists": [
+      "Ariana Grande",
+      "Olivia Rodrigo",
+      "Taylor Swift",
+      "Tate McRae",
+      "Rihanna",
+      "Justin Bieber",
+      "Sabrina Carpenter",
+      "Selena Gomez"
+    ]
+  },
+  {
+    "name": "dance-pop",
+    "percent": 19.5,
+    "artists": [
+      "Ariana Grande",
+      "Tate McRae",
+      "Rihanna",
+      "Justin Bieber",
+      "Sabrina Carpenter",
+      "Selena Gomez"
+    ]
+  },
+  {
+    "name": "r&b",
+    "percent": 10.1,
+    "artists": [
+      "Ariana Grande",
+      "Rihanna"
+    ]
+  },
+  {
+    "name": "pop rock",
+    "percent": 10.1,
+    "artists": [
+      "Olivia Rodrigo",
+      "Tate McRae"
+    ]
+  },
+  {
+    "name": "pop punk",
+    "percent": 5.7,
+    "artists": [
+      "Olivia Rodrigo"
+    ]
+  }
+]

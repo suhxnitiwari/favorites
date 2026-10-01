@@ -1,0 +1,452 @@
+[
+  {
+    "position": 1,
+    "name": "stupid song",
+    "artist": "Olivia Rodrigo",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "spotifyUrl": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 2,
+    "name": "drop dead",
+    "artist": "Olivia Rodrigo",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "spotifyUrl": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 3,
+    "name": "like i do",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+    "spotifyUrl": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 4,
+    "name": "Babydoll",
+    "artist": "Dominic Fike",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+    "spotifyUrl": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+    "releaseYear": 2018,
+    "popularity": 0
+  },
+  {
+    "position": 5,
+    "name": "warning signs (interlude)",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+    "spotifyUrl": "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 6,
+    "name": "7 rings",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+    "spotifyUrl": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF",
+    "releaseYear": 2019,
+    "popularity": 0
+  },
+  {
+    "position": 7,
+    "name": "Thinking Bout You",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5",
+    "spotifyUrl": "https://open.spotify.com/track/1UujO43qVZnWObydH4MLT5",
+    "releaseYear": 2016,
+    "popularity": 0
+  },
+  {
+    "position": 8,
+    "name": "the cure",
+    "artist": "Olivia Rodrigo",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "spotifyUrl": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 9,
+    "name": "bad thing (bunny hop)",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+    "spotifyUrl": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 10,
+    "name": "Break Free",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+    "spotifyUrl": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4",
+    "releaseYear": 2014,
+    "popularity": 0
+  },
+  {
+    "position": 11,
+    "name": "Work Bitch",
+    "artist": "Britney Spears",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2733c9f7b8faf039c7607d12255",
+    "spotifyUrl": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1",
+    "releaseYear": 2013,
+    "popularity": 0
+  },
+  {
+    "position": 12,
+    "name": "NOBODY'S GIRL",
+    "artist": "Tate McRae",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273177ea3a7cc03eeb677eebdc4",
+    "spotifyUrl": "https://open.spotify.com/track/3B2ZpJeewPvhAkjXtTkdtJ",
+    "releaseYear": 2025,
+    "popularity": 0
+  },
+  {
+    "position": 13,
+    "name": "positions",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+    "spotifyUrl": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0",
+    "releaseYear": 2020,
+    "popularity": 0
+  },
+  {
+    "position": 14,
+    "name": "my way",
+    "artist": "Olivia Rodrigo",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "spotifyUrl": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 15,
+    "name": "bloodline",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+    "spotifyUrl": "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX",
+    "releaseYear": 2019,
+    "popularity": 0
+  },
+  {
+    "position": 16,
+    "name": "kiss me",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+    "spotifyUrl": "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 17,
+    "name": "Prada",
+    "artist": "The Doorbeen",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5177ca80f9e0e1ea52a86d5",
+    "spotifyUrl": "https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 18,
+    "name": "GIRLS",
+    "artist": "The Kid LAROI",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2739454d875c64ae0376b4b59bb",
+    "spotifyUrl": "https://open.spotify.com/track/6WhwHYd38f4ZB2CefpDgLo",
+    "releaseYear": 2024,
+    "popularity": 0
+  },
+  {
+    "position": 19,
+    "name": "Into You",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5",
+    "spotifyUrl": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe",
+    "releaseYear": 2016,
+    "popularity": 0
+  },
+  {
+    "position": 20,
+    "name": "big feelings",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+    "spotifyUrl": "https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 21,
+    "name": "bad idea",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6",
+    "spotifyUrl": "https://open.spotify.com/track/7EQpvVujgytLVY8vKiDHAg",
+    "releaseYear": 2018,
+    "popularity": 0
+  },
+  {
+    "position": 22,
+    "name": "Sapphire (feat. Arijit Singh) - Remix",
+    "artist": "Ed Sheeran",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2737f86f3a0572c58220e834b6a",
+    "spotifyUrl": "https://open.spotify.com/track/2f9mI9NbGhBpHWIAVcgNOs",
+    "releaseYear": 2025,
+    "popularity": 0
+  },
+  {
+    "position": 23,
+    "name": "never get over me",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+    "spotifyUrl": "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 24,
+    "name": "nowhere, nobody",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+    "spotifyUrl": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 25,
+    "name": "Siren sounds (bonus)",
+    "artist": "Tate McRae",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736c691022744f42565f6b546e",
+    "spotifyUrl": "https://open.spotify.com/track/6A18pcBX8QZGwI8EkR7aIP",
+    "releaseYear": 2025,
+    "popularity": 0
+  },
+  {
+    "position": 26,
+    "name": "Dancing On My Own",
+    "artist": "Robyn",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2734689597708c1b0b3dcb9ecaf",
+    "spotifyUrl": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t",
+    "releaseYear": 2010,
+    "popularity": 0
+  },
+  {
+    "position": 27,
+    "name": "Earrings",
+    "artist": "Malcolm Todd",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732c1f34ecc1929fb59908aad1",
+    "spotifyUrl": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
+    "releaseYear": 2024,
+    "popularity": 0
+  },
+  {
+    "position": 28,
+    "name": "ghostin",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6",
+    "spotifyUrl": "https://open.spotify.com/track/4lD7gHKF1e8Y9stQuVezZB",
+    "releaseYear": 2018,
+    "popularity": 0
+  },
+  {
+    "position": 29,
+    "name": "Kiss It Better",
+    "artist": "Rihanna",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+    "spotifyUrl": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS",
+    "releaseYear": 2016,
+    "popularity": 0
+  },
+  {
+    "position": 30,
+    "name": "just like magic",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+    "spotifyUrl": "https://open.spotify.com/track/7Dx9Z6Aon1qPS2N0rHSWTe",
+    "releaseYear": 2020,
+    "popularity": 0
+  },
+  {
+    "position": 31,
+    "name": "what’s wrong with me",
+    "artist": "Olivia Rodrigo",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "spotifyUrl": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 32,
+    "name": "Dil Nu",
+    "artist": "AP Dhillon",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738471bff5344bd04f60ac834a",
+    "spotifyUrl": "https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm",
+    "releaseYear": 2022,
+    "popularity": 0
+  },
+  {
+    "position": 33,
+    "name": "nasty",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+    "spotifyUrl": "https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO",
+    "releaseYear": 2020,
+    "popularity": 0
+  },
+  {
+    "position": 34,
+    "name": "Why Try",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+    "spotifyUrl": "https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW",
+    "releaseYear": 2014,
+    "popularity": 0
+  },
+  {
+    "position": 35,
+    "name": "Just A Little Bit Of Your Heart",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+    "spotifyUrl": "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz",
+    "releaseYear": 2014,
+    "popularity": 0
+  },
+  {
+    "position": 36,
+    "name": "in my head",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+    "spotifyUrl": "https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw",
+    "releaseYear": 2019,
+    "popularity": 0
+  },
+  {
+    "position": 37,
+    "name": "freak",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+    "spotifyUrl": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 38,
+    "name": "west side",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+    "spotifyUrl": "https://open.spotify.com/track/1whfVLMKWqAX3uk97VXsNN",
+    "releaseYear": 2020,
+    "popularity": 0
+  },
+  {
+    "position": 39,
+    "name": "past life",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9",
+    "spotifyUrl": "https://open.spotify.com/track/2MIpkAQVJqQIDf9k4YWoHR",
+    "releaseYear": 2025,
+    "popularity": 0
+  },
+  {
+    "position": 40,
+    "name": "pov",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+    "spotifyUrl": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33",
+    "releaseYear": 2020,
+    "popularity": 0
+  },
+  {
+    "position": 41,
+    "name": "hate that i made you love me",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+    "spotifyUrl": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 42,
+    "name": "34+35",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+    "spotifyUrl": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF",
+    "releaseYear": 2020,
+    "popularity": 0
+  },
+  {
+    "position": 43,
+    "name": "petal",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+    "spotifyUrl": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 44,
+    "name": "oh well",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+    "spotifyUrl": "https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx",
+    "releaseYear": 2026,
+    "popularity": 0
+  },
+  {
+    "position": 45,
+    "name": "Touch It",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5",
+    "spotifyUrl": "https://open.spotify.com/track/6WikCGNUbXFmXoLre7vjeW",
+    "releaseYear": 2016,
+    "popularity": 0
+  },
+  {
+    "position": 46,
+    "name": "motive (with Doja Cat)",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+    "spotifyUrl": "https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT",
+    "releaseYear": 2020,
+    "popularity": 0
+  },
+  {
+    "position": 47,
+    "name": "Bed (feat. Ariana Grande)",
+    "artist": "Nicki Minaj",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4",
+    "spotifyUrl": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv",
+    "releaseYear": 2018,
+    "popularity": 0
+  },
+  {
+    "position": 48,
+    "name": "Hills",
+    "artist": "AP Dhillon",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738471bff5344bd04f60ac834a",
+    "spotifyUrl": "https://open.spotify.com/track/6SPLYHHBN0dKGaoD2Jcccs",
+    "releaseYear": 2022,
+    "popularity": 0
+  },
+  {
+    "position": 49,
+    "name": "Hands To Myself",
+    "artist": "Selena Gomez",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736bc7473df6c9d1fd90972e84",
+    "spotifyUrl": "https://open.spotify.com/track/3CJvmtWw2bJsudbAC5uCQk",
+    "releaseYear": 2015,
+    "popularity": 0
+  },
+  {
+    "position": 50,
+    "name": "goodnight n go",
+    "artist": "Ariana Grande",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+    "spotifyUrl": "https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln",
+    "releaseYear": 2018,
+    "popularity": 0
+  }
+]

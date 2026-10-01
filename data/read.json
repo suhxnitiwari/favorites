@@ -1,0 +1,174 @@
+{
+  "claim": {
+    "headline": "I read to figure things out.",
+    "body": "Sometimes it’s why a product works. Sometimes it’s why people work. Sometimes it’s why I keep doing something I know I shouldn’t. My bookshelf is business, behavior and rom-coms taking turns explaining the world to me."
+  },
+  "shelves": [
+    {
+      "title": "Books Behind the Business",
+      "theme": "How things work",
+      "caption": null,
+      "items": [
+        {
+          "title": "Onward: How Starbucks Fought for Its Life Without Losing Its Soul",
+          "meta": "Howard Schultz",
+          "image": "images/covers/onward.jpg"
+        },
+        {
+          "title": "The Design of Everyday Things",
+          "meta": "Don Norman",
+          "image": "images/covers/the-design-of-everyday-things.jpg"
+        },
+        {
+          "title": "Inspired",
+          "meta": "Marty Cagan",
+          "image": "images/covers/inspired.jpg"
+        },
+        {
+          "title": "Creative Confidence",
+          "meta": "Tom Kelley & David Kelley",
+          "image": "images/covers/creative-confidence.jpg"
+        },
+        {
+          "title": "The Innovator's Dilemma",
+          "meta": "Clayton Christensen",
+          "image": "images/covers/the-innovators-dilemma.jpg"
+        },
+        {
+          "title": "Competing Against Luck",
+          "meta": "Clayton Christensen",
+          "image": "images/covers/competing-against-luck.jpg"
+        },
+        {
+          "title": "Shoe Dog",
+          "meta": "Phil Knight",
+          "image": "images/covers/shoe-dog.jpg"
+        },
+        {
+          "title": "Creativity, Inc.",
+          "meta": "Ed Catmull",
+          "image": "images/covers/creativity-inc.jpg"
+        },
+        {
+          "title": "Alchemy",
+          "meta": "Rory Sutherland",
+          "image": "images/covers/alchemy.jpg"
+        },
+        {
+          "title": "The Choice Factory",
+          "meta": "Richard Shotton",
+          "image": "images/covers/the-choice-factory.jpg"
+        },
+        {
+          "title": "Decoded",
+          "meta": "Phil Barden",
+          "image": "images/covers/decoded.jpg"
+        },
+        {
+          "title": "Influence",
+          "meta": "Robert Cialdini",
+          "image": "images/covers/influence.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Books I’ll Never Shut Up About",
+      "theme": "How people work",
+      "caption": "Enemies to lovers, fake dating and happy endings: I know how every one ends and still can’t put them down.",
+      "items": [
+        {
+          "title": "The Hating Game",
+          "meta": "Sally Thorne",
+          "image": "images/covers/the-hating-game.jpg"
+        },
+        {
+          "title": "The Unhoneymooners",
+          "meta": "Christina Lauren",
+          "image": "images/covers/the-unhoneymooners.jpg"
+        },
+        {
+          "title": "People We Meet on Vacation",
+          "meta": "Emily Henry",
+          "image": "images/covers/people-we-meet-on-vacation.jpg"
+        },
+        {
+          "title": "You Deserve Each Other",
+          "meta": "Sarah Hogle",
+          "image": "images/covers/you-deserve-each-other.jpg"
+        },
+        {
+          "title": "The Spanish Love Deception",
+          "meta": "Elena Armas",
+          "image": "images/covers/the-spanish-love-deception.jpg"
+        },
+        {
+          "title": "By a Thread",
+          "meta": "Lucy Score",
+          "image": "images/covers/by-a-thread.jpg"
+        },
+        {
+          "title": "The Devil You Know",
+          "meta": "Elizabeth O'Roark",
+          "image": "images/covers/the-devil-you-know.jpg"
+        },
+        {
+          "title": "The Ex Talk",
+          "meta": "Rachel Lynn Solomon",
+          "image": "images/covers/the-ex-talk.jpg"
+        },
+        {
+          "title": "Funny Story",
+          "meta": "Emily Henry",
+          "image": "images/covers/funny-story.jpg"
+        },
+        {
+          "title": "The American Roommate Experiment",
+          "meta": "Elena Armas",
+          "image": "images/covers/the-american-roommate-experiment.jpg"
+        },
+        {
+          "title": "The Worst Best Man",
+          "meta": "Mia Sosa",
+          "image": "images/covers/the-worst-best-man.jpg"
+        },
+        {
+          "title": "The Love Hypothesis",
+          "meta": "Ali Hazelwood",
+          "image": "images/covers/the-love-hypothesis.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Books That Actually Changed How I Live",
+      "theme": "How I want to live",
+      "caption": "Atomic Habits made me trust systems, Let Them ended my overthinking, and Carnegie is why I remember your coffee order.",
+      "items": [
+        {
+          "title": "Atomic Habits",
+          "meta": "James Clear",
+          "image": "images/covers/atomic-habits.jpg"
+        },
+        {
+          "title": "The Let Them Theory",
+          "meta": "Mel Robbins",
+          "image": "images/covers/the-let-them-theory.jpg"
+        },
+        {
+          "title": "How to Win Friends and Influence People",
+          "meta": "Dale Carnegie",
+          "image": "images/covers/how-to-win-friends-and-influence-people.jpg"
+        },
+        {
+          "title": "Ikigai",
+          "meta": "Héctor García & Francesc Miralles",
+          "image": "images/covers/ikigai.jpg"
+        },
+        {
+          "title": "The 48 Laws of Power",
+          "meta": "Robert Greene",
+          "image": "images/covers/the-48-laws-of-power.jpg"
+        }
+      ]
+    }
+  ]
+}

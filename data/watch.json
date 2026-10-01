@@ -1,0 +1,183 @@
+{
+  "claim": {
+    "headline": "I watch people more than plots.",
+    "body": "My favorite shows have too many characters, overlapping relationships and at least three people making questionable decisions at once. Give me an ensemble cast, complicated friendships, family drama, and enough episodes to get emotionally attached."
+  },
+  "shelves": [
+    {
+      "title": "Shows I Rewatch on Repeat",
+      "theme": null,
+      "caption": "For sad days, lazy days, and the days I feel like a hopeless couch-potato blob. These always make me a little happier.",
+      "items": [
+        {
+          "title": "Gossip Girl",
+          "meta": "2007–2012",
+          "image": "images/posters/gossip-girl.jpg"
+        },
+        {
+          "title": "Jane the Virgin",
+          "meta": "2014–2019",
+          "image": "images/posters/jane-the-virgin.jpg"
+        },
+        {
+          "title": "Modern Family",
+          "meta": "2009–2020",
+          "image": "images/posters/modern-family.jpg"
+        },
+        {
+          "title": "Friends",
+          "meta": "1994–2004",
+          "image": "images/posters/friends.jpg"
+        },
+        {
+          "title": "Desperate Housewives",
+          "meta": "2004–2012",
+          "image": "images/posters/desperate-housewives.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Romance Movies That I'm In Love With",
+      "theme": null,
+      "caption": "For nights when I’m feeling a little delusional, hopelessly romantic, and in need of a happy ending.",
+      "items": [
+        {
+          "title": "Yeh Jawaani Hai Deewani",
+          "meta": "2013",
+          "image": "images/posters/yeh-jawaani-hai-deewani.jpg"
+        },
+        {
+          "title": "How to Lose a Guy in 10 Days",
+          "meta": "2003",
+          "image": "images/posters/how-to-lose-a-guy-in-10-days.jpg"
+        },
+        {
+          "title": "Jab We Met",
+          "meta": "2007",
+          "image": "images/posters/jab-we-met.jpg"
+        },
+        {
+          "title": "Voicemails for Isabelle",
+          "meta": "2026",
+          "image": "images/posters/voicemails-for-isabelle.jpg"
+        },
+        {
+          "title": "Tu Jhoothi Main Makkaar",
+          "meta": "2023",
+          "image": "images/posters/tu-jhoothi-main-makkaar.jpg"
+        },
+        {
+          "title": "Rocky Aur Rani Kii Prem Kahaani",
+          "meta": "2023",
+          "image": "images/posters/rocky-aur-rani-kii-prem-kahaani.jpg"
+        },
+        {
+          "title": "Student of the Year",
+          "meta": "2012",
+          "image": "images/posters/student-of-the-year.jpg"
+        }
+      ]
+    },
+    {
+      "title": "The Desi Edit",
+      "theme": null,
+      "caption": null,
+      "items": [
+        {
+          "title": "Don't Be Shy",
+          "meta": "2026 film",
+          "image": "images/posters/dont-be-shy.jpg"
+        },
+        {
+          "title": "Dil Dosti Dilemma",
+          "meta": "2024",
+          "image": "images/posters/dil-dosti-dilemma.jpg"
+        },
+        {
+          "title": "Call Me Bae",
+          "meta": "2024",
+          "image": "images/posters/call-me-bae.jpg"
+        },
+        {
+          "title": "Mind the Malhotras",
+          "meta": "2019",
+          "image": "images/posters/mind-the-malhotras.jpg"
+        },
+        {
+          "title": "Mismatched",
+          "meta": "2020–",
+          "image": "images/posters/mismatched.jpg"
+        },
+        {
+          "title": "Masaba Masaba",
+          "meta": "2020–2022",
+          "image": "images/posters/masaba-masaba.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Watched It, Loved It, Moved On",
+      "theme": null,
+      "caption": null,
+      "items": [
+        {
+          "title": "Gilmore Girls",
+          "meta": "2000–2007",
+          "image": "images/posters/gilmore-girls.jpg"
+        },
+        {
+          "title": "Ginny & Georgia",
+          "meta": "2021–",
+          "image": "images/posters/ginny-and-georgia.jpg"
+        },
+        {
+          "title": "Bridgerton",
+          "meta": "2020–",
+          "image": "images/posters/bridgerton.jpg"
+        },
+        {
+          "title": "56 Days",
+          "meta": "2026",
+          "image": "images/posters/56-days.jpg"
+        },
+        {
+          "title": "Off Campus",
+          "meta": "2026–",
+          "image": "images/posters/off-campus.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Comedy That Never Misses",
+      "theme": null,
+      "caption": null,
+      "items": [
+        {
+          "title": "Zakir Khan: Papa Yaar",
+          "meta": "Stand-up special",
+          "image": "images/posters/papa-yaar.jpg"
+        },
+        {
+          "title": "Amit Tandon: Family Tandoncies",
+          "meta": "Stand-up special",
+          "image": "images/posters/family-tandoncies.jpg"
+        },
+        {
+          "title": "Hasan Minhaj: Homecoming King",
+          "meta": "Stand-up special",
+          "image": "images/posters/homecoming-king.jpg"
+        },
+        {
+          "title": "Ladies Up",
+          "meta": "Stand-up series",
+          "image": "images/posters/ladies-up.jpg"
+        },
+        {
+          "title": "The Great Indian Kapil Show",
+          "meta": "2024–",
+          "image": "images/posters/great-indian-kapil-show.jpg"
+        }
+      ]
+    }
+  ]
+}

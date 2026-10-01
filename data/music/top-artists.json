@@ -1,0 +1,162 @@
+[
+  {
+    "position": 1,
+    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+    "name": "Ariana Grande",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+    "spotifyUrl": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
+    "genres": []
+  },
+  {
+    "position": 2,
+    "id": "1McMsnEElThX1knmY4oliG",
+    "name": "Olivia Rodrigo",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+    "spotifyUrl": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
+    "genres": []
+  },
+  {
+    "position": 3,
+    "id": "06HL4z0CvFAxyc27GXpf02",
+    "name": "Taylor Swift",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
+    "spotifyUrl": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+    "genres": []
+  },
+  {
+    "position": 4,
+    "id": "45dkTj5sMRSjrmBSBeiHym",
+    "name": "Tate McRae",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
+    "spotifyUrl": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym",
+    "genres": []
+  },
+  {
+    "position": 5,
+    "id": "5pKCCKE2ajJHZ9KAiaK11H",
+    "name": "Rihanna",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
+    "spotifyUrl": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H",
+    "genres": []
+  },
+  {
+    "position": 6,
+    "id": "6LEG9Ld1aLImEFEVHdWNSB",
+    "name": "AP Dhillon",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfb505b37709fa86cfd8f55b3",
+    "spotifyUrl": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB",
+    "genres": []
+  },
+  {
+    "position": 7,
+    "id": "1uNFoZAHBGtllmzznpCI3s",
+    "name": "Justin Bieber",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
+    "spotifyUrl": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s",
+    "genres": []
+  },
+  {
+    "position": 8,
+    "id": "74KM79TiuVKeVCqs8QtB0B",
+    "name": "Sabrina Carpenter",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
+    "spotifyUrl": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B",
+    "genres": []
+  },
+  {
+    "position": 9,
+    "id": "465OXuCU8YZNmVG1leLwQ9",
+    "name": "Shashwat Sachdev",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb54f120e72388f1c5c3aa3edd",
+    "spotifyUrl": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9",
+    "genres": []
+  },
+  {
+    "position": 10,
+    "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+    "name": "Selena Gomez",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb815e520e3ce7fe210046ba66",
+    "spotifyUrl": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx",
+    "genres": []
+  },
+  {
+    "position": 11,
+    "id": "1Xylc3o4UrD53lo9CvFvVg",
+    "name": "Zara Larsson",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd519a7e349541cba8f85e965",
+    "spotifyUrl": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg",
+    "genres": []
+  },
+  {
+    "position": 12,
+    "id": "0LcJLqbBmaGUft1e9Mm8HV",
+    "name": "ABBA",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
+    "spotifyUrl": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+    "genres": []
+  },
+  {
+    "position": 13,
+    "id": "6jJ0s89eD6GaHleKKya26X",
+    "name": "Katy Perry",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
+    "spotifyUrl": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X",
+    "genres": []
+  },
+  {
+    "position": 14,
+    "id": "25uiPmTg16RbhZWAqwLBy5",
+    "name": "Charli xcx",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6fa76436a2bba83b9f1d6fd1",
+    "spotifyUrl": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+    "genres": []
+  },
+  {
+    "position": 15,
+    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+    "name": "The Weeknd",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+    "spotifyUrl": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
+    "genres": []
+  },
+  {
+    "position": 16,
+    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+    "name": "Ed Sheeran",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec",
+    "spotifyUrl": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V",
+    "genres": []
+  },
+  {
+    "position": 17,
+    "id": "0X2BH1fck6amBIoJhDVmmJ",
+    "name": "Ellie Goulding",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5c461001b3489a0a523f63ee",
+    "spotifyUrl": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ",
+    "genres": []
+  },
+  {
+    "position": 18,
+    "id": "7n2wHs1TKAczGzO7Dd2rGr",
+    "name": "Shawn Mendes",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb58b4b9419486550f6fda0535",
+    "spotifyUrl": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr",
+    "genres": []
+  },
+  {
+    "position": 19,
+    "id": "1wRPtKGflJrBx9BmLsSwlU",
+    "name": "Pritam",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcb6926f44f620555ba444fca",
+    "spotifyUrl": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU",
+    "genres": []
+  },
+  {
+    "position": 20,
+    "id": "5cj0lLjcoR7YOSnhnX0Po5",
+    "name": "Doja Cat",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
+    "spotifyUrl": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5",
+    "genres": []
+  }
+]

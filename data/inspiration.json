@@ -1,0 +1,195 @@
+{
+  "tagline": "Some people have comfort shows. I have comfort TED talks.",
+  "why_i_watch": {
+    "Psychology": "I want to know why people do what they do: why we feel what we feel, choose what we choose, and keep coming back. One innocent question can become a 45-minute investigation, and these talks are where it usually starts.",
+    "Learning": "I started Girls Who Code chapters at two middle schools and grew them to 240+ girls. Ever since, I’ve been hooked on how people learn, and what makes learning actually stick.",
+    "Creativity": "I’m happiest taking something from “wait, what if…” to something you can actually see, use, or experience. These talks are about exactly that.",
+    "Becoming": "I’d rather temporarily suck at something interesting than only do things I already know how to do. These are the talks I go back to when being a beginner feels hard.",
+    "Life & People": "I care about my relationships more than almost anything. These talks ask what actually makes a life good, and the answer keeps coming back to people.",
+    "Ideas & Brands": "I want to know why some ideas become companies people can’t stop talking about. These are the founders who built them and the thinkers who explain why we buy, choose, trust and come back."
+  },
+  "talks": [
+    {
+      "topic": "Psychology",
+      "title": "Change Your Mindset, Change the Game",
+      "speaker": "Alia Crum, TEDx",
+      "youtube": "https://www.youtube.com/watch?v=0tqq66zwa7g",
+      "image": "images/videos/change-your-mindset.jpg"
+    },
+    {
+      "topic": "Psychology",
+      "title": "You Aren’t at the Mercy of Your Emotions: Your Brain Creates Them",
+      "speaker": "Lisa Feldman Barrett, TED",
+      "youtube": "https://www.youtube.com/watch?v=0gks6ceq4eQ",
+      "image": "images/videos/your-brain-creates-emotions.jpg"
+    },
+    {
+      "topic": "Learning",
+      "title": "How to Make Learning as Addictive as Social Media",
+      "speaker": "Luis von Ahn, TED",
+      "youtube": "https://www.youtube.com/watch?v=P6FORpg0KVo",
+      "image": "images/videos/learning-as-addictive.jpg"
+    },
+    {
+      "topic": "Learning",
+      "title": "Education Reimagined: Student-Led Learning",
+      "speaker": "Catlin Tucker, TEDx",
+      "youtube": "https://www.youtube.com/watch?v=NTHBdIeV-8o",
+      "image": "images/videos/student-led-learning.jpg"
+    },
+    {
+      "topic": "Learning",
+      "title": "Creativity in the Classroom (in 5 Minutes or Less!)",
+      "speaker": "Catherine Thimmesh, TEDx",
+      "youtube": "https://www.youtube.com/watch?v=nASvIgSOCxw",
+      "image": "images/videos/creativity-in-the-classroom.jpg"
+    },
+    {
+      "topic": "Learning",
+      "title": "How to Design a Library That Makes Kids Want to Read",
+      "speaker": "Michael Bierut, TED",
+      "youtube": "https://www.youtube.com/watch?v=YsA_JTeHJ6A",
+      "image": "images/videos/library-kids-want-to-read.jpg"
+    },
+    {
+      "topic": "Learning",
+      "title": "Every Kid Needs a Champion",
+      "speaker": "Rita Pierson, TED",
+      "youtube": "https://www.youtube.com/watch?v=SFnMTHhKdkw",
+      "image": "images/videos/every-kid-needs-a-champion.jpg"
+    },
+    {
+      "topic": "Learning",
+      "title": "The Child-Driven Education",
+      "speaker": "Sugata Mitra, TED",
+      "youtube": "https://www.youtube.com/watch?v=nsKPvQCMATw",
+      "image": "images/videos/child-driven-education.jpg"
+    },
+    {
+      "topic": "Learning",
+      "title": "Do Schools Kill Creativity?",
+      "speaker": "Sir Ken Robinson, TED",
+      "youtube": "https://www.youtube.com/watch?v=iG9CE55wbtY",
+      "image": "images/videos/schools-kill-creativity.jpg"
+    },
+    {
+      "topic": "Creativity",
+      "title": "Your Elusive Creative Genius",
+      "speaker": "Elizabeth Gilbert, TED",
+      "youtube": "https://www.youtube.com/watch?v=86x-u-tz0MA",
+      "image": "images/videos/elusive-creative-genius.jpg"
+    },
+    {
+      "topic": "Creativity",
+      "title": "4 Lessons in Creativity",
+      "speaker": "Julie Burstein, TED",
+      "youtube": "https://www.youtube.com/watch?v=sY0Pf_pfqCI",
+      "image": "images/videos/lessons-in-creativity.jpg"
+    },
+    {
+      "topic": "Creativity",
+      "title": "Tales of Creativity and Play",
+      "speaker": "Tim Brown, TED",
+      "youtube": "https://www.youtube.com/watch?v=RjwUn-aA0VY",
+      "image": "images/videos/creativity-and-play.jpg"
+    },
+    {
+      "topic": "Creativity",
+      "title": "Designers, Think Big!",
+      "speaker": "Tim Brown, TED",
+      "youtube": "https://www.youtube.com/watch?v=UAinLaT42xY",
+      "image": "images/videos/designers-think-big.jpg"
+    },
+    {
+      "topic": "Creativity",
+      "title": "Success, Failure and the Drive to Keep Creating",
+      "speaker": "Elizabeth Gilbert, TED",
+      "youtube": "https://www.youtube.com/watch?v=_waBFUg_oT8",
+      "image": "images/videos/drive-to-keep-creating.jpg"
+    },
+    {
+      "topic": "Becoming",
+      "title": "The Power of Believing That You Can Improve",
+      "speaker": "Carol Dweck, TED",
+      "youtube": "https://www.youtube.com/watch?v=_X0mgOOSpLU",
+      "image": "images/videos/power-of-believing.jpg"
+    },
+    {
+      "topic": "Becoming",
+      "title": "Grit: The Power of Passion and Perseverance",
+      "speaker": "Angela Lee Duckworth, TED",
+      "youtube": "https://www.youtube.com/watch?v=H14bBuluwB8",
+      "image": "images/videos/grit.jpg"
+    },
+    {
+      "topic": "Becoming",
+      "title": "How Every Child Can Thrive by Five",
+      "speaker": "Molly Wright, TED",
+      "youtube": "https://www.youtube.com/watch?v=aISXCw0Pi94",
+      "image": "images/videos/thrive-by-five.jpg"
+    },
+    {
+      "topic": "Life & People",
+      "title": "What Makes a Good Life?",
+      "speaker": "Robert Waldinger, TED",
+      "youtube": "https://www.youtube.com/watch?v=8KkKuTCFvzI",
+      "image": "images/videos/what-makes-a-good-life.jpg"
+    },
+    {
+      "topic": "Life & People",
+      "title": "There’s More to Life Than Being Happy",
+      "speaker": "Emily Esfahani Smith, TED",
+      "youtube": "https://www.youtube.com/watch?v=y9Trdafp83U",
+      "image": "images/videos/more-to-life-than-being-happy.jpg"
+    },
+    {
+      "topic": "Ideas & Brands",
+      "title": "How Airbnb Designs for Trust",
+      "speaker": "Joe Gebbia, Airbnb co-founder, TED",
+      "youtube": "https://www.youtube.com/watch?v=16cM-RFid9U",
+      "image": "images/videos/airbnb-designs-for-trust.jpg"
+    },
+    {
+      "topic": "Ideas & Brands",
+      "title": "How to Build the Future in Four Steps",
+      "speaker": "Jason Kilar, Hulu founding CEO, TEDx",
+      "youtube": "https://www.youtube.com/watch?v=EMiJMod9vsk",
+      "image": "images/videos/build-the-future.jpg"
+    },
+    {
+      "topic": "Ideas & Brands",
+      "title": "How to Connect While Apart",
+      "speaker": "Eric Yuan, Zoom founder, TED",
+      "youtube": "https://www.youtube.com/watch?v=01qATwnoD_E",
+      "image": "images/videos/connect-while-apart.jpg"
+    },
+    {
+      "topic": "Ideas & Brands",
+      "title": "Choice, Happiness and Spaghetti Sauce",
+      "speaker": "Malcolm Gladwell, TED",
+      "youtube": "https://www.youtube.com/watch?v=iIiAAhUeR6Y",
+      "image": "images/videos/spaghetti-sauce.jpg"
+    },
+    {
+      "topic": "Ideas & Brands",
+      "title": "How to Make Choosing Easier",
+      "speaker": "Sheena Iyengar, TED",
+      "youtube": "https://www.youtube.com/watch?v=1pq5jnM1C-A",
+      "image": "images/videos/choosing-easier.jpg"
+    },
+    {
+      "topic": "Ideas & Brands",
+      "title": "How to Get Your Ideas to Spread",
+      "speaker": "Seth Godin, TED",
+      "youtube": "https://www.youtube.com/watch?v=xBIVlM435Zg",
+      "image": "images/videos/ideas-to-spread.jpg"
+    },
+    {
+      "topic": "Ideas & Brands",
+      "title": "The Paradox of Choice",
+      "speaker": "Barry Schwartz, TED",
+      "youtube": "https://www.youtube.com/watch?v=VO6XEQIsCoM",
+      "image": "images/videos/paradox-of-choice.jpg"
+    }
+  ]
+}

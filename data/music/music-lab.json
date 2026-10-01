@@ -1,0 +1,5071 @@
+{
+  "topTracks": {
+    "short_term": [
+      {
+        "id": "0cJRr7kw5FkV5e8ejEB2j6",
+        "name": "warning signs (interlude)",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 8,
+        "durationMs": 77342,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6"
+      },
+      {
+        "id": "2f9mI9NbGhBpHWIAVcgNOs",
+        "name": "Sapphire (feat. Arijit Singh) - Remix",
+        "artists": [
+          "Ed Sheeran",
+          "Arijit Singh"
+        ],
+        "album": "Play (Extended Edition)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737f86f3a0572c58220e834b6a",
+        "releaseDate": "2025-09-12",
+        "albumTracks": 18,
+        "trackNumber": 18,
+        "durationMs": 180648,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2f9mI9NbGhBpHWIAVcgNOs"
+      },
+      {
+        "id": "3cdEx2rKrEdZ2Vj3AcSDt2",
+        "name": "Prada",
+        "artists": [
+          "The Doorbeen",
+          "Shreya Sharma"
+        ],
+        "album": "Prada",
+        "albumType": "compilation",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5177ca80f9e0e1ea52a86d5",
+        "releaseDate": "2026-08-03",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 185500,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2"
+      },
+      {
+        "id": "6aqNCrRA7vs7v6QvRpI50t",
+        "name": "Dancing On My Own",
+        "artists": [
+          "Robyn"
+        ],
+        "album": "Body Talk",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2734689597708c1b0b3dcb9ecaf",
+        "releaseDate": "2010-01-01",
+        "albumTracks": 15,
+        "trackNumber": 3,
+        "durationMs": 285853,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
+      },
+      {
+        "id": "3d1oTMjtfVySbAYQp3v4MU",
+        "name": "like i do",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 9,
+        "durationMs": 167333,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU"
+      },
+      {
+        "id": "0lok0VDJn0zRvHLBCITSSw",
+        "name": "kiss me",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 1,
+        "durationMs": 219584,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw"
+      },
+      {
+        "id": "6MFSqc8pzXlwfzXqWZEKd4",
+        "name": "big feelings",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 6,
+        "durationMs": 173622,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4"
+      },
+      {
+        "id": "4zmXWmILSBkn7gTvIyCiNi",
+        "name": "bad thing (bunny hop)",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 11,
+        "durationMs": 208024,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi"
+      },
+      {
+        "id": "55srcWA7TioKV0LZVNXltY",
+        "name": "never get over me",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 10,
+        "durationMs": 228857,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY"
+      },
+      {
+        "id": "5DZOKNtaoVEssXu9ltcMjx",
+        "name": "oh well",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 5,
+        "durationMs": 196166,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx"
+      },
+      {
+        "id": "5JbnupagBhD0AanbkCELdH",
+        "name": "nowhere, nobody",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 12,
+        "durationMs": 172001,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH"
+      },
+      {
+        "id": "6SPLYHHBN0dKGaoD2Jcccs",
+        "name": "Hills",
+        "artists": [
+          "AP Dhillon"
+        ],
+        "album": "Two Hearts Never Break The Same",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738471bff5344bd04f60ac834a",
+        "releaseDate": "2022-10-07",
+        "albumTracks": 6,
+        "trackNumber": 4,
+        "durationMs": 159942,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6SPLYHHBN0dKGaoD2Jcccs"
+      },
+      {
+        "id": "6QhsCYcFdfyMbPWCiViI8K",
+        "name": "freak",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 7,
+        "durationMs": 199809,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K"
+      },
+      {
+        "id": "3iy2QuCtCzpWnR6tia39AB",
+        "name": "hate that i made you love me",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 2,
+        "durationMs": 197949,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
+      },
+      {
+        "id": "3TcL0dyCMyr0kyTTc4NLgI",
+        "name": "Who Says",
+        "artists": [
+          "Selena Gomez & The Scene"
+        ],
+        "album": "When The Sun Goes Down",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2731c8193de8d62b2ffa49a09db",
+        "releaseDate": "2011-01-01",
+        "albumTracks": 12,
+        "trackNumber": 3,
+        "durationMs": 195613,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI"
+      },
+      {
+        "id": "70pVCVMGjmIWPbWXDwf11e",
+        "name": "petal",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 3,
+        "durationMs": 184248,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+      },
+      {
+        "id": "0QltPqkR4dnhbINyBOU5SY",
+        "name": "stay",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 4,
+        "durationMs": 148420,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0QltPqkR4dnhbINyBOU5SY"
+      },
+      {
+        "id": "3CJvmtWw2bJsudbAC5uCQk",
+        "name": "Hands To Myself",
+        "artists": [
+          "Selena Gomez"
+        ],
+        "album": "Revival (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736bc7473df6c9d1fd90972e84",
+        "releaseDate": "2015-10-09",
+        "albumTracks": 16,
+        "trackNumber": 3,
+        "durationMs": 200680,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3CJvmtWw2bJsudbAC5uCQk"
+      },
+      {
+        "id": "55pBIZO1cqoldeqpp5WR7H",
+        "name": "the cure",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+        "releaseDate": "2026-06-12",
+        "albumTracks": 13,
+        "trackNumber": 8,
+        "durationMs": 297090,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+      },
+      {
+        "id": "0WbMK4wrZ1wFSty9F7FCgu",
+        "name": "Good Luck, Babe!",
+        "artists": [
+          "Chappell Roan"
+        ],
+        "album": "Good Luck, Babe!",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+        "releaseDate": "2024-04-05",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 218423,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      },
+      {
+        "id": "4au7FRcgZzChASRYu279xH",
+        "name": "Con Calma - Remix",
+        "artists": [
+          "Daddy Yankee",
+          "Katy Perry",
+          "Snow"
+        ],
+        "album": "Con Calma (Remix)",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f85899e6f6a05d767cc0f0a0",
+        "releaseDate": "2019-04-19",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 181280,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4au7FRcgZzChASRYu279xH"
+      },
+      {
+        "id": "12KUFSHFgT0XCoiSlvdQi4",
+        "name": "Break Free",
+        "artists": [
+          "Ariana Grande",
+          "Zedd"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 5,
+        "durationMs": 214840,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
+      },
+      {
+        "id": "0fonaf88IEDQM309zmU80L",
+        "name": "Be My Baby",
+        "artists": [
+          "Ariana Grande",
+          "Cashmere Cat"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 7,
+        "durationMs": 217053,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0fonaf88IEDQM309zmU80L"
+      },
+      {
+        "id": "7vS3Y0IKjde7Xg85LWIEdP",
+        "name": "Problem",
+        "artists": [
+          "Ariana Grande",
+          "Iggy Azalea"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 2,
+        "durationMs": 193920,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
+      },
+      {
+        "id": "52Bp8AebdOqaZAb7UqAgiL",
+        "name": "Dil Hi Toh Hai - From \"The Sky Is Pink\"",
+        "artists": [
+          "Pritam",
+          "Arijit Singh",
+          "Antara Mitra",
+          "Nikhil D'Souza"
+        ],
+        "album": "Bollywood Hits By Pritam",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27343cddcba56b445a39bcd36bc",
+        "releaseDate": "2023-06-09",
+        "albumTracks": 15,
+        "trackNumber": 6,
+        "durationMs": 280496,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/52Bp8AebdOqaZAb7UqAgiL"
+      },
+      {
+        "id": "6ocbgoVGwYJhOv1GgI9NsF",
+        "name": "7 rings",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+        "releaseDate": "2019-02-08",
+        "albumTracks": 12,
+        "trackNumber": 10,
+        "durationMs": 178626,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+      },
+      {
+        "id": "70yhaHLp9STtzI2Kzba6Tr",
+        "name": "Best Mistake",
+        "artists": [
+          "Ariana Grande",
+          "Big Sean"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 6,
+        "durationMs": 233733,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/70yhaHLp9STtzI2Kzba6Tr"
+      },
+      {
+        "id": "7xoUc6faLbCqZO6fQEYprd",
+        "name": "One Last Time",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 3,
+        "durationMs": 197266,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+      },
+      {
+        "id": "0HGcQDbRen8luCnwH53sNl",
+        "name": "Break Your Heart Right Back",
+        "artists": [
+          "Ariana Grande",
+          "Childish Gambino"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 8,
+        "durationMs": 253386,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0HGcQDbRen8luCnwH53sNl"
+      },
+      {
+        "id": "5J4ZkQpzMUFojo1CtAZYpn",
+        "name": "Love Me Harder",
+        "artists": [
+          "Ariana Grande",
+          "The Weeknd"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 9,
+        "durationMs": 236133,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
+      },
+      {
+        "id": "1bMkimTb47umgNP6xCi4A1",
+        "name": "Arz Kiya Hai | Coke Studio Bharat",
+        "artists": [
+          "Anuv Jain"
+        ],
+        "album": "Arz Kiya Hai | Coke Studio Bharat",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27325fa2d19b2363a9520a34409",
+        "releaseDate": "2025-08-20",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 294500,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
+      },
+      {
+        "id": "0qMNPhpRzbghJy6G3SgRag",
+        "name": "Intro",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 1,
+        "durationMs": 79840,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0qMNPhpRzbghJy6G3SgRag"
+      },
+      {
+        "id": "5NK3IhIeIXQmOKK5EiSRra",
+        "name": "Run Down The City - Monica",
+        "artists": [
+          "Shashwat Sachdev",
+          "Reble",
+          "Asha Bhosle",
+          "R. D. Burman",
+          "Majrooh Sultanpuri"
+        ],
+        "album": "Dhurandhar",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737838ccbef3fb712228e23fc5",
+        "releaseDate": "2025-12-05",
+        "albumTracks": 11,
+        "trackNumber": 5,
+        "durationMs": 140780,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/5NK3IhIeIXQmOKK5EiSRra"
+      },
+      {
+        "id": "2e3YJ6Hm8tR5L5Zy8HzOtv",
+        "name": "what’s wrong with me",
+        "artists": [
+          "Olivia Rodrigo",
+          "Robert Smith"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+        "releaseDate": "2026-06-11",
+        "albumTracks": 13,
+        "trackNumber": 10,
+        "durationMs": 224906,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv"
+      },
+      {
+        "id": "0XfOV7qY3834QpFVwOb6CC",
+        "name": "Treacherous",
+        "artists": [
+          "Taylor Swift"
+        ],
+        "album": "Red (Deluxe Edition)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3",
+        "releaseDate": "2012-10-22",
+        "albumTracks": 22,
+        "trackNumber": 3,
+        "durationMs": 240773,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0XfOV7qY3834QpFVwOb6CC"
+      },
+      {
+        "id": "3fRCAPMMZ8l8P9YKI6OCzD",
+        "name": "drop dead",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+        "releaseDate": "2026-06-11",
+        "albumTracks": 13,
+        "trackNumber": 1,
+        "durationMs": 224998,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
+      },
+      {
+        "id": "40fHWRL8bKcl5J4t4OKUiW",
+        "name": "Why Try",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 4,
+        "durationMs": 211880,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW"
+      },
+      {
+        "id": "5lvnGiTAH9BVlJLHc0DXZz",
+        "name": "Just A Little Bit Of Your Heart",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 10,
+        "durationMs": 232586,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz"
+      },
+      {
+        "id": "1rNop31kdDmSj3Ds6xhIeS",
+        "name": "Hands On Me",
+        "artists": [
+          "Ariana Grande",
+          "A$AP Ferg"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 11,
+        "durationMs": 192226,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1rNop31kdDmSj3Ds6xhIeS"
+      },
+      {
+        "id": "3L4GsGLgxpHieVQH86H8bv",
+        "name": "Bed (feat. Ariana Grande)",
+        "artists": [
+          "Nicki Minaj",
+          "Ariana Grande"
+        ],
+        "album": "Queen",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4",
+        "releaseDate": "2018-08-10",
+        "albumTracks": 19,
+        "trackNumber": 6,
+        "durationMs": 189533,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
+      },
+      {
+        "id": "4eumFsTnduH3zRfaASoAPs",
+        "name": "My Everything",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 12,
+        "durationMs": 168520,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs"
+      },
+      {
+        "id": "6czM6UMQD9qE5GAUp68oud",
+        "name": "Confident - Single Version",
+        "artists": [
+          "Justin Bieber",
+          "Chance the Rapper"
+        ],
+        "album": "Journals",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27386b35d0bfa6bbceed7541a3d",
+        "releaseDate": "2013-01-01",
+        "albumTracks": 15,
+        "trackNumber": 10,
+        "durationMs": 248146,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud"
+      },
+      {
+        "id": "4Ilw2lD6z4WBqh65vUUZUf",
+        "name": "my way",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+        "releaseDate": "2026-06-12",
+        "albumTracks": 13,
+        "trackNumber": 6,
+        "durationMs": 180720,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
+      },
+      {
+        "id": "6v4OWxDDulyvjWfRXPjA8Y",
+        "name": "Jutti Meri - Live",
+        "artists": [
+          "Neha Bhasin"
+        ],
+        "album": "Jutti Meri (Live)",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273804b512044f86883254964f4",
+        "releaseDate": "2020-03-16",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 208381,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6v4OWxDDulyvjWfRXPjA8Y"
+      },
+      {
+        "id": "72jCZdH0Lhg93z6Z4hBjgj",
+        "name": "I Knew You Were Trouble.",
+        "artists": [
+          "Taylor Swift"
+        ],
+        "album": "Red",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5",
+        "releaseDate": "2012-10-22",
+        "albumTracks": 16,
+        "trackNumber": 4,
+        "durationMs": 217973,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj"
+      },
+      {
+        "id": "32FVH23yFXr8Z0sfjRw4It",
+        "name": "Wo Noor",
+        "artists": [
+          "AP Dhillon"
+        ],
+        "album": "Two Hearts Never Break The Same",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738471bff5344bd04f60ac834a",
+        "releaseDate": "2022-10-07",
+        "albumTracks": 6,
+        "trackNumber": 2,
+        "durationMs": 199420,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/32FVH23yFXr8Z0sfjRw4It"
+      },
+      {
+        "id": "2PEo8JQ48mfEv8a2HLqDvt",
+        "name": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
+        "artists": [
+          "Sachin-Jigar",
+          "Rashmeet Kaur",
+          "Shamur",
+          "IP Singh"
+        ],
+        "album": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2734a613b1d85b1708afd289752",
+        "releaseDate": "2021-03-03",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 164045,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
+      },
+      {
+        "id": "49j6SvuvWfbEKZKzsHCdLJ",
+        "name": "stupid song",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+        "releaseDate": "2026-06-11",
+        "albumTracks": 13,
+        "trackNumber": 2,
+        "durationMs": 209680,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+      },
+      {
+        "id": "6oVxXO5oQ4pTpO8RSnkzvv",
+        "name": "Dress",
+        "artists": [
+          "Taylor Swift"
+        ],
+        "album": "reputation",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+        "releaseDate": "2017-11-10",
+        "albumTracks": 15,
+        "trackNumber": 12,
+        "durationMs": 230373,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv"
+      },
+      {
+        "id": "0puf9yIluy9W0vpMEUoAnN",
+        "name": "Bang Bang",
+        "artists": [
+          "Jessie J",
+          "Ariana Grande",
+          "Nicki Minaj"
+        ],
+        "album": "Sweet Talker (Deluxe Version)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273930f686fe89425c7b6bf9a7d",
+        "releaseDate": "2014-10-10",
+        "albumTracks": 15,
+        "trackNumber": 4,
+        "durationMs": 199386,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
+      }
+    ],
+    "medium_term": [
+      {
+        "id": "49j6SvuvWfbEKZKzsHCdLJ",
+        "name": "stupid song",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+        "releaseDate": "2026-06-11",
+        "albumTracks": 13,
+        "trackNumber": 2,
+        "durationMs": 209680,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+      },
+      {
+        "id": "3fRCAPMMZ8l8P9YKI6OCzD",
+        "name": "drop dead",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+        "releaseDate": "2026-06-11",
+        "albumTracks": 13,
+        "trackNumber": 1,
+        "durationMs": 224998,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
+      },
+      {
+        "id": "3d1oTMjtfVySbAYQp3v4MU",
+        "name": "like i do",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 9,
+        "durationMs": 167333,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU"
+      },
+      {
+        "id": "7yNf9YjeO5JXUE3JEBgnYc",
+        "name": "Babydoll",
+        "artists": [
+          "Dominic Fike"
+        ],
+        "album": "Don't Forget About Me, Demos",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+        "releaseDate": "2018-10-16",
+        "albumTracks": 8,
+        "trackNumber": 3,
+        "durationMs": 97960,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+      },
+      {
+        "id": "0cJRr7kw5FkV5e8ejEB2j6",
+        "name": "warning signs (interlude)",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 8,
+        "durationMs": 77342,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6"
+      },
+      {
+        "id": "6ocbgoVGwYJhOv1GgI9NsF",
+        "name": "7 rings",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+        "releaseDate": "2019-02-08",
+        "albumTracks": 12,
+        "trackNumber": 10,
+        "durationMs": 178626,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+      },
+      {
+        "id": "1UujO43qVZnWObydH4MLT5",
+        "name": "Thinking Bout You",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Dangerous Woman",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5",
+        "releaseDate": "2016-04-01",
+        "albumTracks": 15,
+        "trackNumber": 15,
+        "durationMs": 200400,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/1UujO43qVZnWObydH4MLT5"
+      },
+      {
+        "id": "55pBIZO1cqoldeqpp5WR7H",
+        "name": "the cure",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+        "releaseDate": "2026-06-12",
+        "albumTracks": 13,
+        "trackNumber": 8,
+        "durationMs": 297090,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+      },
+      {
+        "id": "4zmXWmILSBkn7gTvIyCiNi",
+        "name": "bad thing (bunny hop)",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 11,
+        "durationMs": 208024,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi"
+      },
+      {
+        "id": "12KUFSHFgT0XCoiSlvdQi4",
+        "name": "Break Free",
+        "artists": [
+          "Ariana Grande",
+          "Zedd"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 5,
+        "durationMs": 214840,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
+      },
+      {
+        "id": "3KliPMvk1EvFZu9cvkj8p1",
+        "name": "Work Bitch",
+        "artists": [
+          "Britney Spears"
+        ],
+        "album": "Britney Jean (Deluxe Version)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2733c9f7b8faf039c7607d12255",
+        "releaseDate": "2013-11-30",
+        "albumTracks": 14,
+        "trackNumber": 2,
+        "durationMs": 247960,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1"
+      },
+      {
+        "id": "3B2ZpJeewPvhAkjXtTkdtJ",
+        "name": "NOBODY'S GIRL",
+        "artists": [
+          "Tate McRae"
+        ],
+        "album": "SO CLOSE TO WHAT??? (deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273177ea3a7cc03eeb677eebdc4",
+        "releaseDate": "2025-11-19",
+        "albumTracks": 21,
+        "trackNumber": 3,
+        "durationMs": 168134,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3B2ZpJeewPvhAkjXtTkdtJ"
+      },
+      {
+        "id": "35mvY5S1H3J2QZyna3TFe0",
+        "name": "positions",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 12,
+        "durationMs": 172324,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+      },
+      {
+        "id": "4Ilw2lD6z4WBqh65vUUZUf",
+        "name": "my way",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+        "releaseDate": "2026-06-12",
+        "albumTracks": 13,
+        "trackNumber": 6,
+        "durationMs": 180720,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
+      },
+      {
+        "id": "2hloaUoRonYssMuqLCBLTX",
+        "name": "bloodline",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+        "releaseDate": "2019-02-08",
+        "albumTracks": 12,
+        "trackNumber": 4,
+        "durationMs": 216893,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX"
+      },
+      {
+        "id": "0lok0VDJn0zRvHLBCITSSw",
+        "name": "kiss me",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 1,
+        "durationMs": 219584,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw"
+      },
+      {
+        "id": "3cdEx2rKrEdZ2Vj3AcSDt2",
+        "name": "Prada",
+        "artists": [
+          "The Doorbeen",
+          "Shreya Sharma"
+        ],
+        "album": "Prada",
+        "albumType": "compilation",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5177ca80f9e0e1ea52a86d5",
+        "releaseDate": "2026-08-03",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 185500,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2"
+      },
+      {
+        "id": "6WhwHYd38f4ZB2CefpDgLo",
+        "name": "GIRLS",
+        "artists": [
+          "The Kid LAROI"
+        ],
+        "album": "THE FIRST TIME (DELUXE VERSION)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739454d875c64ae0376b4b59bb",
+        "releaseDate": "2024-08-09",
+        "albumTracks": 27,
+        "trackNumber": 6,
+        "durationMs": 152979,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6WhwHYd38f4ZB2CefpDgLo"
+      },
+      {
+        "id": "76FZM38RC8XaAjJ77CVTNe",
+        "name": "Into You",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Dangerous Woman",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5",
+        "releaseDate": "2016-04-01",
+        "albumTracks": 15,
+        "trackNumber": 4,
+        "durationMs": 244453,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe"
+      },
+      {
+        "id": "6MFSqc8pzXlwfzXqWZEKd4",
+        "name": "big feelings",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 6,
+        "durationMs": 173622,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4"
+      },
+      {
+        "id": "7EQpvVujgytLVY8vKiDHAg",
+        "name": "bad idea",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6",
+        "releaseDate": "2018-02-07",
+        "albumTracks": 12,
+        "trackNumber": 6,
+        "durationMs": 267106,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7EQpvVujgytLVY8vKiDHAg"
+      },
+      {
+        "id": "2f9mI9NbGhBpHWIAVcgNOs",
+        "name": "Sapphire (feat. Arijit Singh) - Remix",
+        "artists": [
+          "Ed Sheeran",
+          "Arijit Singh"
+        ],
+        "album": "Play (Extended Edition)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737f86f3a0572c58220e834b6a",
+        "releaseDate": "2025-09-12",
+        "albumTracks": 18,
+        "trackNumber": 18,
+        "durationMs": 180648,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2f9mI9NbGhBpHWIAVcgNOs"
+      },
+      {
+        "id": "55srcWA7TioKV0LZVNXltY",
+        "name": "never get over me",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 10,
+        "durationMs": 228857,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY"
+      },
+      {
+        "id": "5JbnupagBhD0AanbkCELdH",
+        "name": "nowhere, nobody",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 12,
+        "durationMs": 172001,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH"
+      },
+      {
+        "id": "6A18pcBX8QZGwI8EkR7aIP",
+        "name": "Siren sounds (bonus)",
+        "artists": [
+          "Tate McRae"
+        ],
+        "album": "So Close To What",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736c691022744f42565f6b546e",
+        "releaseDate": "2025-02-20",
+        "albumTracks": 16,
+        "trackNumber": 15,
+        "durationMs": 183747,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6A18pcBX8QZGwI8EkR7aIP"
+      },
+      {
+        "id": "6aqNCrRA7vs7v6QvRpI50t",
+        "name": "Dancing On My Own",
+        "artists": [
+          "Robyn"
+        ],
+        "album": "Body Talk",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2734689597708c1b0b3dcb9ecaf",
+        "releaseDate": "2010-01-01",
+        "albumTracks": 15,
+        "trackNumber": 3,
+        "durationMs": 285853,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
+      },
+      {
+        "id": "0eAuGrXyGFYwur9ARUe7LJ",
+        "name": "Earrings",
+        "artists": [
+          "Malcolm Todd"
+        ],
+        "album": "Sweet Boy",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2732c1f34ecc1929fb59908aad1",
+        "releaseDate": "2024-04-05",
+        "albumTracks": 16,
+        "trackNumber": 1,
+        "durationMs": 151500,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+      },
+      {
+        "id": "4lD7gHKF1e8Y9stQuVezZB",
+        "name": "ghostin",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6",
+        "releaseDate": "2018-02-07",
+        "albumTracks": 12,
+        "trackNumber": 8,
+        "durationMs": 271466,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4lD7gHKF1e8Y9stQuVezZB"
+      },
+      {
+        "id": "0UHB9METy4VCXNgkcGqHqS",
+        "name": "Kiss It Better",
+        "artists": [
+          "Rihanna"
+        ],
+        "album": "ANTI (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+        "releaseDate": "2016-01-28",
+        "albumTracks": 16,
+        "trackNumber": 3,
+        "durationMs": 253080,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
+      },
+      {
+        "id": "7Dx9Z6Aon1qPS2N0rHSWTe",
+        "name": "just like magic",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 4,
+        "durationMs": 149900,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/7Dx9Z6Aon1qPS2N0rHSWTe"
+      },
+      {
+        "id": "2e3YJ6Hm8tR5L5Zy8HzOtv",
+        "name": "what’s wrong with me",
+        "artists": [
+          "Olivia Rodrigo",
+          "Robert Smith"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+        "releaseDate": "2026-06-11",
+        "albumTracks": 13,
+        "trackNumber": 10,
+        "durationMs": 224906,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv"
+      },
+      {
+        "id": "7AsG1F1eMWd17RYan8M3Wm",
+        "name": "Dil Nu",
+        "artists": [
+          "AP Dhillon",
+          "Shinda Kahlon"
+        ],
+        "album": "Two Hearts Never Break The Same",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738471bff5344bd04f60ac834a",
+        "releaseDate": "2022-10-07",
+        "albumTracks": 6,
+        "trackNumber": 5,
+        "durationMs": 233666,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm"
+      },
+      {
+        "id": "0sci7ppTZFm4mjcH3nu8yO",
+        "name": "nasty",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 9,
+        "durationMs": 200732,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO"
+      },
+      {
+        "id": "40fHWRL8bKcl5J4t4OKUiW",
+        "name": "Why Try",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 4,
+        "durationMs": 211880,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW"
+      },
+      {
+        "id": "5lvnGiTAH9BVlJLHc0DXZz",
+        "name": "Just A Little Bit Of Your Heart",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 10,
+        "durationMs": 232586,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz"
+      },
+      {
+        "id": "4T652DlATVHe0jdLKaN3Bw",
+        "name": "in my head",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+        "releaseDate": "2019-02-08",
+        "albumTracks": 12,
+        "trackNumber": 9,
+        "durationMs": 222946,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw"
+      },
+      {
+        "id": "6QhsCYcFdfyMbPWCiViI8K",
+        "name": "freak",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 7,
+        "durationMs": 199809,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K"
+      },
+      {
+        "id": "1whfVLMKWqAX3uk97VXsNN",
+        "name": "west side",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 10,
+        "durationMs": 132278,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1whfVLMKWqAX3uk97VXsNN"
+      },
+      {
+        "id": "2MIpkAQVJqQIDf9k4YWoHR",
+        "name": "past life",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "eternal sunshine deluxe: brighter days ahead",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9",
+        "releaseDate": "2025-03-28",
+        "albumTracks": 19,
+        "trackNumber": 18,
+        "durationMs": 215834,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/2MIpkAQVJqQIDf9k4YWoHR"
+      },
+      {
+        "id": "3UoULw70kMsiVXxW0L3A33",
+        "name": "pov",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 14,
+        "durationMs": 201882,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
+      },
+      {
+        "id": "3iy2QuCtCzpWnR6tia39AB",
+        "name": "hate that i made you love me",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 2,
+        "durationMs": 197949,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
+      },
+      {
+        "id": "6Im9k8u9iIzKMrmV7BWtlF",
+        "name": "34+35",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 2,
+        "durationMs": 173710,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
+      },
+      {
+        "id": "70pVCVMGjmIWPbWXDwf11e",
+        "name": "petal",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 3,
+        "durationMs": 184248,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+      },
+      {
+        "id": "5DZOKNtaoVEssXu9ltcMjx",
+        "name": "oh well",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 5,
+        "durationMs": 196166,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx"
+      },
+      {
+        "id": "6WikCGNUbXFmXoLre7vjeW",
+        "name": "Touch It",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Dangerous Woman",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5",
+        "releaseDate": "2016-04-01",
+        "albumTracks": 15,
+        "trackNumber": 13,
+        "durationMs": 260000,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6WikCGNUbXFmXoLre7vjeW"
+      },
+      {
+        "id": "5GkQIP5mWPi4KZLLXeuFTT",
+        "name": "motive (with Doja Cat)",
+        "artists": [
+          "Ariana Grande",
+          "Doja Cat"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 3,
+        "durationMs": 167989,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT"
+      },
+      {
+        "id": "3L4GsGLgxpHieVQH86H8bv",
+        "name": "Bed (feat. Ariana Grande)",
+        "artists": [
+          "Nicki Minaj",
+          "Ariana Grande"
+        ],
+        "album": "Queen",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4",
+        "releaseDate": "2018-08-10",
+        "albumTracks": 19,
+        "trackNumber": 6,
+        "durationMs": 189533,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
+      },
+      {
+        "id": "6SPLYHHBN0dKGaoD2Jcccs",
+        "name": "Hills",
+        "artists": [
+          "AP Dhillon"
+        ],
+        "album": "Two Hearts Never Break The Same",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738471bff5344bd04f60ac834a",
+        "releaseDate": "2022-10-07",
+        "albumTracks": 6,
+        "trackNumber": 4,
+        "durationMs": 159942,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6SPLYHHBN0dKGaoD2Jcccs"
+      },
+      {
+        "id": "3CJvmtWw2bJsudbAC5uCQk",
+        "name": "Hands To Myself",
+        "artists": [
+          "Selena Gomez"
+        ],
+        "album": "Revival (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736bc7473df6c9d1fd90972e84",
+        "releaseDate": "2015-10-09",
+        "albumTracks": 16,
+        "trackNumber": 3,
+        "durationMs": 200680,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3CJvmtWw2bJsudbAC5uCQk"
+      },
+      {
+        "id": "14kYOiFVPb7E7NfFbqhdln",
+        "name": "goodnight n go",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Sweetener",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+        "releaseDate": "2018-08-17",
+        "albumTracks": 15,
+        "trackNumber": 13,
+        "durationMs": 189506,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln"
+      }
+    ],
+    "long_term": [
+      {
+        "id": "7dU0cwMHeo1ECqxSsjoh5j",
+        "name": "Run Down The City - Monica",
+        "artists": [
+          "Shashwat Sachdev",
+          "Reble",
+          "Asha Bhosle",
+          "R. D. Burman",
+          "Majrooh Sultanpuri"
+        ],
+        "album": "Dhurandhar (Original Motion Picture Soundtrack)",
+        "albumType": "compilation",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2730b787e18e693e344202486bf",
+        "releaseDate": "2025-12-05",
+        "albumTracks": 11,
+        "trackNumber": 5,
+        "durationMs": 140780,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/7dU0cwMHeo1ECqxSsjoh5j"
+      },
+      {
+        "id": "28tmK8wkE9y1UHdBKLd0nA",
+        "name": "Thinking Bout You",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Dangerous Woman",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065",
+        "releaseDate": "2016-05-20",
+        "albumTracks": 17,
+        "trackNumber": 15,
+        "durationMs": 200386,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/28tmK8wkE9y1UHdBKLd0nA"
+      },
+      {
+        "id": "3RwWW7KeVhHGayYJgUL5eZ",
+        "name": "eternal sunshine",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "eternal sunshine",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+        "releaseDate": "2024-03-08",
+        "albumTracks": 13,
+        "trackNumber": 5,
+        "durationMs": 210200,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
+      },
+      {
+        "id": "0fK7ie6XwGxQTIkpFoWkd1",
+        "name": "like JENNIE",
+        "artists": [
+          "JENNIE"
+        ],
+        "album": "Ruby",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
+        "releaseDate": "2025-03-07",
+        "albumTracks": 15,
+        "trackNumber": 2,
+        "durationMs": 123517,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+      },
+      {
+        "id": "51ZQ1vr10ffzbwIjDCwqm4",
+        "name": "we can't be friends (wait for your love)",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "eternal sunshine",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+        "releaseDate": "2024-03-08",
+        "albumTracks": 13,
+        "trackNumber": 10,
+        "durationMs": 228639,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+      },
+      {
+        "id": "0WdR2AyLW1Drd3OUdwezM0",
+        "name": "everytime",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Sweetener",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+        "releaseDate": "2018-08-17",
+        "albumTracks": 15,
+        "trackNumber": 8,
+        "durationMs": 172106,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0"
+      },
+      {
+        "id": "7xoUc6faLbCqZO6fQEYprd",
+        "name": "One Last Time",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "My Everything (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 15,
+        "trackNumber": 3,
+        "durationMs": 197266,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+      },
+      {
+        "id": "2hloaUoRonYssMuqLCBLTX",
+        "name": "bloodline",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+        "releaseDate": "2019-02-08",
+        "albumTracks": 12,
+        "trackNumber": 4,
+        "durationMs": 216893,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX"
+      },
+      {
+        "id": "35mvY5S1H3J2QZyna3TFe0",
+        "name": "positions",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 12,
+        "durationMs": 172324,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+      },
+      {
+        "id": "7EQpvVujgytLVY8vKiDHAg",
+        "name": "bad idea",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6",
+        "releaseDate": "2018-02-07",
+        "albumTracks": 12,
+        "trackNumber": 6,
+        "durationMs": 267106,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7EQpvVujgytLVY8vKiDHAg"
+      },
+      {
+        "id": "4LfCY65LvojKjWEnU7fNN4",
+        "name": "stupid song",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+        "releaseDate": "2026-06-12",
+        "albumTracks": 13,
+        "trackNumber": 2,
+        "durationMs": 209680,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+      },
+      {
+        "id": "4T652DlATVHe0jdLKaN3Bw",
+        "name": "in my head",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+        "releaseDate": "2019-02-08",
+        "albumTracks": 12,
+        "trackNumber": 9,
+        "durationMs": 222946,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw"
+      },
+      {
+        "id": "6ocbgoVGwYJhOv1GgI9NsF",
+        "name": "7 rings",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+        "releaseDate": "2019-02-08",
+        "albumTracks": 12,
+        "trackNumber": 10,
+        "durationMs": 178626,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+      },
+      {
+        "id": "0sci7ppTZFm4mjcH3nu8yO",
+        "name": "nasty",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 9,
+        "durationMs": 200732,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO"
+      },
+      {
+        "id": "3d1oTMjtfVySbAYQp3v4MU",
+        "name": "like i do",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 9,
+        "durationMs": 167333,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU"
+      },
+      {
+        "id": "3F3ZuXYFXGM1V6pk3b3zmi",
+        "name": "Kinni Kinni",
+        "artists": [
+          "Diljit Dosanjh",
+          "thiarajxtt"
+        ],
+        "album": "Ghost",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273cb2f9520171129a3df7a241a",
+        "releaseDate": "2023-09-29",
+        "albumTracks": 22,
+        "trackNumber": 6,
+        "durationMs": 213344,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
+      },
+      {
+        "id": "0yO9QD2Ga7eUzqnNYsSSPo",
+        "name": "drop dead",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+        "releaseDate": "2026-06-12",
+        "albumTracks": 13,
+        "trackNumber": 1,
+        "durationMs": 224998,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0yO9QD2Ga7eUzqnNYsSSPo"
+      },
+      {
+        "id": "0q85C1JiECyYIQthz1posA",
+        "name": "obvious",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 13,
+        "durationMs": 146958,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/0q85C1JiECyYIQthz1posA"
+      },
+      {
+        "id": "0tBbt8CrmxbjRP0pueQkyU",
+        "name": "Wolves",
+        "artists": [
+          "Selena Gomez",
+          "Marshmello"
+        ],
+        "album": "Wolves",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273307910d4242c0d6b1fedf955",
+        "releaseDate": "2017-10-25",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 197993,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU"
+      },
+      {
+        "id": "1whfVLMKWqAX3uk97VXsNN",
+        "name": "west side",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 10,
+        "durationMs": 132278,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1whfVLMKWqAX3uk97VXsNN"
+      },
+      {
+        "id": "14kYOiFVPb7E7NfFbqhdln",
+        "name": "goodnight n go",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Sweetener",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+        "releaseDate": "2018-08-17",
+        "albumTracks": 15,
+        "trackNumber": 13,
+        "durationMs": 189506,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln"
+      },
+      {
+        "id": "7ne4VBA60CxGM75vw0EYad",
+        "name": "That’s So True",
+        "artists": [
+          "Gracie Abrams"
+        ],
+        "album": "The Secret of Us (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+        "releaseDate": "2024-10-18",
+        "albumTracks": 20,
+        "trackNumber": 15,
+        "durationMs": 166300,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+      },
+      {
+        "id": "1qcJdr8TYuGjFhjRoYNC3e",
+        "name": "Moonlight",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Dangerous Woman",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065",
+        "releaseDate": "2016-05-20",
+        "albumTracks": 17,
+        "trackNumber": 1,
+        "durationMs": 202360,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e"
+      },
+      {
+        "id": "7DY756WOLyOz2Xnhw4EFiC",
+        "name": "São Paulo (feat. Anitta)",
+        "artists": [
+          "The Weeknd",
+          "Anitta"
+        ],
+        "album": "Hurry Up Tomorrow",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273de79f330bc297af3fae736da",
+        "releaseDate": "2025-01-31",
+        "albumTracks": 22,
+        "trackNumber": 4,
+        "durationMs": 301623,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
+      },
+      {
+        "id": "3UoULw70kMsiVXxW0L3A33",
+        "name": "pov",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 14,
+        "durationMs": 201882,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
+      },
+      {
+        "id": "1ywoy5kdf2LsG2019ClGjm",
+        "name": "Knew Better / Forever Boy",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Dangerous Woman",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065",
+        "releaseDate": "2016-05-20",
+        "albumTracks": 17,
+        "trackNumber": 14,
+        "durationMs": 299213,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1ywoy5kdf2LsG2019ClGjm"
+      },
+      {
+        "id": "7yNf9YjeO5JXUE3JEBgnYc",
+        "name": "Babydoll",
+        "artists": [
+          "Dominic Fike"
+        ],
+        "album": "Don't Forget About Me, Demos",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+        "releaseDate": "2018-10-16",
+        "albumTracks": 8,
+        "trackNumber": 3,
+        "durationMs": 97960,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+      },
+      {
+        "id": "7rlKlsYacU3PFLGD7ca1HL",
+        "name": "Touch It",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Dangerous Woman",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065",
+        "releaseDate": "2016-05-20",
+        "albumTracks": 17,
+        "trackNumber": 13,
+        "durationMs": 260000,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7rlKlsYacU3PFLGD7ca1HL"
+      },
+      {
+        "id": "6kls8cSlUyHW2BUOkDJIZE",
+        "name": "Hate Me (with Juice WRLD)",
+        "artists": [
+          "Ellie Goulding",
+          "Juice WRLD"
+        ],
+        "album": "Hate Me (with Juice WRLD)",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273dc854e032e8588d5e75eebc6",
+        "releaseDate": "2019-06-26",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 186223,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6kls8cSlUyHW2BUOkDJIZE"
+      },
+      {
+        "id": "51hyZpbJlIgZIaX3TtMxmu",
+        "name": "run for the hills",
+        "artists": [
+          "Tate McRae"
+        ],
+        "album": "THINK LATER",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c4258b134ff5756932f9c46f",
+        "releaseDate": "2023-12-08",
+        "albumTracks": 14,
+        "trackNumber": 3,
+        "durationMs": 143940,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
+      },
+      {
+        "id": "0UHB9METy4VCXNgkcGqHqS",
+        "name": "Kiss It Better",
+        "artists": [
+          "Rihanna"
+        ],
+        "album": "ANTI (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+        "releaseDate": "2016-01-28",
+        "albumTracks": 16,
+        "trackNumber": 3,
+        "durationMs": 253080,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
+      },
+      {
+        "id": "1TEL6MlSSVLSdhOSddidlJ",
+        "name": "needy",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+        "releaseDate": "2019-02-08",
+        "albumTracks": 12,
+        "trackNumber": 2,
+        "durationMs": 171573,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
+      },
+      {
+        "id": "5OCJzvD7sykQEKHH7qAC3C",
+        "name": "God is a woman",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Sweetener",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+        "releaseDate": "2018-08-17",
+        "albumTracks": 15,
+        "trackNumber": 5,
+        "durationMs": 197546,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
+      },
+      {
+        "id": "0WbMK4wrZ1wFSty9F7FCgu",
+        "name": "Good Luck, Babe!",
+        "artists": [
+          "Chappell Roan"
+        ],
+        "album": "Good Luck, Babe!",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+        "releaseDate": "2024-04-05",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 218423,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      },
+      {
+        "id": "4pAl7FkDMNBsjykPXo91B3",
+        "name": "Needed Me",
+        "artists": [
+          "Rihanna"
+        ],
+        "album": "ANTI (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+        "releaseDate": "2016-01-28",
+        "albumTracks": 16,
+        "trackNumber": 7,
+        "durationMs": 191600,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
+      },
+      {
+        "id": "0cJRr7kw5FkV5e8ejEB2j6",
+        "name": "warning signs (interlude)",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 8,
+        "durationMs": 77342,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6"
+      },
+      {
+        "id": "2oPCpj9ezVq5D6IJNAGkL2",
+        "name": "NOBODY'S GIRL",
+        "artists": [
+          "Tate McRae"
+        ],
+        "album": "SO CLOSE TO WHAT??? (deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c40dccc1952bb5ed96986869",
+        "releaseDate": "2025-11-21",
+        "albumTracks": 21,
+        "trackNumber": 3,
+        "durationMs": 168134,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
+      },
+      {
+        "id": "39LmTF9RgyakzSYX8txrow",
+        "name": "imagine",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+        "releaseDate": "2019-02-08",
+        "albumTracks": 12,
+        "trackNumber": 1,
+        "durationMs": 212266,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow"
+      },
+      {
+        "id": "3AJwUDP919kvQ9QcozQPxg",
+        "name": "Yellow",
+        "artists": [
+          "Coldplay"
+        ],
+        "album": "Parachutes",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+        "releaseDate": "2000-07-10",
+        "albumTracks": 10,
+        "trackNumber": 5,
+        "durationMs": 266773,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+      },
+      {
+        "id": "0Ryd8975WihbObpp5cPW1t",
+        "name": "boyfriend (with Social House)",
+        "artists": [
+          "Ariana Grande",
+          "Social House"
+        ],
+        "album": "boyfriend",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f",
+        "releaseDate": "2019-08-02",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 186106,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t"
+      },
+      {
+        "id": "3NbTQ8ZbHU6MSEVUFAVCJ9",
+        "name": "better off",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Sweetener",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+        "releaseDate": "2018-08-17",
+        "albumTracks": 15,
+        "trackNumber": 12,
+        "durationMs": 171333,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/3NbTQ8ZbHU6MSEVUFAVCJ9"
+      },
+      {
+        "id": "0uvnGQnVe313EXePbRnZEH",
+        "name": "Shararat (From \"Dhurandhar\")",
+        "artists": [
+          "Shashwat Sachdev",
+          "Madhubanti Bagchi",
+          "Jasmine Sandlas"
+        ],
+        "album": "Shararat (From \"Dhurandhar\")",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2730d4983835036172fddd93936",
+        "releaseDate": "2025-12-01",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 224083,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0uvnGQnVe313EXePbRnZEH"
+      },
+      {
+        "id": "14gkWVFMwdxBMyqBw1wmIg",
+        "name": "safety net (feat. Ty Dolla $ign)",
+        "artists": [
+          "Ariana Grande",
+          "Ty Dolla $ign"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 7,
+        "durationMs": 208457,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/14gkWVFMwdxBMyqBw1wmIg"
+      },
+      {
+        "id": "2lX53kXvYnvpV8Vqfe4S7s",
+        "name": "Sadqay",
+        "artists": [
+          "Aashir Wajahat",
+          "NAYEL",
+          "Nehaal Naseem"
+        ],
+        "album": "Sadqay",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273518e98ce0ef69f7ce0781157",
+        "releaseDate": "2024-02-01",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 154455,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
+      },
+      {
+        "id": "51rfRCiUSvxXlCSCfIztBy",
+        "name": "I Love You, I'm Sorry",
+        "artists": [
+          "Gracie Abrams"
+        ],
+        "album": "The Secret of Us",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+        "releaseDate": "2024-06-21",
+        "albumTracks": 13,
+        "trackNumber": 4,
+        "durationMs": 157146,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+      },
+      {
+        "id": "2vdBo4ALPYbHRUPKgtE5iC",
+        "name": "ghostin",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "thank u, next",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+        "releaseDate": "2019-02-08",
+        "albumTracks": 12,
+        "trackNumber": 8,
+        "durationMs": 271466,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC"
+      },
+      {
+        "id": "190jyVPHYjAqEaOGmMzdyk",
+        "name": "Beauty And A Beat",
+        "artists": [
+          "Justin Bieber",
+          "Nicki Minaj"
+        ],
+        "album": "Believe (Deluxe Edition)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736c20c4638a558132ba95bc39",
+        "releaseDate": "2012-06-15",
+        "albumTracks": 17,
+        "trackNumber": 10,
+        "durationMs": 227986,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+      },
+      {
+        "id": "6Im9k8u9iIzKMrmV7BWtlF",
+        "name": "34+35",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "Positions",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+        "releaseDate": "2020-10-30",
+        "albumTracks": 14,
+        "trackNumber": 2,
+        "durationMs": 173710,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
+      },
+      {
+        "id": "3jjBPF4NDMCU51psU8JPpR",
+        "name": "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
+        "artists": [
+          "Ariana Grande",
+          "Doja Cat",
+          "Megan Thee Stallion"
+        ],
+        "album": "34+35 (Remix)",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27343d04ae192008a5113862faf",
+        "releaseDate": "2021-01-15",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 182437,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR"
+      },
+      {
+        "id": "4VlyINESDLEOklzN6JCQtE",
+        "name": "One Last Time - Instrumental",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "One Last Time",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739db9c19b2485517da3bbdf60",
+        "releaseDate": "2014-08-22",
+        "albumTracks": 3,
+        "trackNumber": 3,
+        "durationMs": 198886,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4VlyINESDLEOklzN6JCQtE"
+      }
+    ]
+  },
+  "topArtists": {
+    "short_term": [
+      {
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      },
+      {
+        "id": "6LEG9Ld1aLImEFEVHdWNSB",
+        "name": "AP Dhillon",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebfb505b37709fa86cfd8f55b3",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+      },
+      {
+        "id": "465OXuCU8YZNmVG1leLwQ9",
+        "name": "Shashwat Sachdev",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb54f120e72388f1c5c3aa3edd",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+      },
+      {
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      {
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+      },
+      {
+        "id": "0X2BH1fck6amBIoJhDVmmJ",
+        "name": "Ellie Goulding",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb5c461001b3489a0a523f63ee",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+      },
+      {
+        "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+        "name": "Selena Gomez",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb815e520e3ce7fe210046ba66",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+      },
+      {
+        "id": "1wRPtKGflJrBx9BmLsSwlU",
+        "name": "Pritam",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcb6926f44f620555ba444fca",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+      },
+      {
+        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "name": "Rihanna",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      {
+        "id": "6S2OmqARrzebs0tKUEyXyp",
+        "name": "Demi Lovato",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb42d7061876b87861d7c8f3fb",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+      },
+      {
+        "id": "6VuMaDnrHyPL1p4EHjYLi7",
+        "name": "Charlie Puth",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb6721f541fb123145d4cb3ace",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+      },
+      {
+        "id": "26dSoYclwsYLMAKD3tpOr4",
+        "name": "Britney Spears",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba82576e3d9f02b310e15a262",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+      },
+      {
+        "id": "2FKWNmZWDBZR4dE5KX4plR",
+        "name": "Diljit Dosanjh",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebfc043bea91ac91c222d235c9",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+      },
+      {
+        "id": "5rQoBDKFnd1n6BkdbgVaRL",
+        "name": "Guru Randhawa",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb531f6fb5759f44e7c3d707d6",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+      },
+      {
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      {
+        "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+        "name": "Vishal-Shekhar",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb90b6c3d093f9b02aad628eaf",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+      },
+      {
+        "id": "7n2wHs1TKAczGzO7Dd2rGr",
+        "name": "Shawn Mendes",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb58b4b9419486550f6fda0535",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      {
+        "id": "1mBydYMVBECdDmMfE2sEUO",
+        "name": "Sachin-Jigar",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebbb4064bef3a825344d5eb79e",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+      },
+      {
+        "id": "74KM79TiuVKeVCqs8QtB0B",
+        "name": "Sabrina Carpenter",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+      },
+      {
+        "id": "0y59o4v8uw5crbN9M3JiL1",
+        "name": "Badshah",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc2b02f1ca1503fa275fb7a10",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+      },
+      {
+        "id": "4ITkqBlf5eoVCOFwsJCnqo",
+        "name": "Harrdy Sandhu",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb139f693337e94ea1023df8fb",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+      },
+      {
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+      },
+      {
+        "id": "3ozYqVCLohfpXIhalkhM8D",
+        "name": "Aditya Rikhari",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb482c8b15eab378fdebc5e05e",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+      },
+      {
+        "id": "5cj0lLjcoR7YOSnhnX0Po5",
+        "name": "Doja Cat",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+      },
+      {
+        "id": "7uIbLdzzSEqnX0Pkrb56cR",
+        "name": "Yo Yo Honey Singh",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb0d980c444c93fded5715e1b4",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+      },
+      {
+        "id": "7cYEt1pqMgXJdq00hAwVpT",
+        "name": "Chase Atlantic",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba4e2d7045cbcca592ba6c7dd",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+      },
+      {
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+      },
+      {
+        "id": "6DARBhWbfcS9E4yJzcliqQ",
+        "name": "Karan Aujla",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb5bc8823f5e12458215d64678",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+      },
+      {
+        "id": "181bsRPaVXVlUKXrxwZfHK",
+        "name": "Megan Thee Stallion",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb65a9ac943abab7c9935ea282",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+      },
+      {
+        "id": "2jw70GZXlAI8QzWeY2bgRc",
+        "name": "Nelly Furtado",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebd2ce0bf5614b54bd44e059d5",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+      },
+      {
+        "id": "45dkTj5sMRSjrmBSBeiHym",
+        "name": "Tate McRae",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+      },
+      {
+        "id": "61if35zz1W11GejEkxTLEQ",
+        "name": "Benny Dayal",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc88897f144b4df438ec58727",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+      },
+      {
+        "id": "76fuWYgIf3TVIopTs3vaJ6",
+        "name": "Amaal Mallik",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc1559c29cb61d249075a8b86",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+      },
+      {
+        "id": "0hCNtLu0JehylgoiP8L4Gh",
+        "name": "Nicki Minaj",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+      },
+      {
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "id": "7HCqGPJcQTyGJ2yqntbuyr",
+        "name": "Amit Trivedi",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba37271f7a4862a6e99ce345f",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+      },
+      {
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebadfb0b2df04b77e43b5f7375",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      {
+        "id": "4kYSro6naA4h99UJvo89HB",
+        "name": "Cardi B",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba23286f24edd4a7dbdc6311d",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+      },
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      },
+      {
+        "id": "6CXEwIaXYfVJ84biCxqc9k",
+        "name": "Vishal Dadlani",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb76328e37a2c1280ab9adb90c",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+      },
+      {
+        "id": "6cK3NBO6uP7hh0oyuVELFl",
+        "name": "Saweetie",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb0214fabf2d511f3a395f2cde",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+      },
+      {
+        "id": "738wLrAtLtCtFOLvQBXOXp",
+        "name": "Major Lazer",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebab312009266614f4d3185229",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+      },
+      {
+        "id": "7GlBOeep6PqTfFi59PTUUN",
+        "name": "Chappell Roan",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+      },
+      {
+        "id": "2qanRMyA5bNuTvz1dK45OP",
+        "name": "ADÉLA",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb2005cc18964c60e22c4759b5",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+      }
+    ],
+    "medium_term": [
+      {
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      },
+      {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "id": "45dkTj5sMRSjrmBSBeiHym",
+        "name": "Tate McRae",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+      },
+      {
+        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "name": "Rihanna",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      {
+        "id": "6LEG9Ld1aLImEFEVHdWNSB",
+        "name": "AP Dhillon",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebfb505b37709fa86cfd8f55b3",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+      },
+      {
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+      },
+      {
+        "id": "74KM79TiuVKeVCqs8QtB0B",
+        "name": "Sabrina Carpenter",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+      },
+      {
+        "id": "465OXuCU8YZNmVG1leLwQ9",
+        "name": "Shashwat Sachdev",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb54f120e72388f1c5c3aa3edd",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+      },
+      {
+        "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+        "name": "Selena Gomez",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb815e520e3ce7fe210046ba66",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+      },
+      {
+        "id": "1Xylc3o4UrD53lo9CvFvVg",
+        "name": "Zara Larsson",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebd519a7e349541cba8f85e965",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+      },
+      {
+        "id": "0LcJLqbBmaGUft1e9Mm8HV",
+        "name": "ABBA",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+      },
+      {
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+      },
+      {
+        "id": "25uiPmTg16RbhZWAqwLBy5",
+        "name": "Charli xcx",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb6fa76436a2bba83b9f1d6fd1",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      {
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      {
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      {
+        "id": "0X2BH1fck6amBIoJhDVmmJ",
+        "name": "Ellie Goulding",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb5c461001b3489a0a523f63ee",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+      },
+      {
+        "id": "7n2wHs1TKAczGzO7Dd2rGr",
+        "name": "Shawn Mendes",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb58b4b9419486550f6fda0535",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      {
+        "id": "1wRPtKGflJrBx9BmLsSwlU",
+        "name": "Pritam",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcb6926f44f620555ba444fca",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+      },
+      {
+        "id": "5cj0lLjcoR7YOSnhnX0Po5",
+        "name": "Doja Cat",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+      },
+      {
+        "id": "26dSoYclwsYLMAKD3tpOr4",
+        "name": "Britney Spears",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba82576e3d9f02b310e15a262",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+      },
+      {
+        "id": "2FKWNmZWDBZR4dE5KX4plR",
+        "name": "Diljit Dosanjh",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebfc043bea91ac91c222d235c9",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+      },
+      {
+        "id": "5rQoBDKFnd1n6BkdbgVaRL",
+        "name": "Guru Randhawa",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb531f6fb5759f44e7c3d707d6",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+      },
+      {
+        "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+        "name": "Vishal-Shekhar",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb90b6c3d093f9b02aad628eaf",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+      },
+      {
+        "id": "6S2OmqARrzebs0tKUEyXyp",
+        "name": "Demi Lovato",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb42d7061876b87861d7c8f3fb",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+      },
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      },
+      {
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+      },
+      {
+        "id": "0y59o4v8uw5crbN9M3JiL1",
+        "name": "Badshah",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc2b02f1ca1503fa275fb7a10",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+      },
+      {
+        "id": "0du5cEVh5yTK9QJze8zA0C",
+        "name": "Bruno Mars",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+      },
+      {
+        "id": "2kRfqPViCqYdSGhYSM9R0Q",
+        "name": "Madison Beer",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebe49a051508f6c1eeaecff664",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+      },
+      {
+        "id": "4gdMJYnopf2nEUcanAwstx",
+        "name": "Anuv Jain",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba837a6cb82dd949d5e1f9b53",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+      },
+      {
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      {
+        "id": "3ozYqVCLohfpXIhalkhM8D",
+        "name": "Aditya Rikhari",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb482c8b15eab378fdebc5e05e",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+      },
+      {
+        "id": "1l8Fu6IkuTP0U5QetQJ5Xt",
+        "name": "Fifth Harmony",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+      },
+      {
+        "id": "1mBydYMVBECdDmMfE2sEUO",
+        "name": "Sachin-Jigar",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebbb4064bef3a825344d5eb79e",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+      },
+      {
+        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+        "name": "Camila Cabello",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb76470faf6330235edbcb90a9",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+      },
+      {
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "id": "2feDdbD5araYcm6JhFHHw7",
+        "name": "Labrinth",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb18d3c3e8a880f73e0f5688ab",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+      },
+      {
+        "id": "7CajNmpbOovFoOoasH2HaY",
+        "name": "Calvin Harris",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+      },
+      {
+        "id": "04gDigrS5kc9YWfZHwBETP",
+        "name": "Maroon 5",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+      },
+      {
+        "id": "4AK6F7OLvEQ5QYCBNiQWHq",
+        "name": "One Direction",
+        "image": "https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+      },
+      {
+        "id": "4ITkqBlf5eoVCOFwsJCnqo",
+        "name": "Harrdy Sandhu",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb139f693337e94ea1023df8fb",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+      },
+      {
+        "id": "6DARBhWbfcS9E4yJzcliqQ",
+        "name": "Karan Aujla",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb5bc8823f5e12458215d64678",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+      },
+      {
+        "id": "2jw70GZXlAI8QzWeY2bgRc",
+        "name": "Nelly Furtado",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebd2ce0bf5614b54bd44e059d5",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+      },
+      {
+        "id": "6VuMaDnrHyPL1p4EHjYLi7",
+        "name": "Charlie Puth",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb6721f541fb123145d4cb3ace",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+      },
+      {
+        "id": "02gSuSAWEdWa5UOvqzjX6v",
+        "name": "SIENNA SPIRO",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebfb0ab819bbd4502028cd1feb",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+      },
+      {
+        "id": "41MozSoPIsD1dJM0CLPjZF",
+        "name": "BLACKPINK",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb623538b7014238c54ceee056",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+      },
+      {
+        "id": "6vWDO969PvNqNYHIOW5v0m",
+        "name": "Beyoncé",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb7eaa373538359164b843f7c0",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      {
+        "id": "7cYEt1pqMgXJdq00hAwVpT",
+        "name": "Chase Atlantic",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba4e2d7045cbcca592ba6c7dd",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+      },
+      {
+        "id": "0hCNtLu0JehylgoiP8L4Gh",
+        "name": "Nicki Minaj",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+      }
+    ],
+    "long_term": [
+      {
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      },
+      {
+        "id": "45dkTj5sMRSjrmBSBeiHym",
+        "name": "Tate McRae",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+      },
+      {
+        "id": "74KM79TiuVKeVCqs8QtB0B",
+        "name": "Sabrina Carpenter",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+      },
+      {
+        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "name": "Rihanna",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      {
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      {
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+      },
+      {
+        "id": "1wRPtKGflJrBx9BmLsSwlU",
+        "name": "Pritam",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcb6926f44f620555ba444fca",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+      },
+      {
+        "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+        "name": "Selena Gomez",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb815e520e3ce7fe210046ba66",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+      },
+      {
+        "id": "1Xylc3o4UrD53lo9CvFvVg",
+        "name": "Zara Larsson",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebd519a7e349541cba8f85e965",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+      },
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      },
+      {
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+      },
+      {
+        "id": "465OXuCU8YZNmVG1leLwQ9",
+        "name": "Shashwat Sachdev",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb54f120e72388f1c5c3aa3edd",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+      },
+      {
+        "id": "1mBydYMVBECdDmMfE2sEUO",
+        "name": "Sachin-Jigar",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebbb4064bef3a825344d5eb79e",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+      },
+      {
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebadfb0b2df04b77e43b5f7375",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      {
+        "id": "2FKWNmZWDBZR4dE5KX4plR",
+        "name": "Diljit Dosanjh",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebfc043bea91ac91c222d235c9",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+      },
+      {
+        "id": "6LEG9Ld1aLImEFEVHdWNSB",
+        "name": "AP Dhillon",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebfb505b37709fa86cfd8f55b3",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+      },
+      {
+        "id": "5cj0lLjcoR7YOSnhnX0Po5",
+        "name": "Doja Cat",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+      },
+      {
+        "id": "26dSoYclwsYLMAKD3tpOr4",
+        "name": "Britney Spears",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba82576e3d9f02b310e15a262",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+      },
+      {
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+      },
+      {
+        "id": "4AK6F7OLvEQ5QYCBNiQWHq",
+        "name": "One Direction",
+        "image": "https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+      },
+      {
+        "id": "04gDigrS5kc9YWfZHwBETP",
+        "name": "Maroon 5",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+      },
+      {
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      {
+        "id": "0X2BH1fck6amBIoJhDVmmJ",
+        "name": "Ellie Goulding",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb5c461001b3489a0a523f63ee",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+      },
+      {
+        "id": "1mYsTxnqsietFxj1OgoGbG",
+        "name": "A.R. Rahman",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebb19af0ea736c6228d6eb539c",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+      },
+      {
+        "id": "7cYEt1pqMgXJdq00hAwVpT",
+        "name": "Chase Atlantic",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba4e2d7045cbcca592ba6c7dd",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+      },
+      {
+        "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+        "name": "Vishal-Shekhar",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb90b6c3d093f9b02aad628eaf",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+      },
+      {
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "id": "0y59o4v8uw5crbN9M3JiL1",
+        "name": "Badshah",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc2b02f1ca1503fa275fb7a10",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+      },
+      {
+        "id": "5wJ1H6ud777odtZl5gG507",
+        "name": "Vishal Mishra",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb3810f381e2626b80fb3ffb18",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+      },
+      {
+        "id": "0LcJLqbBmaGUft1e9Mm8HV",
+        "name": "ABBA",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+      },
+      {
+        "id": "25uiPmTg16RbhZWAqwLBy5",
+        "name": "Charli xcx",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb6fa76436a2bba83b9f1d6fd1",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      {
+        "id": "4IKVDbCSBTxBeAsMKjAuTs",
+        "name": "Armaan Malik",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb363d9b8ebe3df4a4ce2d91e0",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+      },
+      {
+        "id": "4gvjmrtzydbMpyJaXUtwvP",
+        "name": "Addison Rae",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8aaca79d5544dc02bea2b6b2",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+      },
+      {
+        "id": "4ITkqBlf5eoVCOFwsJCnqo",
+        "name": "Harrdy Sandhu",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb139f693337e94ea1023df8fb",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+      },
+      {
+        "id": "6VuMaDnrHyPL1p4EHjYLi7",
+        "name": "Charlie Puth",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb6721f541fb123145d4cb3ace",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+      },
+      {
+        "id": "2kRfqPViCqYdSGhYSM9R0Q",
+        "name": "Madison Beer",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebe49a051508f6c1eeaecff664",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+      },
+      {
+        "id": "5rQoBDKFnd1n6BkdbgVaRL",
+        "name": "Guru Randhawa",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb531f6fb5759f44e7c3d707d6",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+      },
+      {
+        "id": "3c0gDdb9lhnHGFtP4prQpn",
+        "name": "KATSEYE",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb04ba72b2749f90d62152ebec",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+      },
+      {
+        "id": "7n2wHs1TKAczGzO7Dd2rGr",
+        "name": "Shawn Mendes",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb58b4b9419486550f6fda0535",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      {
+        "id": "4gdMJYnopf2nEUcanAwstx",
+        "name": "Anuv Jain",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba837a6cb82dd949d5e1f9b53",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+      },
+      {
+        "id": "5f4QpKfy7ptCHwTqspnSJI",
+        "name": "Neha Kakkar",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb2c3c6dc56635014fa90b32a6",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+      },
+      {
+        "id": "7HCqGPJcQTyGJ2yqntbuyr",
+        "name": "Amit Trivedi",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba37271f7a4862a6e99ce345f",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+      },
+      {
+        "id": "540vIaP2JwjQb9dm3aArA4",
+        "name": "DJ Snake",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb175df1a8848d8ff67c6d5600",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+      },
+      {
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      {
+        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+        "name": "Camila Cabello",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb76470faf6330235edbcb90a9",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+      },
+      {
+        "id": "6S2OmqARrzebs0tKUEyXyp",
+        "name": "Demi Lovato",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb42d7061876b87861d7c8f3fb",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+      },
+      {
+        "id": "2oSONSC9zQ4UonDKnLqksx",
+        "name": "Atif Aslam",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc40600e02356cc86f0debe84",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+      },
+      {
+        "id": "6WOdPJmexxFINcKMkP2jMG",
+        "name": "Sachet Tandon",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebe34fad78221a2cb31da57946",
+        "popularity": 0,
+        "followers": 0,
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+      }
+    ]
+  },
+  "recent": [
+    {
+      "track": {
+        "id": "3euOpzKAHg3floSr6TgTRw",
+        "name": "Disco Disco",
+        "artists": [
+          "Sachin-Jigar",
+          "Benny Dayal",
+          "Shirley Setia"
+        ],
+        "album": "Disco Disco (From \"A Gentleman\")",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b91af7f193643ba849e6211a",
+        "releaseDate": "2017-07-20",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 167006,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3euOpzKAHg3floSr6TgTRw"
+      },
+      "playedAt": "2026-10-01T08:09:03.182Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "3meosaLOJGuQ6OjxnYR7sI",
+        "name": "Dhat Teri Ki",
+        "artists": [
+          "Vishal-Shekhar",
+          "Sanam Puri",
+          "Aditi Singh Sharma"
+        ],
+        "album": "Gori Tere Pyaar Mein (Original Motion Picture Soundtrack)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2734fa33110e7aa38e228fc050d",
+        "releaseDate": "2013-11-01",
+        "albumTracks": 9,
+        "trackNumber": 2,
+        "durationMs": 247093,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/3meosaLOJGuQ6OjxnYR7sI"
+      },
+      "playedAt": "2026-10-01T08:06:15.657Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "342pJxy678kgQrZXCL9RG7",
+        "name": "Urvashi",
+        "artists": [
+          "Yo Yo Honey Singh"
+        ],
+        "album": "Urvashi",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b7f69196f71d4e059f5d49c1",
+        "releaseDate": "2018-09-28",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 215483,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
+      },
+      "playedAt": "2026-10-01T08:02:08.07Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "7n4lGZKhwGvr6UELQUDx3O",
+        "name": "Besabriyaan (From \"M.S.Dhoni - The Untold Story\")",
+        "artists": [
+          "Armaan Malik"
+        ],
+        "album": "Armaan Malik - The Musical Archduke",
+        "albumType": "compilation",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735b64b60fed926172156419c8",
+        "releaseDate": "2022-07-21",
+        "albumTracks": 39,
+        "trackNumber": 17,
+        "durationMs": 255738,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7n4lGZKhwGvr6UELQUDx3O"
+      },
+      "playedAt": "2026-10-01T07:58:32.123Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "04VUjNx30IrigVZU3CQmrQ",
+        "name": "Mercy",
+        "artists": [
+          "Badshah"
+        ],
+        "album": "ONE (Original Never Ends)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737b8d8ca1a8e14506c8f35233",
+        "releaseDate": "2018-08-17",
+        "albumTracks": 17,
+        "trackNumber": 16,
+        "durationMs": 162404,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/04VUjNx30IrigVZU3CQmrQ"
+      },
+      "playedAt": "2026-10-01T07:54:15.893Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "6GVv6Zn0zfN36sKDJY1axO",
+        "name": "Cham Cham",
+        "artists": [
+          "Meet Bros.",
+          "Monali Thakur"
+        ],
+        "album": "Baaghi",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273442cc5719771ff2ca62f437f",
+        "releaseDate": "2016-04-09",
+        "albumTracks": 5,
+        "trackNumber": 3,
+        "durationMs": 261479,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6GVv6Zn0zfN36sKDJY1axO"
+      },
+      "playedAt": "2026-10-01T07:51:33.001Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "22kRCQPyNXWZSQEcDvCmGD",
+        "name": "Gulabi",
+        "artists": [
+          "Sachin-Jigar",
+          "Jigar Saraiya",
+          "Priya Saraiya",
+          "Jaideep Sahni"
+        ],
+        "album": "Shuddh Desi Romance",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b142294d7adcc8e4f599fe87",
+        "releaseDate": "2013-08-22",
+        "albumTracks": 9,
+        "trackNumber": 2,
+        "durationMs": 230661,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/22kRCQPyNXWZSQEcDvCmGD"
+      },
+      "playedAt": "2026-10-01T07:47:11.009Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "4ymPEyiXabTe1NO8q8EFxG",
+        "name": "Chogada (From \"Loveyatri\")",
+        "artists": [
+          "Darshan Raval",
+          "Asees Kaur",
+          "Lijo George-Dj Chetas"
+        ],
+        "album": "Chogada (From \"Loveyatri\")",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e15fbd6a10bc9d5994e3abf",
+        "releaseDate": "2018-08-14",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 249741,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4ymPEyiXabTe1NO8q8EFxG"
+      },
+      "playedAt": "2026-10-01T07:43:19.832Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "4cQxBfdD5nNJaLcPIY3EcK",
+        "name": "Dil Chori (From \"Sonu Ke Titu Ki Sweety\")",
+        "artists": [
+          "Yo Yo Honey Singh",
+          "Simar Kaur",
+          "Ishers",
+          "Anand Raj Anand"
+        ],
+        "album": "Dil Chori (From \"Sonu Ke Titu Ki Sweety\")",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273ed9be8a7a5a45c7a0b7d6cac",
+        "releaseDate": "2017-12-26",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 226696,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4cQxBfdD5nNJaLcPIY3EcK"
+      },
+      "playedAt": "2026-10-01T07:39:09.567Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "7MkhC2h8lDwyEfaKxf48cJ",
+        "name": "Pappu Can't Dance",
+        "artists": [
+          "Benny Dayal",
+          "Naresh Iyer",
+          "Satish Chakravarthy",
+          "Aslam",
+          "Blaaze",
+          "Tanvi Shah",
+          "Bhargavi Pillai"
+        ],
+        "album": "Jaane Tu... Ya Jaane Na",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273abf91851997179d195afab5f",
+        "releaseDate": "2008-05-21",
+        "albumTracks": 8,
+        "trackNumber": 2,
+        "durationMs": 264986,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7MkhC2h8lDwyEfaKxf48cJ"
+      },
+      "playedAt": "2026-10-01T07:35:22.367Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "2NTVtNcpC0i1R7LVGaCZCF",
+        "name": "Jugnu",
+        "artists": [
+          "Badshah",
+          "Nikhita Gandhi"
+        ],
+        "album": "Jugnu",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273efe374ffabeb543840dee228",
+        "releaseDate": "2021-10-26",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 230400,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
+      },
+      "playedAt": "2026-10-01T07:30:56.859Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "0CCkRb9Ga6nluTRiAejwCw",
+        "name": "Caller Tune",
+        "artists": [
+          "Neeti Mohan",
+          "Neeraj Shridhar"
+        ],
+        "album": "Long Drive With Himesh Reshammiya",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739f51d5de5d7a52c40bc309de",
+        "releaseDate": "2023-07-20",
+        "albumTracks": 20,
+        "trackNumber": 5,
+        "durationMs": 273100,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0CCkRb9Ga6nluTRiAejwCw"
+      },
+      "playedAt": "2026-10-01T07:23:56.201Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "4AoQVhME8Ko6LNm4lV2wwQ",
+        "name": "Hookah Bar",
+        "artists": [
+          "Himesh Reshammiya",
+          "Vineet Singh",
+          "Aaman Trikha"
+        ],
+        "album": "Khiladi 786",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27333f89bc08b2d9cda09a857a1",
+        "releaseDate": "2012-10-30",
+        "albumTracks": 12,
+        "trackNumber": 5,
+        "durationMs": 254351,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4AoQVhME8Ko6LNm4lV2wwQ"
+      },
+      "playedAt": "2026-10-01T07:19:22.589Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "1bHBYJjUYYbUnwKYCFxV1F",
+        "name": "Party All Night (From \"Boss\")",
+        "artists": [
+          "Yo Yo Honey Singh"
+        ],
+        "album": "Yo Yo Honey Singh Is Back",
+        "albumType": "compilation",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2734ba2466aa6c47a2a87afd079",
+        "releaseDate": "2018-03-12",
+        "albumTracks": 20,
+        "trackNumber": 18,
+        "durationMs": 282792,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1bHBYJjUYYbUnwKYCFxV1F"
+      },
+      "playedAt": "2026-10-01T07:15:06.883Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "0zRsGGueSQLRkYWs4kPA4V",
+        "name": "Naah",
+        "artists": [
+          "Harrdy Sandhu",
+          "Jaani"
+        ],
+        "album": "Naah",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273ff161df8394754388c7da24a",
+        "releaseDate": "2017-11-30",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 190000,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0zRsGGueSQLRkYWs4kPA4V"
+      },
+      "playedAt": "2026-10-01T07:10:23.594Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "51ZN0MyxxJ0VmCN2Hlscfw",
+        "name": "Abhi Toh Party Shuru Hui Hai (From \"Khoobsurat\")",
+        "artists": [
+          "Badshah",
+          "Aastha"
+        ],
+        "album": "Badshah Party Hits",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f3c5eadfb522b51aca89e2c9",
+        "releaseDate": "2020-05-25",
+        "albumTracks": 6,
+        "trackNumber": 5,
+        "durationMs": 179912,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/51ZN0MyxxJ0VmCN2Hlscfw"
+      },
+      "playedAt": "2026-10-01T07:07:13.108Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "5FLgOuLoVwwUUF7IL36Lux",
+        "name": "Apna Time Aayega",
+        "artists": [
+          "DIVINE",
+          "Ranveer Singh",
+          "Dub Sharma"
+        ],
+        "album": "Gully Boy (Original Motion Picture Soundtrack)",
+        "albumType": "compilation",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27399241710b1b1b590b79d444e",
+        "releaseDate": "2019-01-24",
+        "albumTracks": 18,
+        "trackNumber": 13,
+        "durationMs": 140463,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/5FLgOuLoVwwUUF7IL36Lux"
+      },
+      "playedAt": "2026-10-01T07:04:12.696Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "6jdOi5U5LBzQrc4c1VT983",
+        "name": "Hold On, We're Going Home",
+        "artists": [
+          "Drake",
+          "Majid Jordan"
+        ],
+        "album": "Nothing Was The Same (Deluxe)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8",
+        "releaseDate": "2013-01-01",
+        "albumTracks": 16,
+        "trackNumber": 8,
+        "durationMs": 227880,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
+      },
+      "playedAt": "2026-10-01T07:01:24.154Z",
+      "context": "artist"
+    },
+    {
+      "track": {
+        "id": "6DoUDG1GJrJf6eGQLUBBnm",
+        "name": "Ahí",
+        "artists": [
+          "KAROL G",
+          "Drake"
+        ],
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
+        "releaseDate": "2026-08-07",
+        "albumTracks": 14,
+        "trackNumber": 4,
+        "durationMs": 176568,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
+      },
+      "playedAt": "2026-10-01T06:57:35.775Z",
+      "context": "artist"
+    },
+    {
+      "track": {
+        "id": "393OFJFZKIIv66JmJcNm9D",
+        "name": "National Treasures",
+        "artists": [
+          "Drake"
+        ],
+        "album": "ICEMAN",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+        "releaseDate": "2026-05-15",
+        "albumTracks": 18,
+        "trackNumber": 9,
+        "durationMs": 200830,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+      },
+      "playedAt": "2026-10-01T06:54:38.725Z",
+      "context": "artist"
+    },
+    {
+      "track": {
+        "id": "6DCZcSspjsKoFjzjrWoCdn",
+        "name": "God's Plan",
+        "artists": [
+          "Drake"
+        ],
+        "album": "Scorpion",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+        "releaseDate": "2018-06-29",
+        "albumTracks": 25,
+        "trackNumber": 5,
+        "durationMs": 198973,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+      },
+      "playedAt": "2026-10-01T06:51:17.383Z",
+      "context": "artist"
+    },
+    {
+      "track": {
+        "id": "6DCZcSspjsKoFjzjrWoCdn",
+        "name": "God's Plan",
+        "artists": [
+          "Drake"
+        ],
+        "album": "Scorpion",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+        "releaseDate": "2018-06-29",
+        "albumTracks": 25,
+        "trackNumber": 5,
+        "durationMs": 198973,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+      },
+      "playedAt": "2026-10-01T06:47:35.546Z",
+      "context": "artist"
+    },
+    {
+      "track": {
+        "id": "4BKGX9xJSAaEvnD3SPvih0",
+        "name": "Tu Mera Koi Na Hoke Bhi Kuch Laage",
+        "artists": [
+          "Sachin-Jigar",
+          "Arijit Singh"
+        ],
+        "album": "Trending Bollywood (1 Min Mix)",
+        "albumType": "compilation",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b4d6ded405c29ef12f71055d",
+        "releaseDate": "2023-07-17",
+        "albumTracks": 35,
+        "trackNumber": 10,
+        "durationMs": 92989,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4BKGX9xJSAaEvnD3SPvih0"
+      },
+      "playedAt": "2026-10-01T06:43:45.027Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "6hvRoJ0BTZywxu8UCPBkzx",
+        "name": "I Don't Care",
+        "artists": [
+          "Ed Sheeran",
+          "Justin Bieber"
+        ],
+        "album": "+-=÷× (Tour Collection)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27362407726ee053c7d89aeff9a",
+        "releaseDate": "2024-09-27",
+        "albumTracks": 24,
+        "trackNumber": 19,
+        "durationMs": 219946,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6hvRoJ0BTZywxu8UCPBkzx"
+      },
+      "playedAt": "2026-10-01T06:42:11.537Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "16gWH763XwKoiqRjhow0MI",
+        "name": "Buddhu Sa Mann",
+        "artists": [
+          "Amaal Mallik",
+          "Armaan Malik",
+          "Abhiruchi Chand"
+        ],
+        "album": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27377e7c5b87bef7ab4e629f2f8",
+        "releaseDate": "2016",
+        "albumTracks": 7,
+        "trackNumber": 3,
+        "durationMs": 206858,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/16gWH763XwKoiqRjhow0MI"
+      },
+      "playedAt": "2026-10-01T06:38:28.741Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "1bMkimTb47umgNP6xCi4A1",
+        "name": "Arz Kiya Hai | Coke Studio Bharat",
+        "artists": [
+          "Anuv Jain"
+        ],
+        "album": "Arz Kiya Hai | Coke Studio Bharat",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27325fa2d19b2363a9520a34409",
+        "releaseDate": "2025-08-20",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 294500,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
+      },
+      "playedAt": "2026-10-01T06:35:01.389Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "4v8gaa5734AGaSJRmfOITQ",
+        "name": "Tera Yaar Hoon Main - Remix(Remix By Dj Chetas,Dj Nyk)",
+        "artists": [
+          "Arijit Singh",
+          "Rochak Kohli"
+        ],
+        "album": "Tera Yaar Hoon Main - Remix",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273e46b0cee0efeab8666a46de7",
+        "releaseDate": "2018-05-31",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 225744,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4v8gaa5734AGaSJRmfOITQ"
+      },
+      "playedAt": "2026-10-01T06:30:06.36Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "2ZD4aIEepqZsdxPxLSuUhm",
+        "name": "Tere Pyaar Mein",
+        "artists": [
+          "Pritam",
+          "Arijit Singh",
+          "Amitabh Bhattacharya",
+          "Nikhita Gandhi"
+        ],
+        "album": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273fdd4cc7defb987b4c3aa2d9e",
+        "releaseDate": "2023-02-01",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 266094,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
+      },
+      "playedAt": "2026-10-01T06:26:20.113Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "4uHM5aJ5yYHS7XuvW4ROU5",
+        "name": "Sundari Ke Pyar Mein - From \"Param Sundari\"",
+        "artists": [
+          "Sachin-Jigar",
+          "Sumonto Mukherjee",
+          "Amitabh Bhattacharya"
+        ],
+        "album": "Sundari Ke Pyar Mein (From \"Param Sundari\")",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27309d9beab39abbcf16a94b9fe",
+        "releaseDate": "2025-08-25",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 245242,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4uHM5aJ5yYHS7XuvW4ROU5"
+      },
+      "playedAt": "2026-10-01T06:21:53.494Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "0RCbpYNzlZ8kcZHRmOvPso",
+        "name": "Desi Wine (From \"Thank You For Coming\")",
+        "artists": [
+          "QARAN",
+          "Nikhita Gandhi",
+          "The Rish",
+          "Arjun"
+        ],
+        "album": "Desi Wine (From \"Thank You For Coming\")",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5b5a2eace8a46ea56c7f37e",
+        "releaseDate": "2023-09-21",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 171300,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0RCbpYNzlZ8kcZHRmOvPso"
+      },
+      "playedAt": "2026-10-01T06:17:47.727Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "2p5ETiuOn33KxupCfJyXLi",
+        "name": "Pehla Nasha 2.0",
+        "artists": [
+          "Amaal Mallik",
+          "Armaan Malik",
+          "Pragati Nagpal",
+          "Rashmi Virag"
+        ],
+        "album": "Pehla Nasha 2.0",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27339ca1d541621e6bb67964d05",
+        "releaseDate": "2025-02-05",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 247808,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2p5ETiuOn33KxupCfJyXLi"
+      },
+      "playedAt": "2026-10-01T06:14:55.919Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "1Ef0TmgS1QrVO6tKHrMMmH",
+        "name": "Ghungroo (From \"War\")",
+        "artists": [
+          "Vishal-Shekhar",
+          "Arijit Singh",
+          "Shilpa Rao",
+          "Kumaar"
+        ],
+        "album": "YRF Top 10 - Nightout Sounds",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273825ae4fbebb64fd9f4fd7de1",
+        "releaseDate": "2021-05-04",
+        "albumTracks": 10,
+        "trackNumber": 8,
+        "durationMs": 302935,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1Ef0TmgS1QrVO6tKHrMMmH"
+      },
+      "playedAt": "2026-10-01T06:10:47.589Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "6OTfUkn4BwQtSnWvwO9vyR",
+        "name": "Sooiyan",
+        "artists": [
+          "Amit Trivedi",
+          "Chinmayi",
+          "Arijit Singh"
+        ],
+        "album": "Guddu Rangeela",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738c4fc63bb376d0d3d2b45391",
+        "releaseDate": "2015-07-03",
+        "albumTracks": 5,
+        "trackNumber": 2,
+        "durationMs": 241102,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6OTfUkn4BwQtSnWvwO9vyR"
+      },
+      "playedAt": "2026-10-01T06:05:44.051Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "4UMIv5jd9gK98a39BQRD9X",
+        "name": "Kesariya",
+        "artists": [
+          "Pritam",
+          "Arijit Singh",
+          "Amitabh Bhattacharya"
+        ],
+        "album": "Brahmastra (Original Motion Picture Soundtrack)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736b2599d5038cdc91aecd774e",
+        "releaseDate": "2022-10-06",
+        "albumTracks": 9,
+        "trackNumber": 1,
+        "durationMs": 268164,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X"
+      },
+      "playedAt": "2026-10-01T06:01:42.369Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "0eLtIxPRNJfsmehITZ1qaJ",
+        "name": "Sahiba",
+        "artists": [
+          "Aditya Rikhari"
+        ],
+        "album": "Sahiba",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7",
+        "releaseDate": "2023-12-19",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 190098,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
+      },
+      "playedAt": "2026-10-01T05:56:52.9Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "67oNO9GjcDn7NO08lg08jj",
+        "name": "Tenu Sang Rakhna",
+        "artists": [
+          "Achint",
+          "Arijit Singh",
+          "Anumita Nadesan",
+          "Varun Grover"
+        ],
+        "album": "Jigra",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273e461b9dfdf50466bc608a280",
+        "releaseDate": "2024-10-15",
+        "albumTracks": 7,
+        "trackNumber": 1,
+        "durationMs": 249818,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/67oNO9GjcDn7NO08lg08jj"
+      },
+      "playedAt": "2026-10-01T05:53:42.24Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "1VY2incfH4TLT9PCbot6lj",
+        "name": "London Thumakda (From \"Queen\")",
+        "artists": [
+          "Labh Janjua",
+          "Sonu Kakkar",
+          "Neha Kakkar"
+        ],
+        "album": "Best Of Neha Kakkar",
+        "albumType": "compilation",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739d7bddae364c6d11491625c2",
+        "releaseDate": "2017-06-05",
+        "albumTracks": 10,
+        "trackNumber": 5,
+        "durationMs": 230468,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1VY2incfH4TLT9PCbot6lj"
+      },
+      "playedAt": "2026-10-01T05:49:31.91Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "1r6GbBLdtUK1Vl1IHT14wP",
+        "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+        "artists": [
+          "Mohammad Faiz",
+          "Jaani"
+        ],
+        "album": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739c5e3a8b63998aa730bb0fbf",
+        "releaseDate": "2024-05-24",
+        "albumTracks": 7,
+        "trackNumber": 1,
+        "durationMs": 281511,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1r6GbBLdtUK1Vl1IHT14wP"
+      },
+      "playedAt": "2026-10-01T05:40:02.23Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "4vUmTMuQqjdnvlZmAH61Qk",
+        "name": "South of the Border (feat. Camila Cabello & Cardi B)",
+        "artists": [
+          "Ed Sheeran",
+          "Camila Cabello",
+          "Cardi B"
+        ],
+        "album": "No.6 Collaborations Project",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f528fc2d5d8b26e4e3413715",
+        "releaseDate": "2019-07-12",
+        "albumTracks": 15,
+        "trackNumber": 2,
+        "durationMs": 204466,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
+      },
+      "playedAt": "2026-10-01T05:35:20.014Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "7iekl4P95GuphG8x8a3cNT",
+        "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "artists": [
+          "Pritam",
+          "Arijit Singh",
+          "Jonita Gandhi",
+          "Ranveer Singh",
+          "Amitabh Bhattacharya"
+        ],
+        "album": "Rocky Aur Rani Kii Prem Kahaani",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2733186471e5280d90457a7edd0",
+        "releaseDate": "2023-08-14",
+        "albumTracks": 14,
+        "trackNumber": 2,
+        "durationMs": 213611,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7iekl4P95GuphG8x8a3cNT"
+      },
+      "playedAt": "2026-10-01T05:31:55.05Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "7DZZNj8TVbajv6YdgtwDaR",
+        "name": "Tareefan - DJ Notorious Remix",
+        "artists": [
+          "Badshah",
+          "DJ Notorious"
+        ],
+        "album": "Veere Di Wedding (Original Motion Picture Soundtrack)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27366ccf0cab8bd89c0fd69c314",
+        "releaseDate": "2018-05-31",
+        "albumTracks": 10,
+        "trackNumber": 9,
+        "durationMs": 228284,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/7DZZNj8TVbajv6YdgtwDaR"
+      },
+      "playedAt": "2026-10-01T05:28:20.939Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "0biCSADTAblvLTLtJz4pXO",
+        "name": "Nashe Si Chadh Gayi",
+        "artists": [
+          "Vishal-Shekhar",
+          "Arijit Singh",
+          "Caralisa Monteiro",
+          "Jaideep Sahni"
+        ],
+        "album": "Befikre",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f5dc36d5000145375a41c3b8",
+        "releaseDate": "2016-12-01",
+        "albumTracks": 7,
+        "trackNumber": 1,
+        "durationMs": 237875,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO"
+      },
+      "playedAt": "2026-10-01T05:24:10.519Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "6IR6mzRO60hnMjNoq8rCPE",
+        "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "artists": [
+          "Raghav",
+          "Tanishk Bagchi",
+          "Asees Kaur"
+        ],
+        "album": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273a9bdccd7e1b16eb656050b2b",
+        "releaseDate": "2024-01-29",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 153083,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6IR6mzRO60hnMjNoq8rCPE"
+      },
+      "playedAt": "2026-10-01T05:20:12.176Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "1Xk4qOVBo2N4lA8RWJabjM",
+        "name": "Symmetry",
+        "artists": [
+          "Ed Sheeran"
+        ],
+        "album": "Play",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b07c28bb3192bdfb585fb438",
+        "releaseDate": "2025-09-12",
+        "albumTracks": 13,
+        "trackNumber": 5,
+        "durationMs": 168979,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1Xk4qOVBo2N4lA8RWJabjM"
+      },
+      "playedAt": "2026-10-01T05:17:38.618Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "1PALLCSlHwAI4upY3sMg8u",
+        "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
+        "artists": [
+          "Aditya Rikhari",
+          "Tulsi Kumar",
+          "Lijo George-Dj Chetas"
+        ],
+        "album": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273edf2fb20566c733442f6ee52",
+        "releaseDate": "2024-10-22",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 212108,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/1PALLCSlHwAI4upY3sMg8u"
+      },
+      "playedAt": "2026-10-01T05:14:49.151Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "2q9lPN7CT92W1Ry77j2acn",
+        "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "artists": [
+          "Pritam",
+          "Arijit Singh",
+          "Shreya Ghoshal",
+          "Shadab Faridi",
+          "Altamash Faridi",
+          "Amitabh Bhattacharya"
+        ],
+        "album": "Rocky Aur Rani Kii Prem Kahaani",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2733186471e5280d90457a7edd0",
+        "releaseDate": "2023-08-14",
+        "albumTracks": 14,
+        "trackNumber": 3,
+        "durationMs": 246988,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/2q9lPN7CT92W1Ry77j2acn"
+      },
+      "playedAt": "2026-10-01T05:11:16.565Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "65dt1vedDHPOCCPS3mVhtN",
+        "name": "Sapphire (feat. Arijit Singh) - Remix",
+        "artists": [
+          "Ed Sheeran",
+          "Arijit Singh"
+        ],
+        "album": "Sapphire (feat. Arijit Singh)",
+        "albumType": "single",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2733f14d005a195b4dbba7d7b48",
+        "releaseDate": "2025-07-24",
+        "albumTracks": 1,
+        "trackNumber": 1,
+        "durationMs": 180648,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/65dt1vedDHPOCCPS3mVhtN"
+      },
+      "playedAt": "2026-10-01T05:07:09.081Z",
+      "context": ""
+    },
+    {
+      "track": {
+        "id": "4zmXWmILSBkn7gTvIyCiNi",
+        "name": "bad thing (bunny hop)",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "releaseDate": "2026-07-31",
+        "albumTracks": 12,
+        "trackNumber": 11,
+        "durationMs": 208024,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi"
+      },
+      "playedAt": "2026-10-01T04:47:07.4Z",
+      "context": "playlist"
+    },
+    {
+      "track": {
+        "id": "6fxVffaTuwjgEk5h9QyRjy",
+        "name": "Photograph",
+        "artists": [
+          "Ed Sheeran"
+        ],
+        "album": "x (Wembley Edition)",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d08209944468440145f01524",
+        "releaseDate": "2013",
+        "albumTracks": 24,
+        "trackNumber": 6,
+        "durationMs": 258986,
+        "popularity": 0,
+        "explicit": false,
+        "url": "https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy"
+      },
+      "playedAt": "2026-10-01T04:43:38.857Z",
+      "context": "playlist"
+    },
+    {
+      "track": {
+        "id": "7ySUcLPVX7KudhnmNcgY2D",
+        "name": "S&M",
+        "artists": [
+          "Rihanna"
+        ],
+        "album": "Loud",
+        "albumType": "album",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
+        "releaseDate": "2010-01-01",
+        "albumTracks": 13,
+        "trackNumber": 1,
+        "durationMs": 243600,
+        "popularity": 0,
+        "explicit": true,
+        "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+      },
+      "playedAt": "2026-10-01T04:39:19.354Z",
+      "context": "playlist"
+    }
+  ]
+}

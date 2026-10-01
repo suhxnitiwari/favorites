@@ -1,0 +1,21 @@
+{
+  "headline": "So apparently, I have a type.",
+  "subhead": "Different medium, same obsessions: people, why they do what they do, what they make, and what makes something worth coming back to.",
+  "themes": [
+    {
+      "name": "Understanding",
+      "from": "Rom-coms, ensemble shows, psychology books, emotionally specific lyrics",
+      "why": "I’m endlessly interested in why people choose each other, misunderstand each other, and change."
+    },
+    {
+      "name": "Making",
+      "from": "Product books, creativity talks, whole discographies",
+      "why": "I like seeing how something goes from an idea to a thing people care about."
+    },
+    {
+      "name": "Feeling",
+      "from": "Nostalgic songs, comfort shows, happy endings, books I reread",
+      "why": "I don’t come back to things just because they’re “good.” I come back to things that make me feel something."
+    }
+  ]
+}
