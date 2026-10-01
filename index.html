@@ -3,93 +3,362 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Suhani's Favorites</title>
+<title>Favorites, Decoded</title>
+<meta name="description" content="Suhani Tiwari's favorites, run through the numbers: music stats, a mood picker, and everything in one searchable list.">
 <style>
-  :root { --bg:#FAF1EF; --card:#fff; --ink:#1E100A; --muted:#7a5d55; --accent:#B4536A; --line:#EBD5D0; }
-  @media (prefers-color-scheme: dark) { :root { --bg:#1a1211; --card:#251a18; --ink:#f6e9e5; --muted:#c3a49c; --accent:#e58ea3; --line:#3a2a27; } }
+  :root {
+    --bg:#FAF1EF; --card:#FFFFFF; --ink:#1E100A; --ink2:#5b4038; --muted:#8a6c64; --line:#EBD5D0;
+    --accent:#B4536A; --bar:#B4536A; --soft:#F5E5E1; --hero:#2a1418; --hero-ink:#FAF1EF;
+  }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+    --bg:#1a1211; --card:#251a18; --ink:#f6e9e5; --ink2:#dcc4bd; --muted:#b0948c; --line:#3a2a27;
+    --accent:#E58EA3; --bar:#CC6680; --soft:#2d201e; --hero:#33191f; --hero-ink:#f6e9e5; } }
+  :root[data-theme="dark"] {
+    --bg:#1a1211; --card:#251a18; --ink:#f6e9e5; --ink2:#dcc4bd; --muted:#b0948c; --line:#3a2a27;
+    --accent:#E58EA3; --bar:#CC6680; --soft:#2d201e; --hero:#33191f; --hero-ink:#f6e9e5; }
   * { box-sizing:border-box; margin:0; padding:0; }
-  body { background:var(--bg); color:var(--ink); font:16px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
-  main { max-width:1100px; margin:0 auto; padding:48px 16px 80px; }
-  header h1 { font-size:clamp(2.2rem,6vw,3.4rem); letter-spacing:-.02em; }
-  header p { color:var(--muted); margin-top:6px; }
-  nav { display:flex; gap:8px; margin:24px 0 8px; flex-wrap:wrap; }
-  nav a { color:var(--accent); text-decoration:none; border:1px solid var(--line); border-radius:999px; padding:6px 14px; }
-  section { margin-top:56px; }
-  h2 { font-size:1.8rem; }
-  .claim { margin:10px 0 24px; max-width:720px; color:var(--muted); }
-  .claim strong { display:block; color:var(--ink); font-size:1.15rem; }
-  h3 { margin:28px 0 4px; font-size:1.15rem; }
-  .theme { color:var(--accent); font-size:.8rem; text-transform:uppercase; letter-spacing:.08em; margin-top:28px; }
-  .theme + h3 { margin-top:2px; }
-  .cap { color:var(--muted); font-size:.92rem; margin-bottom:10px; }
-  .rail { display:grid; grid-auto-flow:column; grid-auto-columns:132px; gap:14px; overflow-x:auto; padding:8px 0 14px; }
-  .rail.wide { grid-auto-columns:220px; }
-  .item img { width:100%; aspect-ratio:2/3; object-fit:cover; border-radius:10px; background:var(--line); display:block; }
-  .wide .item img { aspect-ratio:16/9; }
-  .item a { color:inherit; text-decoration:none; }
-  .t { font-weight:600; font-size:.9rem; margin-top:6px; line-height:1.3; }
-  .m { color:var(--muted); font-size:.8rem; }
-  .tag { color:var(--accent); font-size:.72rem; text-transform:uppercase; letter-spacing:.06em; margin-top:6px; }
-  .list { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:10px; margin-top:12px; }
-  .row { display:flex; gap:10px; align-items:center; background:var(--card); border:1px solid var(--line); border-radius:10px; padding:8px; }
-  .row img { width:48px; height:48px; border-radius:6px; object-fit:cover; flex:none; }
-  .row.artist img { border-radius:50%; }
-  .row a { color:inherit; text-decoration:none; }
-  .bar { height:10px; background:var(--accent); border-radius:5px; }
-  .genres { max-width:560px; display:grid; gap:10px; margin-top:12px; }
-  .types { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:14px; margin-top:16px; }
-  .types div { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:18px; }
-  footer { margin-top:64px; color:var(--muted); font-size:.85rem; }
-  footer a { color:var(--accent); }
+  body { background:var(--bg); color:var(--ink); font:16px/1.55 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
+  a { color:var(--accent); }
+  .wrap { max-width:1080px; margin:0 auto; padding:0 16px; }
+
+  /* hero */
+  .hero { background:var(--hero); color:var(--hero-ink); padding:64px 0 48px; }
+  .hero .kicker { text-transform:uppercase; letter-spacing:.14em; font-size:.75rem; opacity:.7; }
+  .hero h1 { font-size:clamp(2.4rem,7vw,4.4rem); line-height:1.02; letter-spacing:-.03em; margin:10px 0 14px; }
+  .hero h1 em { font-style:normal; color:#E58EA3; }
+  .hero p.lede { max-width:620px; opacity:.85; }
+  .tiles { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px; margin-top:36px; }
+  .tile { background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.12); border-radius:14px; padding:16px; }
+  .tile b { display:block; font-size:2rem; line-height:1.1; letter-spacing:-.02em; }
+  .tile span { font-size:.85rem; opacity:.8; }
+
+  nav.jump { position:sticky; top:0; z-index:5; background:color-mix(in srgb, var(--bg) 88%, transparent);
+    backdrop-filter:blur(10px); border-bottom:1px solid var(--line); }
+  nav.jump .wrap { display:flex; gap:6px; overflow-x:auto; padding:10px 16px; }
+  nav.jump a { white-space:nowrap; text-decoration:none; color:var(--ink2); font-size:.9rem; padding:5px 12px; border-radius:999px; }
+  nav.jump a:hover { background:var(--soft); color:var(--accent); }
+
+  section { padding:64px 0 8px; scroll-margin-top:24px; }
+  h2 { font-size:clamp(1.6rem,4vw,2.2rem); letter-spacing:-.02em; }
+  .sub { color:var(--muted); margin:4px 0 22px; max-width:640px; }
+  h3 { font-size:1.05rem; margin-bottom:4px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:20px; }
+  .grid2 { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,440px),1fr)); gap:16px; }
+  .note { color:var(--muted); font-size:.82rem; margin-top:8px; }
+
+  /* mood picker */
+  .moods { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:18px; }
+  .moods button { font:inherit; font-size:.92rem; cursor:pointer; border:1px solid var(--line); background:var(--card);
+    color:var(--ink); padding:8px 14px; border-radius:999px; }
+  .moods button[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:var(--bg); }
+  .pick { display:grid; grid-template-columns:150px 1fr; gap:20px; align-items:center; }
+  .pick img { width:150px; aspect-ratio:2/3; object-fit:cover; border-radius:12px; background:var(--soft); }
+  .pick img.sq { aspect-ratio:1; } .pick img.wide { aspect-ratio:16/9; }
+  .pick .type { text-transform:uppercase; letter-spacing:.1em; font-size:.72rem; color:var(--accent); }
+  .pick h3 { font-size:1.5rem; line-height:1.2; margin:4px 0; }
+  .pick .why { color:var(--muted); font-size:.9rem; margin-top:10px; font-style:italic; }
+  .btn { font:inherit; cursor:pointer; border:0; background:var(--ink); color:var(--bg); padding:9px 16px; border-radius:999px; margin-top:14px; margin-right:6px; text-decoration:none; display:inline-block; font-size:.9rem; }
+  .btn.ghost { background:transparent; color:var(--ink); border:1px solid var(--line); }
+  @media (max-width:520px) { .pick { grid-template-columns:96px 1fr; gap:14px; } .pick img { width:96px; } .pick h3 { font-size:1.15rem; } }
+
+  /* charts */
+  .bars { display:grid; gap:10px; }
+  .hbar { display:grid; grid-template-columns:minmax(90px,140px) 1fr 44px; gap:10px; align-items:center; font-size:.88rem; }
+  .hbar .track { height:12px; }
+  .hbar .fill { height:100%; background:var(--bar); border-radius:0 4px 4px 0; min-width:2px; }
+  .hbar .v { color:var(--ink2); font-variant-numeric:tabular-nums; text-align:right; }
+  .clock { display:flex; align-items:flex-end; gap:2px; height:150px; border-bottom:1px solid var(--line); position:relative; }
+  .clock div { flex:1; background:var(--bar); border-radius:4px 4px 0 0; min-height:0; position:relative; }
+  .clock div:hover, .hbar:hover .fill, .col:hover .fillv { filter:brightness(1.15); }
+  .axis { display:flex; justify-content:space-between; color:var(--muted); font-size:.75rem; margin-top:4px; }
+  .cols { display:flex; align-items:flex-end; gap:12px; height:140px; border-bottom:1px solid var(--line); }
+  .col { flex:1; display:flex; flex-direction:column; justify-content:flex-end; height:100%; text-align:center; font-size:.8rem; color:var(--ink2); }
+  .fillv { background:var(--bar); border-radius:4px 4px 0 0; margin:4px auto 0; width:min(100%,56px); }
+  .collabels { display:flex; gap:12px; } .collabels span { flex:1; text-align:center; color:var(--muted); font-size:.78rem; margin-top:4px; }
+  #tip { position:fixed; pointer-events:none; background:var(--ink); color:var(--bg); font-size:.8rem; padding:6px 10px; border-radius:8px; opacity:0; transition:opacity .1s; z-index:20; max-width:240px; }
+
+  .chips { display:flex; flex-wrap:wrap; gap:8px; }
+  .chip { display:flex; align-items:center; gap:8px; background:var(--card); border:1px solid var(--line); border-radius:999px; padding:4px 12px 4px 4px; font-size:.9rem; }
+  .chip img { width:30px; height:30px; border-radius:50%; object-fit:cover; }
+  .climb { display:grid; grid-template-columns:1fr auto; gap:6px 12px; font-size:.92rem; }
+  .climb .r { color:var(--ink2); font-variant-numeric:tabular-nums; }
+  .climb .r b { color:var(--accent); }
+  table { width:100%; border-collapse:collapse; font-size:.9rem; }
+  th, td { text-align:left; padding:9px 8px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { color:var(--muted); font-weight:600; font-size:.78rem; text-transform:uppercase; letter-spacing:.06em; }
+  td.n { font-variant-numeric:tabular-nums; }
+  .scroll { overflow-x:auto; }
+  .fact { font-size:.95rem; padding:12px 0; border-bottom:1px solid var(--line); }
+  .fact:last-child { border:0; }
+  .fact b { color:var(--accent); }
+
+  /* type map */
+  .types { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr)); gap:16px; }
+  .type h3 { font-size:1.3rem; }
+  .type .from { color:var(--accent); font-size:.8rem; text-transform:uppercase; letter-spacing:.06em; margin:2px 0 10px; }
+  .thumbs { display:flex; gap:6px; margin-top:14px; }
+  .thumbs img { width:52px; height:72px; object-fit:cover; border-radius:6px; background:var(--soft); }
+  .thumbs img.sq { height:52px; }
+
+  /* catalog */
+  .filters { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:14px; }
+  .filters input { flex:1 1 220px; font:inherit; padding:9px 14px; border:1px solid var(--line); border-radius:999px; background:var(--card); color:var(--ink); }
+  .filters button { font:inherit; font-size:.88rem; cursor:pointer; border:1px solid var(--line); background:var(--card); color:var(--ink); padding:8px 14px; border-radius:999px; }
+  .filters button[aria-pressed="true"] { background:var(--ink); color:var(--bg); border-color:var(--ink); }
+  .count { color:var(--muted); font-size:.85rem; margin-bottom:8px; }
+  .catalog { max-height:560px; overflow:auto; }
+  .tag { font-size:.72rem; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); }
+
+  footer { margin:72px 0 48px; padding-top:24px; border-top:1px solid var(--line); color:var(--muted); font-size:.88rem; }
+  .theme-toggle { position:fixed; right:16px; bottom:16px; z-index:10; font:inherit; font-size:.85rem; cursor:pointer; border:1px solid var(--line); background:var(--card); color:var(--ink); padding:8px 12px; border-radius:999px; }
 </style>
 </head>
 <body>
-<main>
-  <header>
-    <h1>Favorites</h1>
-    <p>Things I love enough to put on the internet. Data from <a href="https://suhanitiwari.com/home/favorites" style="color:var(--accent)">suhanitiwari.com</a>.</p>
-    <nav><a href="#listen">Listen</a><a href="#watch">Watch</a><a href="#inspiration">Inspiration</a><a href="#read">Read</a><a href="#type">My type</a></nav>
-  </header>
-  <section id="listen"></section>
-  <section id="watch"></section>
-  <section id="inspiration"></section>
-  <section id="read"></section>
-  <section id="type"></section>
-  <footer>Rebuilt from <code>data/*.json</code>. Refresh with <code>python3 scripts/scrape.py</code>. · <a href="https://github.com/suhxnitiwari/favorites">Source</a></footer>
+<header class="hero">
+  <div class="wrap">
+    <p class="kicker">suhanitiwari.com / favorites, decoded</p>
+    <h1>My favorites,<br><em>run through the numbers.</em></h1>
+    <p class="lede">My website shows what I love. This page shows what it says about me: the stats, the patterns, and a picker for whatever mood I'm in.</p>
+    <div class="tiles" id="tiles"></div>
+  </div>
+</header>
+<nav class="jump" aria-label="Sections"><div class="wrap">
+  <a href="#mood">Mood picker</a><a href="#music">Music, decoded</a><a href="#screen">Screen & shelf</a>
+  <a href="#type">The pattern</a><a href="#everything">Everything</a><a href="#data">Data</a>
+</div></nav>
+
+<main class="wrap">
+  <section id="mood">
+    <h2>What are we in the mood for?</h2>
+    <p class="sub">Pick a mood and I'll hand you one of my favorites for it. Every mood comes from how I describe these on my website.</p>
+    <div class="moods" id="moods" role="group" aria-label="Moods"></div>
+    <div class="card" id="pick" aria-live="polite"></div>
+  </section>
+
+  <section id="music">
+    <h2>Music, decoded</h2>
+    <p class="sub" id="music-sub"></p>
+    <div class="grid2">
+      <div class="card"><h3>Ride-or-die artists</h3><p class="note" style="margin:0 0 12px">Top 15 in the last 4 weeks, 6 months <em>and</em> all time.</p><div class="chips" id="loyal"></div></div>
+      <div class="card"><h3>Climbing right now</h3><p class="note" style="margin:0 0 12px">All-time rank → rank this month.</p><div class="climb" id="climb"></div></div>
+      <div class="card"><h3>When I press play</h3><p class="note" style="margin:0 0 12px" id="clock-note"></p>
+        <div class="clock" id="clock" role="img"></div><div class="axis"><span>12 AM</span><span>6 AM</span><span>12 PM</span><span>6 PM</span><span>11 PM</span></div></div>
+      <div class="card"><h3>Most-credited artists</h3><p class="note" style="margin:0 0 12px">Tracks in my all-time top 50 each artist appears on.</p><div class="bars" id="credits"></div></div>
+    </div>
+    <div class="card" style="margin-top:16px"><h3>How my taste shifts over time</h3><p class="note" style="margin:0 0 12px">Each column is my top 50 tracks for that window.</p>
+      <div class="scroll"><table id="terms"></table></div></div>
+    <div class="grid2" style="margin-top:16px">
+      <div class="card" id="extremes"></div>
+      <div class="card"><h3>Top 50 by release decade</h3><p class="note" style="margin:0 0 12px" id="age-note"></p><div class="cols" id="decades"></div><div class="collabels" id="decade-labels"></div></div>
+    </div>
+  </section>
+
+  <section id="screen">
+    <h2>Screen & shelf</h2>
+    <p class="sub">The shows, books and talks, counted.</p>
+    <div class="grid2">
+      <div class="card"><h3>Shows & movies by decade</h3><p class="note" style="margin:0 0 12px">By the year each started.</p><div class="cols" id="wdecades"></div><div class="collabels" id="wdecade-labels"></div></div>
+      <div class="card"><h3>TED talks by topic</h3><p class="note" style="margin:0 0 12px" id="talk-note"></p><div class="bars" id="topics"></div></div>
+      <div class="card" id="shelf-facts"></div>
+      <div class="card"><h3>Bookshelf split</h3><p class="note" style="margin:0 0 12px">How things work vs. how people work vs. how I want to live.</p><div class="bars" id="books"></div></div>
+    </div>
+  </section>
+
+  <section id="type">
+    <h2 id="type-title"></h2>
+    <p class="sub" id="type-sub"></p>
+    <div class="types" id="types"></div>
+  </section>
+
+  <section id="everything">
+    <h2>Everything, in one list</h2>
+    <p class="sub">Every show, movie, book, talk and top song, searchable in one place.</p>
+    <div class="filters">
+      <input type="search" id="q" placeholder="Search titles, authors, artists…" aria-label="Search favorites">
+      <div id="types-filter" style="display:flex;gap:6px;flex-wrap:wrap"></div>
+    </div>
+    <p class="count" id="count"></p>
+    <div class="card catalog" style="padding:0 12px"><table><thead><tr><th>Title</th><th>By / year</th><th>Shelf</th></tr></thead><tbody id="rows"></tbody></table></div>
+  </section>
+
+  <section id="data">
+    <h2>Take the data</h2>
+    <p class="sub">All of it is open. Use it, remix it, judge my taste.</p>
+    <div class="grid2">
+      <div class="card"><h3>Spreadsheets</h3><p class="note">
+        <a href="exports/all-favorites.csv" download>all-favorites.csv</a>: everything in one table<br>
+        <a href="exports/top-tracks-by-term.csv" download>top-tracks-by-term.csv</a>: 150 Spotify ranks across three time windows</p></div>
+      <div class="card"><h3>JSON</h3><p class="note">
+        <a href="data/insights.json">insights.json</a> · <a href="data/moods.json">moods.json</a> · <a href="data/watch.json">watch.json</a> ·
+        <a href="data/read.json">read.json</a> · <a href="data/inspiration.json">inspiration.json</a> · <a href="https://github.com/suhxnitiwari/favorites/tree/main/data/music">music/</a></p></div>
+    </div>
+  </section>
+
+  <footer>Built from my <a href="https://suhanitiwari.com/home/favorites">favorites page</a> by <code>scripts/scrape.py</code> and <code>scripts/analyze.py</code>.
+    Read the <a href="https://github.com/suhxnitiwari/favorites/blob/main/INSIGHTS.md">written insights</a> or the <a href="https://github.com/suhxnitiwari/favorites">source</a>. © 2026 Suhani Tiwari.</footer>
 </main>
+<div id="tip" role="tooltip"></div>
+<button class="theme-toggle" id="theme" type="button">◐ Theme</button>
+
 <script>
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const $ = id => document.getElementById(id);
 const get = p => fetch(p).then(r => r.json());
-const claim = c => c ? `<p class="claim"><strong>${esc(c.headline)}</strong>${esc(c.body)}</p>` : '';
-const shelf = s => `${s.theme ? `<p class="theme">${esc(s.theme)}</p>` : ''}<h3>${esc(s.title)}</h3>
-  ${s.caption ? `<p class="cap">${esc(s.caption)}</p>` : ''}
-  <div class="rail">${s.items.map(i => `<div class="item">${i.image ? `<img loading="lazy" src="${esc(i.image)}" alt="">` : ''}
-  <p class="t">${esc(i.title)}</p><p class="m">${esc(i.meta)}</p></div>`).join('')}</div>`;
-const row = (img, title, sub, url, cls = '') => `<div class="row ${cls}"><img loading="lazy" src="${esc(img)}" alt="">
-  <div><a href="${esc(url)}" target="_blank" rel="noopener"><p class="t" style="margin:0">${esc(title)}</p></a><p class="m">${esc(sub)}</p></div></div>`;
+const hourLabel = h => `${h % 12 || 12} ${h < 12 ? 'AM' : 'PM'}`;
+
+// theme toggle (per-viewer convenience only)
+(() => {
+  const root = document.documentElement;
+  try { const t = localStorage.getItem('theme'); if (t) root.dataset.theme = t; } catch {}
+  $('theme').onclick = () => {
+    const dark = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    root.dataset.theme = dark ? 'light' : 'dark';
+    try { localStorage.setItem('theme', root.dataset.theme); } catch {}
+  };
+})();
+
+// one shared tooltip for every chart mark carrying data-tip
+const tip = $('tip');
+document.addEventListener('pointermove', e => {
+  const el = e.target.closest('[data-tip]');
+  if (!el) { tip.style.opacity = 0; return; }
+  tip.textContent = el.dataset.tip;
+  tip.style.opacity = 1;
+  tip.style.left = Math.min(e.clientX + 14, innerWidth - tip.offsetWidth - 8) + 'px';
+  tip.style.top = (e.clientY + 14) + 'px';
+});
+
+const hbars = (rows, max = Math.max(...rows.map(r => r.v)), fmt = v => v) => rows.map(r =>
+  `<div class="hbar" data-tip="${esc(r.tip ?? `${r.k}: ${fmt(r.v)}`)}"><span>${esc(r.k)}</span>
+   <div class="track"><div class="fill" style="width:${100 * r.v / max}%"></div></div><span class="v">${esc(fmt(r.v))}</span></div>`).join('');
+const cols = (el, labels, obj, unit) => {
+  const max = Math.max(...Object.values(obj));
+  $(el).innerHTML = Object.entries(obj).map(([k, v]) =>
+    `<div class="col" data-tip="${esc(`${k}: ${v} ${unit}`)}">${v}<div class="fillv" style="height:${100 * v / max - 14}%"></div></div>`).join('');
+  $(labels).innerHTML = Object.keys(obj).map(k => `<span>${esc(k)}</span>`).join('');
+};
 
 (async () => {
-  const [listen, tracks, artists, genres, watch, talks, read, type] = await Promise.all([
-    'data/listen.json', 'data/music/top-tracks.json', 'data/music/top-artists.json', 'data/music/top-genres.json',
-    'data/watch.json', 'data/inspiration.json', 'data/read.json', 'data/my-type.json'].map(get));
+  const [ins, moods, type, lab, artists, watch, read, talks, tracks] = await Promise.all(
+    ['data/insights.json', 'data/moods.json', 'data/my-type.json', 'data/music/music-lab.json', 'data/music/top-artists.json',
+     'data/watch.json', 'data/read.json', 'data/inspiration.json', 'data/music/top-tracks.json'].map(get));
+  const m = ins.music, s = ins.shelves, T = m.terms;
+  const clock = m.listening_clock, peak = +Object.keys(clock).reduce((a, b) => clock[b] > clock[a] ? b : a);
 
-  document.getElementById('listen').innerHTML = `<h2>Listen</h2>${claim(listen.claim)}
-    <h3>Top genres</h3><div class="genres">${genres.map(g => `<div><p class="t">${esc(g.name)} <span class="m">${g.percent}%</span></p>
-      <div class="bar" style="width:${Math.min(100, g.percent * 2.5)}%"></div><p class="m">${esc(g.artists.slice(0, 5).join(', '))}</p></div>`).join('')}</div>
-    <h3>Top artists</h3><div class="list">${artists.map(a => row(a.image, `${a.position}. ${a.name}`, '', a.spotifyUrl, 'artist')).join('')}</div>
-    <h3>Top tracks</h3><div class="list">${tracks.slice(0, 24).map(t => row(t.albumArt, `${t.position}. ${t.name}`, t.artist, t.spotifyUrl)).join('')}</div>`;
+  // hero tiles
+  $('tiles').innerHTML = [
+    [`${T.long_term.ariana_share}%`, 'of my all-time top 50 songs feature Ariana Grande'],
+    [`${s.desi_share}%`, 'of the shows & movies I love are desi'],
+    [hourLabel(peak), 'my peak listening hour lately'],
+    [`${m.avg_song_age_years} yrs`, 'average age of my favorite songs'],
+    [s.book_count, 'books I keep recommending'],
+    [s.talk_count, 'TED talks I rewatch for comfort'],
+  ].map(([b, t]) => `<div class="tile"><b>${esc(b)}</b><span>${esc(t)}</span></div>`).join('');
 
-  document.getElementById('watch').innerHTML = `<h2>Watch</h2>${claim(watch.claim)}${watch.shelves.map(shelf).join('')}`;
+  // mood picker
+  let current = 0, lastPick = -1;
+  const showPick = () => {
+    const mood = moods[current];
+    let i; do { i = Math.floor(Math.random() * mood.picks.length); } while (mood.picks.length > 1 && i === lastPick);
+    lastPick = i;
+    const p = mood.picks[i];
+    const shape = p.type === 'song' ? 'sq' : p.type === 'talk' ? 'wide' : '';
+    const label = { watch: 'Watch', read: 'Read', talk: 'TED talk', song: 'Listen' }[p.type];
+    const action = p.link ? `<a class="btn" href="${esc(p.link)}" target="_blank" rel="noopener">${p.type === 'song' ? 'Play on Spotify' : 'Watch on YouTube'} ↗</a>` : '';
+    $('pick').innerHTML = `<div class="pick"><img class="${shape}" src="${esc(p.image)}" alt="">
+      <div><p class="type">${label}</p><h3>${esc(p.title)}</h3><p style="color:var(--ink2)">${esc(p.by)}</p>
+      <p class="why">“${esc(mood.why)}”</p>
+      ${action}<button class="btn ghost" type="button" id="again">Something else ↻</button>
+      <p class="note">${mood.picks.length} picks for this mood</p></div></div>`;
+    $('again').onclick = showPick;
+  };
+  $('moods').innerHTML = moods.map((x, i) => `<button type="button" data-i="${i}" aria-pressed="${i === 0}">${esc(x.mood)}</button>`).join('');
+  $('moods').onclick = e => {
+    const b = e.target.closest('button'); if (!b) return;
+    current = +b.dataset.i; lastPick = -1;
+    $('moods').querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x === b));
+    showPick();
+  };
+  showPick();
 
-  document.getElementById('inspiration').innerHTML = `<h2>Inspiration</h2><p class="claim">${esc(talks.tagline)}</p>
-    ${Object.entries(talks.why_i_watch).map(([topic, why]) => `<p class="theme">${esc(topic)}</p><p class="cap">${esc(why)}</p>
-    <div class="rail wide">${talks.talks.filter(t => t.topic === topic).map(t => `<div class="item"><a href="${esc(t.youtube)}" target="_blank" rel="noopener">
-      <img loading="lazy" src="${esc(t.image)}" alt=""><p class="t">${esc(t.title)}</p><p class="m">${esc(t.speaker)}</p></a></div>`).join('')}</div>`).join('')}`;
+  // music
+  $('music-sub').textContent = `Spotify says I listen to a lot of pop. The rankings say it's mostly Ariana Grande, with a growing desi streak (${T.long_term.desi_share}% of my all-time top 50 → ${T.short_term.desi_share}% this month).`;
+  const photo = Object.fromEntries([...lab.topArtists.long_term, ...lab.topArtists.short_term].map(a => [a.name, a.image]));
+  $('loyal').innerHTML = m.ride_or_die.map(n => `<span class="chip"><img src="${esc(photo[n])}" alt="">${esc(n)}</span>`).join('');
+  $('climb').innerHTML = m.climbers.map(c => `<span>${esc(c.name)}</span><span class="r">#${c.all_time > 50 ? '50+' : c.all_time} → <b>#${c.now}</b></span>`).join('')
+    + (m.fading.length ? `<span class="note" style="grid-column:1/-1">Taking a break from: ${esc(m.fading.join(', '))}</span>` : '');
+  const cmax = Math.max(...Object.values(clock));
+  $('clock').innerHTML = Object.entries(clock).map(([h, v]) =>
+    `<div style="height:${100 * v / cmax}%" data-tip="${hourLabel(+h)}: ${v} plays"></div>`).join('');
+  $('clock').setAttribute('aria-label', `Plays by hour, peaking at ${hourLabel(peak)}`);
+  $('clock-note').textContent = `My last ${m.recent_plays} plays (${m.recent_minutes} minutes, ${m.recent_unique_artists} artists) by hour, Austin time.`;
+  $('credits').innerHTML = hbars(m.most_credited.slice(0, 6).map(a => ({ k: a.name, v: a.tracks, tip: `${a.name}: on ${a.tracks} of my top 50` })));
 
-  document.getElementById('read').innerHTML = `<h2>Read</h2>${claim(read.claim)}${read.shelves.map(shelf).join('')}`;
+  const rows = [
+    ['#1 track', t => `<a href="${esc(t.number_one.url)}" target="_blank" rel="noopener">${esc(t.number_one.track)}</a><br><span class="tag">${esc(t.number_one.artist)}</span>`],
+    ['Ariana Grande songs', t => `${t.ariana_share}%`], ['Desi songs', t => `${t.desi_share}%`],
+    ['Explicit', t => `${t.explicit_share}%`], ['Median release year', t => t.median_release_year],
+    ['Average length', t => `${Math.floor(t.avg_length / 60)}:${String(t.avg_length % 60).padStart(2, '0')}`],
+  ];
+  const keys = ['short_term', 'medium_term', 'long_term'];
+  $('terms').innerHTML = `<thead><tr><th></th>${keys.map(k => `<th>${esc(T[k].label)}</th>`).join('')}</tr></thead><tbody>`
+    + rows.map(([label, f]) => `<tr><td>${label}</td>${keys.map(k => `<td class="n">${f(T[k])}</td>`).join('')}</tr>`).join('') + '</tbody>';
 
-  document.getElementById('type').innerHTML = `<h2>${esc(type.headline)}</h2><p class="claim">${esc(type.subhead)}</p>
-    <div class="types">${type.themes.map(t => `<div><h3 style="margin:0">${esc(t.name)}</h3><p class="tag">${esc(t.from)}</p><p style="margin-top:8px">${esc(t.why)}</p></div>`).join('')}</div>`;
+  const song = (label, x) => `<div class="fact">${label}: <b><a href="${esc(x.url)}" target="_blank" rel="noopener" style="color:inherit">${esc(x.track)}</a></b> by ${esc(x.artist)} (${x.year}, ${x.minutes} min)</div>`;
+  $('extremes').innerHTML = `<h3>Extremes</h3>${song('Oldest favorite', m.oldest_song)}${song('Longest', m.longest_song)}${song('Shortest', m.shortest_song)}`;
+  $('age-note').textContent = `My favorite songs are ${m.avg_song_age_years} years old on average.`;
+  cols('decades', 'decade-labels', m.decades_all_time, 'songs');
+
+  // screen & shelf
+  cols('wdecades', 'wdecade-labels', s.watch_decades, 'titles');
+  $('talk-note').textContent = `${s.talk_count} talks. Learning and Ideas & Brands tie for the lead.`;
+  $('topics').innerHTML = hbars(Object.entries(s.talks_by_topic).sort((a, b) => b[1] - a[1]).map(([k, v]) => ({ k, v, tip: `${k}: ${v} talks` })));
+  $('books').innerHTML = hbars(Object.entries(s.books_by_shelf).map(([k, v]) => ({ k, v, tip: `${k}: ${v} books` })));
+  $('shelf-facts').innerHTML = `<h3>Patterns</h3>
+    <div class="fact"><b>${s.desi_share}%</b> of my ${s.watch_count} shows & movies are desi: Bollywood, Indian series, or desi stand-up.</div>
+    <div class="fact">Oldest thing I still rewatch: <b>${esc(s.oldest_watch)}</b>.</div>
+    <div class="fact">Authors I went back for a second book: <b>${esc(s.repeat_authors.join(', '))}</b>.</div>
+    <div class="fact">Speakers I watched twice: <b>${esc(s.repeat_speakers.join(', '))}</b>.</div>`;
+
+  // the pattern: each theme with real examples from every medium
+  const byTitle = {};
+  [...watch.shelves, ...read.shelves].forEach(sh => sh.items.forEach(i => byTitle[i.title] = i.image));
+  talks.talks.forEach(t => byTitle[t.title] = t.image);
+  const examples = {
+    Understanding: ['Jane the Virgin', 'Jab We Met', 'Influence', 'You Aren’t at the Mercy of Your Emotions: Your Brain Creates Them'],
+    Making: ['Creativity, Inc.', 'Shoe Dog', 'Inspired', 'Your Elusive Creative Genius'],
+    Feeling: ['Friends', 'Yeh Jawaani Hai Deewani', 'The Hating Game', 'What Makes a Good Life?'],
+  };
+  $('type-title').textContent = type.headline;
+  $('type-sub').textContent = type.subhead;
+  $('types').innerHTML = type.themes.map(t => `<div class="card type"><h3>${esc(t.name)}</h3><p class="from">${esc(t.from)}</p><p>${esc(t.why)}</p>
+    <div class="thumbs">${(examples[t.name] || []).filter(x => byTitle[x]).map(x => `<img src="${esc(byTitle[x])}" alt="${esc(x)}" title="${esc(x)}" data-tip="${esc(x)}">`).join('')}</div></div>`).join('');
+
+  // everything
+  const all = [
+    ...watch.shelves.flatMap(sh => sh.items.map(i => ({ type: 'Watch', title: i.title, by: i.meta, shelf: sh.title }))),
+    ...read.shelves.flatMap(sh => sh.items.map(i => ({ type: 'Read', title: i.title, by: i.meta, shelf: sh.title }))),
+    ...talks.talks.map(t => ({ type: 'Talk', title: t.title, by: t.speaker, shelf: t.topic, link: t.youtube })),
+    ...tracks.map(t => ({ type: 'Song', title: t.name, by: t.artist, shelf: `Top tracks #${t.position}`, link: t.spotifyUrl })),
+  ];
+  let filter = 'All';
+  $('types-filter').innerHTML = ['All', 'Watch', 'Read', 'Talk', 'Song'].map(t =>
+    `<button type="button" aria-pressed="${t === 'All'}" data-t="${t}">${t}</button>`).join('');
+  const render = () => {
+    const q = $('q').value.trim().toLowerCase();
+    const list = all.filter(r => (filter === 'All' || r.type === filter) && (!q || `${r.title} ${r.by} ${r.shelf}`.toLowerCase().includes(q)));
+    $('count').textContent = `${list.length} of ${all.length}`;
+    $('rows').innerHTML = list.map(r => `<tr><td>${r.link ? `<a href="${esc(r.link)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}<br><span class="tag">${r.type}</span></td>
+      <td>${esc(r.by)}</td><td style="color:var(--muted)">${esc(r.shelf)}</td></tr>`).join('');
+  };
+  $('types-filter').onclick = e => {
+    const b = e.target.closest('button'); if (!b) return;
+    filter = b.dataset.t;
+    $('types-filter').querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x === b));
+    render();
+  };
+  $('q').oninput = render;
+  render();
 })();
 </script>
 </body>

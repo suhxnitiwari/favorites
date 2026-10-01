@@ -1,0 +1,134 @@
+type,shelf,title,by_or_year,link
+watch,Shows I Rewatch on Repeat,Gossip Girl,2007–2012,
+watch,Shows I Rewatch on Repeat,Jane the Virgin,2014–2019,
+watch,Shows I Rewatch on Repeat,Modern Family,2009–2020,
+watch,Shows I Rewatch on Repeat,Friends,1994–2004,
+watch,Shows I Rewatch on Repeat,Desperate Housewives,2004–2012,
+watch,Romance Movies That I'm In Love With,Yeh Jawaani Hai Deewani,2013,
+watch,Romance Movies That I'm In Love With,How to Lose a Guy in 10 Days,2003,
+watch,Romance Movies That I'm In Love With,Jab We Met,2007,
+watch,Romance Movies That I'm In Love With,Voicemails for Isabelle,2026,
+watch,Romance Movies That I'm In Love With,Tu Jhoothi Main Makkaar,2023,
+watch,Romance Movies That I'm In Love With,Rocky Aur Rani Kii Prem Kahaani,2023,
+watch,Romance Movies That I'm In Love With,Student of the Year,2012,
+watch,The Desi Edit,Don't Be Shy,2026 film,
+watch,The Desi Edit,Dil Dosti Dilemma,2024,
+watch,The Desi Edit,Call Me Bae,2024,
+watch,The Desi Edit,Mind the Malhotras,2019,
+watch,The Desi Edit,Mismatched,2020–,
+watch,The Desi Edit,Masaba Masaba,2020–2022,
+watch,"Watched It, Loved It, Moved On",Gilmore Girls,2000–2007,
+watch,"Watched It, Loved It, Moved On",Ginny & Georgia,2021–,
+watch,"Watched It, Loved It, Moved On",Bridgerton,2020–,
+watch,"Watched It, Loved It, Moved On",56 Days,2026,
+watch,"Watched It, Loved It, Moved On",Off Campus,2026–,
+watch,Comedy That Never Misses,Zakir Khan: Papa Yaar,Stand-up special,
+watch,Comedy That Never Misses,Amit Tandon: Family Tandoncies,Stand-up special,
+watch,Comedy That Never Misses,Hasan Minhaj: Homecoming King,Stand-up special,
+watch,Comedy That Never Misses,Ladies Up,Stand-up series,
+watch,Comedy That Never Misses,The Great Indian Kapil Show,2024–,
+read,Books Behind the Business,Onward: How Starbucks Fought for Its Life Without Losing Its Soul,Howard Schultz,
+read,Books Behind the Business,The Design of Everyday Things,Don Norman,
+read,Books Behind the Business,Inspired,Marty Cagan,
+read,Books Behind the Business,Creative Confidence,Tom Kelley & David Kelley,
+read,Books Behind the Business,The Innovator's Dilemma,Clayton Christensen,
+read,Books Behind the Business,Competing Against Luck,Clayton Christensen,
+read,Books Behind the Business,Shoe Dog,Phil Knight,
+read,Books Behind the Business,"Creativity, Inc.",Ed Catmull,
+read,Books Behind the Business,Alchemy,Rory Sutherland,
+read,Books Behind the Business,The Choice Factory,Richard Shotton,
+read,Books Behind the Business,Decoded,Phil Barden,
+read,Books Behind the Business,Influence,Robert Cialdini,
+read,Books I’ll Never Shut Up About,The Hating Game,Sally Thorne,
+read,Books I’ll Never Shut Up About,The Unhoneymooners,Christina Lauren,
+read,Books I’ll Never Shut Up About,People We Meet on Vacation,Emily Henry,
+read,Books I’ll Never Shut Up About,You Deserve Each Other,Sarah Hogle,
+read,Books I’ll Never Shut Up About,The Spanish Love Deception,Elena Armas,
+read,Books I’ll Never Shut Up About,By a Thread,Lucy Score,
+read,Books I’ll Never Shut Up About,The Devil You Know,Elizabeth O'Roark,
+read,Books I’ll Never Shut Up About,The Ex Talk,Rachel Lynn Solomon,
+read,Books I’ll Never Shut Up About,Funny Story,Emily Henry,
+read,Books I’ll Never Shut Up About,The American Roommate Experiment,Elena Armas,
+read,Books I’ll Never Shut Up About,The Worst Best Man,Mia Sosa,
+read,Books I’ll Never Shut Up About,The Love Hypothesis,Ali Hazelwood,
+read,Books That Actually Changed How I Live,Atomic Habits,James Clear,
+read,Books That Actually Changed How I Live,The Let Them Theory,Mel Robbins,
+read,Books That Actually Changed How I Live,How to Win Friends and Influence People,Dale Carnegie,
+read,Books That Actually Changed How I Live,Ikigai,Héctor García & Francesc Miralles,
+read,Books That Actually Changed How I Live,The 48 Laws of Power,Robert Greene,
+talk,Psychology,"Change Your Mindset, Change the Game","Alia Crum, TEDx",https://www.youtube.com/watch?v=0tqq66zwa7g
+talk,Psychology,You Aren’t at the Mercy of Your Emotions: Your Brain Creates Them,"Lisa Feldman Barrett, TED",https://www.youtube.com/watch?v=0gks6ceq4eQ
+talk,Learning,How to Make Learning as Addictive as Social Media,"Luis von Ahn, TED",https://www.youtube.com/watch?v=P6FORpg0KVo
+talk,Learning,Education Reimagined: Student-Led Learning,"Catlin Tucker, TEDx",https://www.youtube.com/watch?v=NTHBdIeV-8o
+talk,Learning,Creativity in the Classroom (in 5 Minutes or Less!),"Catherine Thimmesh, TEDx",https://www.youtube.com/watch?v=nASvIgSOCxw
+talk,Learning,How to Design a Library That Makes Kids Want to Read,"Michael Bierut, TED",https://www.youtube.com/watch?v=YsA_JTeHJ6A
+talk,Learning,Every Kid Needs a Champion,"Rita Pierson, TED",https://www.youtube.com/watch?v=SFnMTHhKdkw
+talk,Learning,The Child-Driven Education,"Sugata Mitra, TED",https://www.youtube.com/watch?v=nsKPvQCMATw
+talk,Learning,Do Schools Kill Creativity?,"Sir Ken Robinson, TED",https://www.youtube.com/watch?v=iG9CE55wbtY
+talk,Creativity,Your Elusive Creative Genius,"Elizabeth Gilbert, TED",https://www.youtube.com/watch?v=86x-u-tz0MA
+talk,Creativity,4 Lessons in Creativity,"Julie Burstein, TED",https://www.youtube.com/watch?v=sY0Pf_pfqCI
+talk,Creativity,Tales of Creativity and Play,"Tim Brown, TED",https://www.youtube.com/watch?v=RjwUn-aA0VY
+talk,Creativity,"Designers, Think Big!","Tim Brown, TED",https://www.youtube.com/watch?v=UAinLaT42xY
+talk,Creativity,"Success, Failure and the Drive to Keep Creating","Elizabeth Gilbert, TED",https://www.youtube.com/watch?v=_waBFUg_oT8
+talk,Becoming,The Power of Believing That You Can Improve,"Carol Dweck, TED",https://www.youtube.com/watch?v=_X0mgOOSpLU
+talk,Becoming,Grit: The Power of Passion and Perseverance,"Angela Lee Duckworth, TED",https://www.youtube.com/watch?v=H14bBuluwB8
+talk,Becoming,How Every Child Can Thrive by Five,"Molly Wright, TED",https://www.youtube.com/watch?v=aISXCw0Pi94
+talk,Life & People,What Makes a Good Life?,"Robert Waldinger, TED",https://www.youtube.com/watch?v=8KkKuTCFvzI
+talk,Life & People,There’s More to Life Than Being Happy,"Emily Esfahani Smith, TED",https://www.youtube.com/watch?v=y9Trdafp83U
+talk,Ideas & Brands,How Airbnb Designs for Trust,"Joe Gebbia, Airbnb co-founder, TED",https://www.youtube.com/watch?v=16cM-RFid9U
+talk,Ideas & Brands,How to Build the Future in Four Steps,"Jason Kilar, Hulu founding CEO, TEDx",https://www.youtube.com/watch?v=EMiJMod9vsk
+talk,Ideas & Brands,How to Connect While Apart,"Eric Yuan, Zoom founder, TED",https://www.youtube.com/watch?v=01qATwnoD_E
+talk,Ideas & Brands,"Choice, Happiness and Spaghetti Sauce","Malcolm Gladwell, TED",https://www.youtube.com/watch?v=iIiAAhUeR6Y
+talk,Ideas & Brands,How to Make Choosing Easier,"Sheena Iyengar, TED",https://www.youtube.com/watch?v=1pq5jnM1C-A
+talk,Ideas & Brands,How to Get Your Ideas to Spread,"Seth Godin, TED",https://www.youtube.com/watch?v=xBIVlM435Zg
+talk,Ideas & Brands,The Paradox of Choice,"Barry Schwartz, TED",https://www.youtube.com/watch?v=VO6XEQIsCoM
+song,Top tracks #1,stupid song,Olivia Rodrigo,https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ
+song,Top tracks #2,drop dead,Olivia Rodrigo,https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD
+song,Top tracks #3,like i do,Ariana Grande,https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU
+song,Top tracks #4,Babydoll,Dominic Fike,https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc
+song,Top tracks #5,warning signs (interlude),Ariana Grande,https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6
+song,Top tracks #6,7 rings,Ariana Grande,https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF
+song,Top tracks #7,Thinking Bout You,Ariana Grande,https://open.spotify.com/track/1UujO43qVZnWObydH4MLT5
+song,Top tracks #8,the cure,Olivia Rodrigo,https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H
+song,Top tracks #9,bad thing (bunny hop),Ariana Grande,https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi
+song,Top tracks #10,Break Free,Ariana Grande,https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4
+song,Top tracks #11,Work Bitch,Britney Spears,https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1
+song,Top tracks #12,NOBODY'S GIRL,Tate McRae,https://open.spotify.com/track/3B2ZpJeewPvhAkjXtTkdtJ
+song,Top tracks #13,positions,Ariana Grande,https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0
+song,Top tracks #14,my way,Olivia Rodrigo,https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf
+song,Top tracks #15,bloodline,Ariana Grande,https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX
+song,Top tracks #16,kiss me,Ariana Grande,https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw
+song,Top tracks #17,Prada,The Doorbeen,https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2
+song,Top tracks #18,GIRLS,The Kid LAROI,https://open.spotify.com/track/6WhwHYd38f4ZB2CefpDgLo
+song,Top tracks #19,Into You,Ariana Grande,https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe
+song,Top tracks #20,big feelings,Ariana Grande,https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4
+song,Top tracks #21,bad idea,Ariana Grande,https://open.spotify.com/track/7EQpvVujgytLVY8vKiDHAg
+song,Top tracks #22,Sapphire (feat. Arijit Singh) - Remix,Ed Sheeran,https://open.spotify.com/track/2f9mI9NbGhBpHWIAVcgNOs
+song,Top tracks #23,never get over me,Ariana Grande,https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY
+song,Top tracks #24,"nowhere, nobody",Ariana Grande,https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH
+song,Top tracks #25,Siren sounds (bonus),Tate McRae,https://open.spotify.com/track/6A18pcBX8QZGwI8EkR7aIP
+song,Top tracks #26,Dancing On My Own,Robyn,https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t
+song,Top tracks #27,Earrings,Malcolm Todd,https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ
+song,Top tracks #28,ghostin,Ariana Grande,https://open.spotify.com/track/4lD7gHKF1e8Y9stQuVezZB
+song,Top tracks #29,Kiss It Better,Rihanna,https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS
+song,Top tracks #30,just like magic,Ariana Grande,https://open.spotify.com/track/7Dx9Z6Aon1qPS2N0rHSWTe
+song,Top tracks #31,what’s wrong with me,Olivia Rodrigo,https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv
+song,Top tracks #32,Dil Nu,AP Dhillon,https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm
+song,Top tracks #33,nasty,Ariana Grande,https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO
+song,Top tracks #34,Why Try,Ariana Grande,https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW
+song,Top tracks #35,Just A Little Bit Of Your Heart,Ariana Grande,https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz
+song,Top tracks #36,in my head,Ariana Grande,https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw
+song,Top tracks #37,freak,Ariana Grande,https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K
+song,Top tracks #38,west side,Ariana Grande,https://open.spotify.com/track/1whfVLMKWqAX3uk97VXsNN
+song,Top tracks #39,past life,Ariana Grande,https://open.spotify.com/track/2MIpkAQVJqQIDf9k4YWoHR
+song,Top tracks #40,pov,Ariana Grande,https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33
+song,Top tracks #41,hate that i made you love me,Ariana Grande,https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB
+song,Top tracks #42,34+35,Ariana Grande,https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF
+song,Top tracks #43,petal,Ariana Grande,https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e
+song,Top tracks #44,oh well,Ariana Grande,https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx
+song,Top tracks #45,Touch It,Ariana Grande,https://open.spotify.com/track/6WikCGNUbXFmXoLre7vjeW
+song,Top tracks #46,motive (with Doja Cat),Ariana Grande,https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT
+song,Top tracks #47,Bed (feat. Ariana Grande),Nicki Minaj,https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv
+song,Top tracks #48,Hills,AP Dhillon,https://open.spotify.com/track/6SPLYHHBN0dKGaoD2Jcccs
+song,Top tracks #49,Hands To Myself,Selena Gomez,https://open.spotify.com/track/3CJvmtWw2bJsudbAC5uCQk
+song,Top tracks #50,goodnight n go,Ariana Grande,https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln

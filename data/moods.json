@@ -1,0 +1,593 @@
+[
+  {
+    "mood": "Couch-potato blob day",
+    "why": "For sad days, lazy days, and couch-potato blob days.",
+    "picks": [
+      {
+        "type": "watch",
+        "title": "Gossip Girl",
+        "by": "2007–2012",
+        "image": "images/posters/gossip-girl.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Jane the Virgin",
+        "by": "2014–2019",
+        "image": "images/posters/jane-the-virgin.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Modern Family",
+        "by": "2009–2020",
+        "image": "images/posters/modern-family.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Friends",
+        "by": "1994–2004",
+        "image": "images/posters/friends.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Desperate Housewives",
+        "by": "2004–2012",
+        "image": "images/posters/desperate-housewives.jpg"
+      }
+    ]
+  },
+  {
+    "mood": "Hopelessly romantic",
+    "why": "Feeling a little delusional and in need of a happy ending.",
+    "picks": [
+      {
+        "type": "watch",
+        "title": "Yeh Jawaani Hai Deewani",
+        "by": "2013",
+        "image": "images/posters/yeh-jawaani-hai-deewani.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "How to Lose a Guy in 10 Days",
+        "by": "2003",
+        "image": "images/posters/how-to-lose-a-guy-in-10-days.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Jab We Met",
+        "by": "2007",
+        "image": "images/posters/jab-we-met.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Voicemails for Isabelle",
+        "by": "2026",
+        "image": "images/posters/voicemails-for-isabelle.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Tu Jhoothi Main Makkaar",
+        "by": "2023",
+        "image": "images/posters/tu-jhoothi-main-makkaar.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Rocky Aur Rani Kii Prem Kahaani",
+        "by": "2023",
+        "image": "images/posters/rocky-aur-rani-kii-prem-kahaani.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Student of the Year",
+        "by": "2012",
+        "image": "images/posters/student-of-the-year.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The Hating Game",
+        "by": "Sally Thorne",
+        "image": "images/covers/the-hating-game.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The Unhoneymooners",
+        "by": "Christina Lauren",
+        "image": "images/covers/the-unhoneymooners.jpg"
+      },
+      {
+        "type": "read",
+        "title": "People We Meet on Vacation",
+        "by": "Emily Henry",
+        "image": "images/covers/people-we-meet-on-vacation.jpg"
+      },
+      {
+        "type": "read",
+        "title": "You Deserve Each Other",
+        "by": "Sarah Hogle",
+        "image": "images/covers/you-deserve-each-other.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The Spanish Love Deception",
+        "by": "Elena Armas",
+        "image": "images/covers/the-spanish-love-deception.jpg"
+      },
+      {
+        "type": "read",
+        "title": "By a Thread",
+        "by": "Lucy Score",
+        "image": "images/covers/by-a-thread.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The Devil You Know",
+        "by": "Elizabeth O'Roark",
+        "image": "images/covers/the-devil-you-know.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The Ex Talk",
+        "by": "Rachel Lynn Solomon",
+        "image": "images/covers/the-ex-talk.jpg"
+      },
+      {
+        "type": "read",
+        "title": "Funny Story",
+        "by": "Emily Henry",
+        "image": "images/covers/funny-story.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The American Roommate Experiment",
+        "by": "Elena Armas",
+        "image": "images/covers/the-american-roommate-experiment.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The Worst Best Man",
+        "by": "Mia Sosa",
+        "image": "images/covers/the-worst-best-man.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The Love Hypothesis",
+        "by": "Ali Hazelwood",
+        "image": "images/covers/the-love-hypothesis.jpg"
+      }
+    ]
+  },
+  {
+    "mood": "Need a laugh",
+    "why": "Comedy that never misses.",
+    "picks": [
+      {
+        "type": "watch",
+        "title": "Zakir Khan: Papa Yaar",
+        "by": "Stand-up special",
+        "image": "images/posters/papa-yaar.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Amit Tandon: Family Tandoncies",
+        "by": "Stand-up special",
+        "image": "images/posters/family-tandoncies.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Hasan Minhaj: Homecoming King",
+        "by": "Stand-up special",
+        "image": "images/posters/homecoming-king.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Ladies Up",
+        "by": "Stand-up series",
+        "image": "images/posters/ladies-up.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "The Great Indian Kapil Show",
+        "by": "2024–",
+        "image": "images/posters/great-indian-kapil-show.jpg"
+      }
+    ]
+  },
+  {
+    "mood": "Missing home",
+    "why": "Bollywood, desi series, and the Hindi & Punjabi songs that keep culture in the mix.",
+    "picks": [
+      {
+        "type": "watch",
+        "title": "Don't Be Shy",
+        "by": "2026 film",
+        "image": "images/posters/dont-be-shy.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Dil Dosti Dilemma",
+        "by": "2024",
+        "image": "images/posters/dil-dosti-dilemma.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Call Me Bae",
+        "by": "2024",
+        "image": "images/posters/call-me-bae.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Mind the Malhotras",
+        "by": "2019",
+        "image": "images/posters/mind-the-malhotras.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Mismatched",
+        "by": "2020–",
+        "image": "images/posters/mismatched.jpg"
+      },
+      {
+        "type": "watch",
+        "title": "Masaba Masaba",
+        "by": "2020–2022",
+        "image": "images/posters/masaba-masaba.jpg"
+      },
+      {
+        "type": "song",
+        "title": "Run Down The City - Monica",
+        "by": "Shashwat Sachdev, Reble",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730b787e18e693e344202486bf",
+        "link": "https://open.spotify.com/track/7dU0cwMHeo1ECqxSsjoh5j"
+      },
+      {
+        "type": "song",
+        "title": "Kinni Kinni",
+        "by": "Diljit Dosanjh, thiarajxtt",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cb2f9520171129a3df7a241a",
+        "link": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
+      },
+      {
+        "type": "song",
+        "title": "Shararat (From \"Dhurandhar\")",
+        "by": "Shashwat Sachdev, Madhubanti Bagchi",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730d4983835036172fddd93936",
+        "link": "https://open.spotify.com/track/0uvnGQnVe313EXePbRnZEH"
+      },
+      {
+        "type": "song",
+        "title": "Sadqay",
+        "by": "Aashir Wajahat, NAYEL",
+        "image": "https://i.scdn.co/image/ab67616d0000b273518e98ce0ef69f7ce0781157",
+        "link": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
+      }
+    ]
+  },
+  {
+    "mood": "Being a beginner feels hard",
+    "why": "The talks I go back to when being a beginner feels hard.",
+    "picks": [
+      {
+        "type": "talk",
+        "title": "The Power of Believing That You Can Improve",
+        "by": "Carol Dweck, TED",
+        "image": "images/videos/power-of-believing.jpg",
+        "link": "https://www.youtube.com/watch?v=_X0mgOOSpLU"
+      },
+      {
+        "type": "talk",
+        "title": "Grit: The Power of Passion and Perseverance",
+        "by": "Angela Lee Duckworth, TED",
+        "image": "images/videos/grit.jpg",
+        "link": "https://www.youtube.com/watch?v=H14bBuluwB8"
+      },
+      {
+        "type": "talk",
+        "title": "How Every Child Can Thrive by Five",
+        "by": "Molly Wright, TED",
+        "image": "images/videos/thrive-by-five.jpg",
+        "link": "https://www.youtube.com/watch?v=aISXCw0Pi94"
+      },
+      {
+        "type": "read",
+        "title": "Atomic Habits",
+        "by": "James Clear",
+        "image": "images/covers/atomic-habits.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The Let Them Theory",
+        "by": "Mel Robbins",
+        "image": "images/covers/the-let-them-theory.jpg"
+      },
+      {
+        "type": "read",
+        "title": "How to Win Friends and Influence People",
+        "by": "Dale Carnegie",
+        "image": "images/covers/how-to-win-friends-and-influence-people.jpg"
+      },
+      {
+        "type": "read",
+        "title": "Ikigai",
+        "by": "Héctor García & Francesc Miralles",
+        "image": "images/covers/ikigai.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The 48 Laws of Power",
+        "by": "Robert Greene",
+        "image": "images/covers/the-48-laws-of-power.jpg"
+      }
+    ]
+  },
+  {
+    "mood": "Want to make something",
+    "why": "From “wait, what if…” to something you can actually see.",
+    "picks": [
+      {
+        "type": "talk",
+        "title": "Your Elusive Creative Genius",
+        "by": "Elizabeth Gilbert, TED",
+        "image": "images/videos/elusive-creative-genius.jpg",
+        "link": "https://www.youtube.com/watch?v=86x-u-tz0MA"
+      },
+      {
+        "type": "talk",
+        "title": "4 Lessons in Creativity",
+        "by": "Julie Burstein, TED",
+        "image": "images/videos/lessons-in-creativity.jpg",
+        "link": "https://www.youtube.com/watch?v=sY0Pf_pfqCI"
+      },
+      {
+        "type": "talk",
+        "title": "Tales of Creativity and Play",
+        "by": "Tim Brown, TED",
+        "image": "images/videos/creativity-and-play.jpg",
+        "link": "https://www.youtube.com/watch?v=RjwUn-aA0VY"
+      },
+      {
+        "type": "talk",
+        "title": "Designers, Think Big!",
+        "by": "Tim Brown, TED",
+        "image": "images/videos/designers-think-big.jpg",
+        "link": "https://www.youtube.com/watch?v=UAinLaT42xY"
+      },
+      {
+        "type": "talk",
+        "title": "Success, Failure and the Drive to Keep Creating",
+        "by": "Elizabeth Gilbert, TED",
+        "image": "images/videos/drive-to-keep-creating.jpg",
+        "link": "https://www.youtube.com/watch?v=_waBFUg_oT8"
+      },
+      {
+        "type": "read",
+        "title": "Onward: How Starbucks Fought for Its Life Without Losing Its Soul",
+        "by": "Howard Schultz",
+        "image": "images/covers/onward.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The Design of Everyday Things",
+        "by": "Don Norman",
+        "image": "images/covers/the-design-of-everyday-things.jpg"
+      },
+      {
+        "type": "read",
+        "title": "Inspired",
+        "by": "Marty Cagan",
+        "image": "images/covers/inspired.jpg"
+      },
+      {
+        "type": "read",
+        "title": "Creative Confidence",
+        "by": "Tom Kelley & David Kelley",
+        "image": "images/covers/creative-confidence.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The Innovator's Dilemma",
+        "by": "Clayton Christensen",
+        "image": "images/covers/the-innovators-dilemma.jpg"
+      },
+      {
+        "type": "read",
+        "title": "Competing Against Luck",
+        "by": "Clayton Christensen",
+        "image": "images/covers/competing-against-luck.jpg"
+      },
+      {
+        "type": "read",
+        "title": "Shoe Dog",
+        "by": "Phil Knight",
+        "image": "images/covers/shoe-dog.jpg"
+      },
+      {
+        "type": "read",
+        "title": "Creativity, Inc.",
+        "by": "Ed Catmull",
+        "image": "images/covers/creativity-inc.jpg"
+      },
+      {
+        "type": "read",
+        "title": "Alchemy",
+        "by": "Rory Sutherland",
+        "image": "images/covers/alchemy.jpg"
+      },
+      {
+        "type": "read",
+        "title": "The Choice Factory",
+        "by": "Richard Shotton",
+        "image": "images/covers/the-choice-factory.jpg"
+      },
+      {
+        "type": "read",
+        "title": "Decoded",
+        "by": "Phil Barden",
+        "image": "images/covers/decoded.jpg"
+      },
+      {
+        "type": "read",
+        "title": "Influence",
+        "by": "Robert Cialdini",
+        "image": "images/covers/influence.jpg"
+      }
+    ]
+  },
+  {
+    "mood": "Why do people do that?",
+    "why": "One innocent question becomes a 45-minute investigation.",
+    "picks": [
+      {
+        "type": "talk",
+        "title": "Change Your Mindset, Change the Game",
+        "by": "Alia Crum, TEDx",
+        "image": "images/videos/change-your-mindset.jpg",
+        "link": "https://www.youtube.com/watch?v=0tqq66zwa7g"
+      },
+      {
+        "type": "talk",
+        "title": "You Aren’t at the Mercy of Your Emotions: Your Brain Creates Them",
+        "by": "Lisa Feldman Barrett, TED",
+        "image": "images/videos/your-brain-creates-emotions.jpg",
+        "link": "https://www.youtube.com/watch?v=0gks6ceq4eQ"
+      },
+      {
+        "type": "talk",
+        "title": "What Makes a Good Life?",
+        "by": "Robert Waldinger, TED",
+        "image": "images/videos/what-makes-a-good-life.jpg",
+        "link": "https://www.youtube.com/watch?v=8KkKuTCFvzI"
+      },
+      {
+        "type": "talk",
+        "title": "There’s More to Life Than Being Happy",
+        "by": "Emily Esfahani Smith, TED",
+        "image": "images/videos/more-to-life-than-being-happy.jpg",
+        "link": "https://www.youtube.com/watch?v=y9Trdafp83U"
+      },
+      {
+        "type": "talk",
+        "title": "How Airbnb Designs for Trust",
+        "by": "Joe Gebbia, Airbnb co-founder, TED",
+        "image": "images/videos/airbnb-designs-for-trust.jpg",
+        "link": "https://www.youtube.com/watch?v=16cM-RFid9U"
+      },
+      {
+        "type": "talk",
+        "title": "How to Build the Future in Four Steps",
+        "by": "Jason Kilar, Hulu founding CEO, TEDx",
+        "image": "images/videos/build-the-future.jpg",
+        "link": "https://www.youtube.com/watch?v=EMiJMod9vsk"
+      },
+      {
+        "type": "talk",
+        "title": "How to Connect While Apart",
+        "by": "Eric Yuan, Zoom founder, TED",
+        "image": "images/videos/connect-while-apart.jpg",
+        "link": "https://www.youtube.com/watch?v=01qATwnoD_E"
+      },
+      {
+        "type": "talk",
+        "title": "Choice, Happiness and Spaghetti Sauce",
+        "by": "Malcolm Gladwell, TED",
+        "image": "images/videos/spaghetti-sauce.jpg",
+        "link": "https://www.youtube.com/watch?v=iIiAAhUeR6Y"
+      },
+      {
+        "type": "talk",
+        "title": "How to Make Choosing Easier",
+        "by": "Sheena Iyengar, TED",
+        "image": "images/videos/choosing-easier.jpg",
+        "link": "https://www.youtube.com/watch?v=1pq5jnM1C-A"
+      },
+      {
+        "type": "talk",
+        "title": "How to Get Your Ideas to Spread",
+        "by": "Seth Godin, TED",
+        "image": "images/videos/ideas-to-spread.jpg",
+        "link": "https://www.youtube.com/watch?v=xBIVlM435Zg"
+      },
+      {
+        "type": "talk",
+        "title": "The Paradox of Choice",
+        "by": "Barry Schwartz, TED",
+        "image": "images/videos/paradox-of-choice.jpg",
+        "link": "https://www.youtube.com/watch?v=VO6XEQIsCoM"
+      }
+    ]
+  },
+  {
+    "mood": "Can't stop replaying",
+    "why": "The songs I'm stuck on this month.",
+    "picks": [
+      {
+        "type": "song",
+        "title": "warning signs (interlude)",
+        "by": "Ariana Grande",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "link": "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6"
+      },
+      {
+        "type": "song",
+        "title": "Sapphire (feat. Arijit Singh) - Remix",
+        "by": "Ed Sheeran, Arijit Singh",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737f86f3a0572c58220e834b6a",
+        "link": "https://open.spotify.com/track/2f9mI9NbGhBpHWIAVcgNOs"
+      },
+      {
+        "type": "song",
+        "title": "Prada",
+        "by": "The Doorbeen, Shreya Sharma",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c5177ca80f9e0e1ea52a86d5",
+        "link": "https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2"
+      },
+      {
+        "type": "song",
+        "title": "Dancing On My Own",
+        "by": "Robyn",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734689597708c1b0b3dcb9ecaf",
+        "link": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
+      },
+      {
+        "type": "song",
+        "title": "like i do",
+        "by": "Ariana Grande",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "link": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU"
+      },
+      {
+        "type": "song",
+        "title": "kiss me",
+        "by": "Ariana Grande",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "link": "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw"
+      },
+      {
+        "type": "song",
+        "title": "big feelings",
+        "by": "Ariana Grande",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "link": "https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4"
+      },
+      {
+        "type": "song",
+        "title": "bad thing (bunny hop)",
+        "by": "Ariana Grande",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "link": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi"
+      },
+      {
+        "type": "song",
+        "title": "never get over me",
+        "by": "Ariana Grande",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "link": "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY"
+      },
+      {
+        "type": "song",
+        "title": "oh well",
+        "by": "Ariana Grande",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "link": "https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx"
+      }
+    ]
+  }
+]
