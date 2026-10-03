@@ -1,20 +1,30 @@
-# Favorites
+# Favorites, Decoded
 
-My favorite shows, movies, books, TED talks and songs, run through the numbers.
+*My favorite shows, books, TED talks and songs, scraped, analyzed and charted to see what they say about me.*
 
-**→ [Favorites, Decoded](https://suhxnitiwari.github.io/favorites/)**
+**Live:** https://suhxnitiwari.github.io/favorites/
 
-## What's different from the website
+## What it is
 
-My [favorites page](https://suhanitiwari.com/home/favorites) shows what I love. This repo works out what that says about me:
-
-- **[Favorites, Decoded](https://suhxnitiwari.github.io/favorites/)**: a new page with stats my site doesn't show, plus a mood picker ("couch-potato blob day", "hopelessly romantic", "missing home"…) that hands you one of my favorites
-- **[INSIGHTS.md](INSIGHTS.md)**: the numbers written out. Ride-or-die artists, who's climbing my charts, how my taste shifts between the last 4 weeks, 6 months and all time, my peak listening hour, and patterns across shows, books and talks
-- **[exports/](exports)**: everything as spreadsheets
-- **One searchable list** of every show, movie, book, TED talk and top song
-- **Charts:** an album-art wall of my top 50 (tint it to see how much is Ariana), a square-per-song grid of each top 50, an artist rank race across 4 weeks / 6 months / all time, release years as stacked dots, one night of listening laid out as album covers, and every show & movie on a timeline
+My [favorites page](https://suhanitiwari.com/home/favorites) shows what I love. This repo works out what that says about me. It pulls everything from my site and my Spotify data, runs it through a small Python pipeline, and publishes the results as a page of charts, a mood picker, a written report and open CSVs.
 
 A few things the data says: **60%** of my all-time top 50 songs feature Ariana Grande, **57%** of my favorite shows & movies are desi, and I apparently do my best listening at **1 AM**.
+
+## How it's built
+
+- **A two-step data pipeline in standard-library Python**, no installs.
+  - `scripts/scrape.py` fetches my favorites page, parses each shelf with regular expressions, downloads posters and covers, and calls five Spotify endpoints on my site (top tracks, top artists, top genres, recently played, and a "music lab" snapshot across three time windows). It keeps listening history and drops account and device details.
+  - `scripts/analyze.py` computes the stats and writes `data/insights.json`, `data/moods.json`, the CSVs in `exports/` and [INSIGHTS.md](INSIGHTS.md).
+- **Real analysis, not just counts.** Ride-or-die artists are the ones in my top 15 across all three windows (4 weeks, 6 months, all time). Climbers are ranked by the jump from all-time rank to this month's rank, with unranked artists scored as #51. It also tracks fading favorites, desi and explicit share per window, median release year, average song age, most-credited artists, and a 24-hour listening clock converted to Central time.
+- **Hand-built SVG charts, no chart library.** An album-art wall of my top 50 (tint it to see how much is Ariana), a square-per-song waffle for each window, an artist rank race drawn as a bump chart with Bézier curves, release years as stacked dots, every show and movie on a timeline, and one night of listening laid out as album covers on a time axis, where each cover drops into the first lane it won't overlap.
+- **Mood picker.** Eight moods ("couch-potato blob day", "hopelessly romantic", "missing home"…), each built from a caption on my site, hand you a random favorite and never repeat the same pick twice in a row.
+- **One searchable list** of every show, movie, book, TED talk and top song, plus a shared tooltip for every chart mark and a light/dark toggle.
+
+## Design choices
+
+- Three colors carry the whole story: one for Ariana, one for desi picks, and a neutral for everyone else, reused across the charts so you learn them once.
+- Moods come from my own words: each one starts from a caption I'd already written for a shelf, like "for sad days" or "when being a beginner feels hard".
+- The data is open on purpose. Every number on the page traces back to a JSON file or CSV in this repo.
 
 ## What's inside
 
@@ -30,21 +40,28 @@ A few things the data says: **60%** of my all-time top 50 songs feature Ariana G
 | [`exports/top-tracks-by-term.csv`](exports/top-tracks-by-term.csv) | 150 Spotify ranks with release dates, lengths and links |
 | [`images/`](images) | Posters, book covers, talk thumbnails |
 
-## Refresh the data
+## Tech stack
+
+Python 3 (standard library), HTML, CSS, vanilla JavaScript, hand-written SVG, GitHub Pages.
+
+## Run it locally
+
+Refresh the data:
 
 ```bash
 python3 scripts/scrape.py && python3 scripts/analyze.py
 ```
 
-Standard library only, no installs. `scrape.py` re-reads the live site and Spotify endpoints, and `analyze.py` recomputes the stats, moods, CSVs and INSIGHTS.md.
-
-To preview locally:
+Preview the page:
 
 ```bash
 python3 -m http.server 8000
 ```
 
 ## The full list
+
+<details>
+<summary>Every show, movie, book and TED talk</summary>
 
 ### Shows I Rewatch on Repeat
 _For sad days, lazy days, and the days I feel like a hopeless couch-potato blob. These always make me a little happier._
@@ -155,5 +172,10 @@ _Atomic Habits made me trust systems, Let Them ended my overthinking, and Carneg
 - [How to Get Your Ideas to Spread](https://www.youtube.com/watch?v=xBIVlM435Zg): Seth Godin, TED
 - [The Paradox of Choice](https://www.youtube.com/watch?v=VO6XEQIsCoM): Barry Schwartz, TED
 
+</details>
+
 ---
+
 © 2026 Suhani Tiwari. All rights reserved. Posters, covers and thumbnails belong to their respective owners.
+
+Built by [Suhani Tiwari](https://suhanitiwari.com).
